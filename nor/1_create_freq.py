@@ -24,6 +24,8 @@ for filename in filenames:
         sentence = sentence.split(" ")
         for lx in sentence:
             if lx not in frequency:
+                if len(lx)==0:
+                    raise Exception("WRONG SENTENCE", sentence)
                 frequency[lx] = 1
             else:
                 frequency[lx] += 1

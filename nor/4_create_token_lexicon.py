@@ -36,13 +36,13 @@ for index, word in enumerate(words):
     else:
         lexicon = [str(word), "\t", str(i_codes[index]), str(o_codes[index]), str(n_codes[index]), str(c_codes[index]), SUR]
         lexicons.append(lexicon)
-        if i_codes[index] not in tokens:
+        if i_codes[index] is not '' and i_codes[index] not in tokens:
             tokens.append(i_codes[index])
-        if o_codes[index] not in tokens:
+        if o_codes[index] is not '' and o_codes[index] not in tokens:
             tokens.append(o_codes[index])
-        if n_codes[index] not in tokens:
+        if n_codes[index] is not '' and n_codes[index] not in tokens:
             tokens.append(n_codes[index])
-        if c_codes[index] not in tokens:
+        if c_codes[index] is not '' and c_codes[index] not in tokens:
             tokens.append(c_codes[index])
 
 f_tokens = open(os.path.join(root, "tokens.txt"), "w+")
