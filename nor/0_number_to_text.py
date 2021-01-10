@@ -34,8 +34,8 @@ def get_unvalid_from_lst(dir, save_dir):
                 temp = sentence.split("\t")
                 temp = temp[0] + "\t" + temp[1] + "\t" + temp[2]
                 sentence = sentence.split("\t")[3]
-                if "<unk>" in sentence:
-                    sentence = sentence.replace("<unk>", "")
+                # if "<unk>" in sentence:
+                #     sentence = sentence.replace("<unk>", "")
                 sentence = sentence.lower()
                 sentence = re.sub(rg, lambda x:read_number_and_normalize_text(x.group()).strip(), sentence)
                 sentence = " ".join(sentence.split())
