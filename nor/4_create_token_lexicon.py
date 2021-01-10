@@ -4,16 +4,27 @@ import os
 UNK = "*"
 SUR = "|"
 root = sys.argv[1]
-standard_dict = pd.read_csv(os.path.join(root, "standard.csv"))
 tokens = []
 lexicons = []
+words = []
+langs = []
+i_codes = []
+o_codes = []
+n_codes = []
+c_codes = []
 
-words = standard_dict["word"]
-langs = standard_dict["lang"]
-i_codes = standard_dict["i_code"]
-o_codes = standard_dict["o_code"]
-n_codes = standard_dict["n_code"]
-c_codes = standard_dict["c_code"]
+standard_dict = open(os.path.join(root, "standard.txt"))
+while True:
+    text_line = standard_dict.readline().replace("\n", "")
+    if text_line == "":
+        break
+    temps = text_line.split("\t")
+    words.append(temps[3])
+    langs.append(temps[2])
+    i_codes.append(temps[4])
+    o_codes.append(temps[5])
+    n_codes.append(temps[6])
+    c_codes.append(temps[7])
 
 tokens.append(SUR)
 lexicons.append([UNK, "\t", UNK, SUR])
@@ -23,12 +34,7 @@ for index, word in enumerate(words):
     if langs[index] == "another":
         continue
     else:
-        lx = [str(word), "\t", str(i_codes[index]), str(o_codes[index]), str(n_codes[index]), str(c_codes[index]), SUR]
-        lexicon = []
-        for e in lx:
-            if str(e) == "nan":
-                continue
-            lexicon.append(e)
+        lexicon = [str(word), "\t", str(i_codes[index]), str(o_codes[index]), str(n_codes[index]), str(c_codes[index]), SUR]
         lexicons.append(lexicon)
         if i_codes[index] not in tokens:
             tokens.append(i_codes[index])

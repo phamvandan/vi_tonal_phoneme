@@ -4,10 +4,17 @@ from word_code_utils import word_to_components, words_componet_to_codes
 import sys
 root = sys.argv[1]
 
-freq_data = pd.read_csv(root + "freq.csv")
-
-words = list(freq_data["word"])
-freqs = freq_data["freq"]
+freq_data = open(root + "freq.txt")
+f_nor_dict = open(root + "standard.txt", 'w+')
+words = []
+freqs = []
+while True:
+    text_line = freq_data.readline().replace("\n", "")
+    if text_line == "":
+        break
+    temps = text_line.split("\t")
+    words.append(temps[0])
+    freqs.append(temps[1])
 
 nor_word_lang = ''
 nor_word_code = ''
@@ -32,5 +39,6 @@ for index, word in enumerate(words):
     nor_dict.append([word, freqs[index], nor_word_lang, nor_word_code, i_code, o_code, n_code, c_code])
 
 nor_dict = sorted(nor_dict, key = lambda x:x[2])
-pd.DataFrame(nor_dict, columns = ["word", "freq", "lang", "code", "i_code", "o_code", "n_code", "c_code"]).to_csv(root + "standard.csv")
+for e in nor_dict:
+    f_nor_dict.write("\t".join(e) + "\n")
 print("another", count)

@@ -5,10 +5,19 @@ UNK = "*"
 unks = []
 import sys
 root = sys.argv[1]
-standard_dict = pd.read_csv(os.path.join(root, "standard.csv"))
-s_words = list(standard_dict["word"])
-s_codes = standard_dict["code"]
-langs = standard_dict["lang"]
+standard_dict = open(os.path.join(root, "standard.txt"))
+s_words = []
+s_codes = []
+langs = []
+while True:
+    text_line = standard_dict.readline().replace("\n", "")
+    if text_line == "":
+        break
+    temps = text_line.split("\t")
+    s_words.append(temps[0])
+    s_codes.append(temps[3])
+    langs.append(temps[2])
+
 
 def load_unks():
     global unks

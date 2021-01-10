@@ -34,15 +34,6 @@ words = list(frequency.keys())
 freqs = list(frequency.values())
 # df = pd.read_csv("v_dict.csv")
 # word_dicts = df["word"]
-rs = []
+f_freq = open(os.path.join(save_dir, "freq.txt"), "w+")
 for index, word in enumerate(words):
-    rs.append([word, freqs[index]])
-#     r = re.compile(word, re.IGNORECASE)
-#     if any(r.match(str(w)) for w in word_dicts):
-#         rs.append([word, freqs[index], "vi"])
-#     else:
-#         rs.append([word, freqs[index], "another"])
-
-rs = sorted(rs, key=lambda x:x[1], reverse = True)
-data = pd.DataFrame(rs, columns=["word", "freq"])
-data.to_csv(os.path.join(save_dir, "freq.csv"))
+    f_freq.write(word + "\t" + str(freqs[index]) + "\n")
