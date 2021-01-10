@@ -38,7 +38,10 @@ def get_unvalid_from_lst(dir, save_dir):
                 #     sentence = sentence.replace("<unk>", "")
                 sentence = sentence.lower()
                 sentence = re.sub(rg, lambda x:read_number_and_normalize_text(x.group()).strip(), sentence)
-                sentence = " ".join(sentence.split())
+                sentence = " ".join(sentence.split()).strip()
+                if len(sentence)==0:
+                    print("skip", temp, sentence)
+                    continue
                 # if re.search(rg, sentence):
                 #     print("SKIP", sentence)
                 #     continue
