@@ -1,0 +1,12 @@
+PC	p
+TC	t
+KC	c
+KC	ch
+MC	m
+NC	n
+NGC	ng
+NGC	nh
+UC	u
+UC	o
+IC	i
+YC	y
