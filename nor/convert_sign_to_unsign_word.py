@@ -19,6 +19,7 @@ print(tones)
 print(characters)
 
 def convert(old_word):
+    old_word = str(old_word)
     tone_type = 0
     new_word = old_word
     for c in old_word:

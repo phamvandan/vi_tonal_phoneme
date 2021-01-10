@@ -10,3 +10,6 @@ UC	u
 UC	o
 IC	i
 YC	y
+ƯC	ư
+ƠC	ơ
+

@@ -1,0 +1,9489 @@
+*	* |
+là	LI AN2_4 |
+không	KHI ÔN_0 NGC_0 |
+có	KI ON2_5 |
+một	MI ÔN_1 TC_1 |
+của	KI UÔN_2 |
+cái	KI AN2_5 IC_5 |
+người	NGI ƯƠN_4 IC_4 |
+thì	THI IN_4 |
+và	VI AN2_4 |
+mà	MI AN2_4 |
+được	DI ƯƠN_1 KC_1 |
+như	NHI ƯC_0 |
+này	NI AN3_4 YC_4 |
+trong	TRI ON1_0 NGC_0 |
+cũng	KI UN_3 NGC_3 |
+cho	CHI ON2_0 |
+hai	HI AN2_0 IC_0 |
+ta	TI AN2_0 |
+ra	RI AN2_0 |
+các	KI AN1_5 KC_5 |
+đã	DI AN2_3 |
+với	VI ƠN_5 IC_5 |
+lại	LI AN2_1 IC_1 |
+đó	DI ON2_5 |
+thể	THI ÊN_2 |
+mình	MI IN_4 NGC_4 |
+em	EN_0 MC_0 |
+những	NHI ƯN_3 NGC_3 |
+để	DI ÊN_2 |
+phải	PHI AN2_2 IC_2 |
+đến	DI ÊN_5 NC_5 |
+nói	NI ON2_5 IC_5 |
+ở	ƠC_2 |
+đi	DI IN_0 |
+làm	LI AN2_4 MC_4 |
+nhưng	NHI ƯN_0 NGC_0 |
+sẽ	SI EN_3 |
+chúng	CHI UN_5 NGC_5 |
+nó	NI ON2_5 |
+vào	VI AN2_4 UC_4 |
+về	VI ÊN_4 |
+thế	THI ÊN_5 |
+	NIAN2_0 NC_0 |
+hắn	HI AN3_5 NC_5 |
+rồi	RI ÔN_4 IC_4 |
+công	KI ÔN_0 NGC_0 |
+còn	KI ON2_4 NC_4 |
+rất	RI ÂN_5 TC_5 |
+chỉ	CHI IN_2 |
+năm	NI AN3_0 MC_0 |
+đầu	DI ÂN_4 UC_4 |
+anh	AN1_0 NGC_0 |
+ba	BI AN2_0 |
+vậy	VI ÂN_1 YC_1 |
+con	KI ON2_0 NC_0 |
+tôi	TI ÔN_0 IC_0 |
+từ	TI ƯC_4 |
+khi	KHI IN_0 |
+thành	THI AN1_4 NGC_4 |
+đây	DI ÂN_0 YC_0 |
+thấy	THI ÂN_5 YC_5 |
+gì	ZI |
+lên	LI ÊN_0 NC_0 |
+nào	NI AN2_4 UC_4 |
+nhiều	NHI IÊN_4 UC_4 |
+trên	TRI ÊN_0 NC_0 |
+bị	BI IN_1 |
+hiện	HI IÊN_1 NC_1 |
+sau	SI AN3_0 UC_0 |
+nhân	NHI ÂN_0 NC_0 |
+tại	TI AN2_1 IC_1 |
+cả	KI AN2_2 |
+nhất	NHI ÂN_5 TC_5 |
+sao	SI AN2_0 UC_0 |
+mới	MI ƠN_5 IC_5 |
+biết	BI IÊN_5 TC_5 |
+hơn	HI ƠN_0 NC_0 |
+mươi	MI ƯƠN_0 IC_0 |
+sự	SI ƯC_1 |
+vì	VI IN_4 |
+bạn	BI AN2_1 NC_1 |
+động	DI ÔN_1 NGC_1 |
+chính	CHI IN_5 NGC_5 |
+cùng	KI UN_4 NGC_4 |
+mười	MI ƯƠN_4 IC_4 |
+ngày	NGI AN3_4 YC_4 |
+đối	DI ÔN_5 IC_5 |
+giờ	ZI ƠC_4 |
+tới	TI ƠN_5 IC_5 |
+theo	THI EN_0 UC_0 |
+trước	TRI ƯƠN_5 KC_5 |
+nên	NI ÊN_0 NC_0 |
+việc	VI IÊN_1 KC_1 |
+lực	LI ƯN_1 KC_1 |
+đang	DI AN1_0 NGC_0 |
+trăm	TRI AN3_0 MC_0 |
+nhìn	NHI IN_4 NC_4 |
+lúc	LI UN_5 KC_5 |
+số	SI ÔN_5 |
+muốn	MI UÔN_5 NC_5 |
+gia	ZI AN2_0 |
+ngươi	NGI ƯƠN_0 IC_0 |
+mặt	MI AN3_1 TC_1 |
+thời	THI ƠN_4 IC_4 |
+đại	DI AN2_1 IC_1 |
+qua	KI UÔN_0 |
+định	DI IN_1 NGC_1 |
+vị	VI IN_1 |
+học	HI ON1_1 KC_1 |
+tay	TI AN3_0 YC_0 |
+đồng	DI ÔN_4 NGC_4 |
+họ	HI ON2_1 |
+bộ	BI ÔN_1 |
+lăng	LI AN3_0 NGC_0 |
+cô	KI ÔN_0 |
+quan	KI UÔN_0 NC_0 |
+hàn	HI AN2_4 NC_4 |
+nữa	NI ƯƠN_3 |
+nếu	NI ÊN_5 UC_5 |
+thực	THI ƯN_1 KC_1 |
+ý	IN_5 |
+nam	NI AN2_0 MC_0 |
+thứ	THI ƯC_5 |
+nhiên	NHI IÊN_0 NC_0 |
+nay	NI AN3_0 YC_0 |
+sinh	SI IN_0 NGC_0 |
+đường	DI ƯƠN_4 NGC_4 |
+nhà	NHI AN2_4 |
+thiên	THI IÊN_0 NC_0 |
+điều	DI IÊN_4 UC_4 |
+hình	HI IN_4 NGC_4 |
+phần	PHI ÂN_4 NC_4 |
+vừa	VI ƯƠN_4 |
+hay	HI AN3_0 YC_0 |
+cảm	KI AN2_2 MC_2 |
+cao	KI AN2_0 UC_0 |
+thân	THI ÂN_0 NC_0 |
+nước	NI ƯƠN_5 KC_5 |
+vũ	VI UN_3 |
+vẫn	VI ÂN_3 NC_3 |
+tiếp	TI IÊN_5 PC_5 |
+lớn	LI ƠN_5 NC_5 |
+lão	LI AN2_3 UC_3 |
+mắt	MI AN3_5 TC_5 |
+cơ	KI ƠC_0 |
+phương	PHI ƯƠN_0 NGC_0 |
+cách	KI AN1_5 KC_5 |
+bằng	BI AN3_4 NGC_4 |
+phát	PHI AN2_5 TC_5 |
+a	AN2_0 |
+đều	DI ÊN_4 UC_4 |
+tử	TI ƯC_2 |
+hồn	HI ÔN_4 NC_4 |
+khác	KHI AN1_5 KC_5 |
+toàn	TI WO_4 AN2_4 NC_4 |
+chưa	CHI ƯƠN_0 |
+bốn	BI ÔN_5 NC_5 |
+trường	TRI ƯƠN_4 NGC_4 |
+quá	KI UÔN_5 |
+vô	VI ÔN_0 |
+bên	BI ÊN_0 NC_0 |
+nghĩ	NGI IN_3 |
+lần	LI ÂN_4 NC_4 |
+tự	TI ƯC_1 |
+tâm	TI ÂN_0 MC_0 |
+câu	KI ÂN_0 UC_0 |
+trình	TRI IN_4 NGC_4 |
+bảo	BI AN2_2 UC_2 |
+kinh	KI IN_0 NGC_0 |
+thủ	THI UN_2 |
+à	AN2_4 |
+tình	TI IN_4 NGC_4 |
+tiếng	TI IÊN_5 NGC_5 |
+chuyện	CHI WO_1 YÊN_1 NC_1 |
+đạo	DI AN2_1 UC_1 |
+hợp	HI ƠN_1 PC_1 |
+nhận	NHI ÂN_1 NC_1 |
+thôi	THI ÔN_0 IC_0 |
+cần	KI ÂN_4 NC_4 |
+điểm	DI IÊN_2 MC_2 |
+bình	BI IN_4 NGC_4 |
+xuất	XI WO_5 ÂN_5 TC_5 |
+khí	KHI IN_5 |
+thông	THI ÔN_0 NGC_0 |
+ông	ÔN_0 NGC_0 |
+bản	BI AN2_2 NC_2 |
+dân	ZI ÂN_0 NC_0 |
+trung	TRI UN_0 NGC_0 |
+linh	LI IN_0 NGC_0 |
+tư	TI ƯC_0 |
+chín	CHI IN_5 NC_5 |
+ai	AN2_0 IC_0 |
+chủ	CHI UN_2 |
+lượng	LI ƯƠN_1 NGC_1 |
+hàng	HI AN1_4 NGC_4 |
+thanh	THI AN1_0 NGC_0 |
+lý	LI IN_5 |
+thần	THI ÂN_4 NC_4 |
+tiên	TI IÊN_0 NC_0 |
+đánh	DI AN1_5 NGC_5 |
+đúng	DI UN_5 NGC_5 |
+gian	ZI AN2_0 NC_0 |
+nhau	NHI AN3_0 UC_0 |
+rằng	RI AN3_4 NGC_4 |
+việt	VI IÊN_1 TC_1 |
+đề	DI ÊN_4 |
+độ	DI ÔN_1 |
+năng	NI AN3_0 NGC_0 |
+tin	TI IN_0 NC_0 |
+cảnh	KI AN1_2 NGC_2 |
+hết	HI ÊN_5 TC_5 |
+thật	THI ÂN_1 TC_1 |
+hành	HI AN1_4 NGC_4 |
+dụng	ZI UN_1 NGC_1 |
+hỏi	HI ON2_2 IC_2 |
+trở	TRI ƠC_2 |
+chiến	CHI IÊN_5 NC_5 |
+chàng	CHI AN1_4 NGC_4 |
+hội	HI ÔN_1 IC_1 |
+ngoài	NGI WO_4 AN2_4 IC_4 |
+nàng	NI AN1_4 NGC_4 |
+mọi	MI ON2_1 IC_1 |
+bọn	BI ON2_1 NC_1 |
+đấu	DI ÂN_5 UC_5 |
+viên	VI IÊN_0 NC_0 |
+y	IN_0 |
+tức	TI ƯN_5 KC_5 |
+thường	THI ƯƠN_4 NGC_4 |
+nghe	NGI EN_0 |
+thiếu	THI IÊN_5 UC_5 |
+xuống	XI UÔN_5 NGC_5 |
+bây	BI ÂN_0 YC_0 |
+chị	CHI IN_1 |
+hoàn	HI WO_4 AN2_4 NC_4 |
+trọng	TRI ON1_1 NGC_1 |
+sáu	SI AN3_5 UC_5 |
+bao	BI AN2_0 UC_0 |
+quốc	KI UÔN_5 KC_5 |
+lấy	LI ÂN_5 YC_5 |
+nghiệp	NGI IÊN_1 PC_1 |
+thương	THI ƯƠN_0 NGC_0 |
+mạnh	MI AN1_1 NGC_1 |
+phong	PHI ON1_0 NGC_0 |
+an	AN2_0 NC_0 |
+ăn	AN3_0 NC_0 |
+đấy	DI ÂN_5 YC_5 |
+đâu	DI ÂN_0 UC_0 |
+ấy	ÂN_5 YC_5 |
+minh	MI IN_0 NGC_0 |
+sư	SI ƯC_0 |
+do	ZI ON2_0 |
+nguyên	NGI WO_0 YÊN_0 NC_0 |
+cấp	KI ÂN_5 PC_5 |
+vương	VI ƯƠN_0 NGC_0 |
+pháp	PHI AN2_5 PC_5 |
+lời	LI ƠN_4 IC_4 |
+kết	KI ÊN_5 TC_5 |
+yêu	YÊN_0 UC_0 |
+tính	TI IN_5 NGC_5 |
+giá	ZI AN2_5 |
+tiền	TI IÊN_4 NC_4 |
+tiểu	TI IÊN_2 UC_2 |
+kia	KI IAN_0 |
+môn	MI ÔN_0 NC_0 |
+bất	BI ÂN_5 TC_5 |
+sáng	SI AN1_5 NGC_5 |
+sống	SI ÔN_5 NGC_5 |
+sản	SI AN2_2 NC_2 |
+quả	KI UÔN_2 |
+hôm	HI ÔN_0 MC_0 |
+luôn	LI UÔN_0 NC_0 |
+chí	CHI IN_5 |
+tìm	TI IN_4 MC_4 |
+đội	DI ÔN_1 IC_1 |
+liền	LI IÊN_4 NC_4 |
+tám	TI AN2_5 MC_5 |
+thu	THI UN_0 |
+nữ	NI ƯC_3 |
+phòng	PHI ON1_4 NGC_4 |
+khó	KHI ON2_5 |
+bắt	BI AN3_5 TC_5 |
+giải	ZI AN2_2 IC_2 |
+quý	KI UN_5 YC_5 |
+ngay	NGI AN3_0 YC_0 |
+chút	CHI UN_5 TC_5 |
+kỳ	KI IN_4 |
+kiếm	KI IÊN_5 MC_5 |
+bài	BI AN2_4 IC_4 |
+thức	THI ƯN_5 KC_5 |
+tốt	TI ÔN_5 TC_5 |
+hồ	HI ÔN_4 |
+phía	PHI IAN_5 |
+bởi	BI ƠN_2 IC_2 |
+mấy	MI ÂN_5 YC_5 |
+xem	XI EN_0 MC_0 |
+tháng	THI AN1_5 NGC_5 |
+giới	ZI ƠN_5 IC_5 |
+liên	LI IÊN_0 NC_0 |
+tên	TI ÊN_0 NC_0 |
+vụ	VI UN_1 |
+địa	DI IAN_1 |
+nội	NI ÔN_1 IC_1 |
+tiêu	TI IÊN_0 UC_0 |
+cười	KI ƯƠN_4 IC_4 |
+du	ZI UN_0 |
+tác	TI AN1_5 KC_5 |
+giả	ZI AN2_2 |
+càng	KI AN1_4 NGC_4 |
+bảy	BI AN3_2 YC_2 |
+tất	TI ÂN_5 TC_5 |
+thi	THI IN_0 |
+hoàng	HI WO_4 AN1_4 NGC_4 |
+chân	CHI ÂN_0 NC_0 |
+tinh	TI IN_0 NGC_0 |
+văn	VI AN3_0 NC_0 |
+sử	SI ƯC_2 |
+chẳng	CHI AN3_2 NGC_2 |
+cứ	KI ƯC_5 |
+cầu	KI ÂN_4 UC_4 |
+dù	ZI UN_4 |
+hiểu	HI IÊN_2 UC_2 |
+sát	SI AN2_5 TC_5 |
+rõ	RI ON2_3 |
+xin	XI IN_0 NC_0 |
+đưa	DI ƯƠN_0 |
+nơi	NI ƠN_0 IC_0 |
+hóa	HI WO_5 AN2_5 |
+dùng	ZI UN_4 NGC_4 |
+lòng	LI ON1_4 NGC_4 |
+cuộc	KI UÔN_1 KC_1 |
+tập	TI ÂN_1 PC_1 |
+đất	DI ÂN_5 TC_5 |
+hạ	HI AN2_1 |
+tạo	TI AN2_1 UC_1 |
+đông	DI ÔN_0 NGC_0 |
+á	AN2_5 |
+biến	BI IÊN_5 NC_5 |
+luyện	LI WO_1 YÊN_1 NC_1 |
+nhỏ	NHI ON2_2 |
+tế	TI ÊN_5 |
+quyết	KI WO_5 YÊN_5 TC_5 |
+bước	BI ƯƠN_5 KC_5 |
+vật	VI ÂN_1 TC_1 |
+nghìn	NGI IN_4 NC_4 |
+chết	CHI ÊN_5 TC_5 |
+mẹ	MI EN_1 |
+vi	VI IN_0 |
+tăng	TI AN3_0 NGC_0 |
+gặp	GI AN3_1 PC_1 |
+nhanh	NHI AN1_0 NGC_0 |
+lập	LI ÂN_1 PC_1 |
+tiến	TI IÊN_5 NC_5 |
+doanh	ZI WO_0 AN1_0 NGC_0 |
+giống	ZI ÔN_5 NGC_5 |
+chứ	CHI ƯC_5 |
+tài	TI AN2_4 IC_4 |
+sức	SI ƯN_5 KC_5 |
+quân	KI WO_0 ÂN_0 NC_0 |
+hệ	HI ÊN_1 |
+ảnh	AN1_2 NGC_2 |
+ờ	ƠC_4 |
+đứng	DI ƯN_5 NGC_5 |
+giao	ZI AN2_0 UC_0 |
+triển	TRI IÊN_2 NC_2 |
+án	AN2_5 NC_5 |
+hoa	HI WO_0 AN2_0 |
+sợ	SI ƠC_1 |
+gọi	GI ON2_1 IC_1 |
+vấn	VI ÂN_5 NC_5 |
+báo	BI AN2_5 UC_5 |
+đổi	DI ÔN_2 IC_2 |
+vân	VI ÂN_0 NC_0 |
+hà	HI AN2_4 |
+long	LI ON1_0 NGC_0 |
+mang	MI AN1_0 NGC_0 |
+thị	THI IN_1 |
+dự	ZI ƯC_1 |
+bà	BI AN2_4 |
+thích	THI IN_5 KC_5 |
+chuyển	CHI WO_2 YÊN_2 NC_2 |
+từng	TI ƯN_4 NGC_4 |
+lâm	LI ÂN_0 MC_0 |
+hạo	HI AN2_1 UC_1 |
+mất	MI ÂN_5 TC_5 |
+bệnh	BI ÊN_1 NGC_1 |
+tục	TI UN_1 KC_1 |
+tỉnh	TI IN_2 NGC_2 |
+gần	GI ÂN_4 NC_4 |
+loại	LI WO_1 AN2_1 IC_1 |
+thêm	THI ÊN_0 MC_0 |
+xong	XI ON1_0 NGC_0 |
+lục	LI UN_1 KC_1 |
+biệt	BI IÊN_1 TC_1 |
+mỗi	MI ÔN_3 IC_3 |
+chắc	CHI AN3_5 KC_5 |
+đệ	DI ÊN_1 |
+viện	VI IÊN_1 NC_1 |
+chế	CHI ÊN_5 |
+tích	TI IN_5 KC_5 |
+đặc	DI AN3_1 KC_1 |
+khu	KHI UN_0 |
+tượng	TI ƯƠN_1 NGC_1 |
+trận	TRI ÂN_1 NC_1 |
+phục	PHI UN_1 KC_1 |
+quy	KI UN_0 YC_0 |
+tuổi	TI UÔN_2 IC_2 |
+bàn	BI AN2_4 NC_4 |
+cực	KI ƯN_1 KC_1 |
+chi	CHI IN_0 |
+trang	TRI AN1_0 NGC_0 |
+vực	VI ƯN_1 KC_1 |
+tuy	TI UN_0 YC_0 |
+chất	CHI ÂN_5 TC_5 |
+dạ	ZI AN2_1 |
+bóng	BI ON1_5 NGC_5 |
+chức	CHI ƯN_5 KC_5 |
+phân	PHI ÂN_0 NC_0 |
+trị	TRI IN_1 |
+dung	ZI UN_0 NGC_0 |
+hiệu	HI IÊN_1 UC_1 |
+diễn	ZI IÊN_3 NC_3 |
+truyền	TRI WO_4 YÊN_4 NC_4 |
+phố	PHI ÔN_5 |
+mở	MI ƠC_2 |
+thái	THI AN2_5 IC_5 |
+chung	CHI UN_0 NGC_0 |
+ánh	AN1_5 NGC_5 |
+sĩ	SI IN_3 |
+phụ	PHI UN_1 |
+tổ	TI ÔN_2 |
+ạ	AN2_1 |
+đơn	DI ƠN_0 NC_0 |
+điện	DI IÊN_1 NC_1 |
+xã	XI AN2_3 |
+lâu	LI ÂN_0 UC_0 |
+trời	TRI ƠN_4 IC_4 |
+khỏi	KHI ON2_2 IC_2 |
+dưới	ZI ƯƠN_5 IC_5 |
+ban	BI AN2_0 NC_0 |
+võ	VI ON2_3 |
+thay	THI AN3_0 YC_0 |
+đoạn	DI WO_1 AN2_1 NC_1 |
+hướng	HI ƯƠN_5 NGC_5 |
+chương	CHI ƯƠN_0 NGC_0 |
+sơn	SI ƠN_0 NC_0 |
+trưởng	TRI ƯƠN_2 NGC_2 |
+sắc	SI AN3_5 KC_5 |
+phẩm	PHI ÂN_2 MC_2 |
+xa	XI AN2_0 |
+đình	DI IN_4 NGC_4 |
+đủ	DI UN_2 |
+lắm	LI AN3_5 MC_5 |
+khiến	KHI IÊN_5 NC_5 |
+dài	ZI AN2_4 IC_4 |
+hải	HI AN2_2 IC_2 |
+tham	THI AN2_0 MC_0 |
+vẻ	VI EN_2 |
+bỏ	BI ON2_2 |
+diện	ZI IÊN_1 NC_1 |
+khách	KHI AN1_5 KC_5 |
+giáo	ZI AN2_5 UC_5 |
+màu	MI AN3_4 UC_4 |
+nghĩa	NGI IAN_3 |
+xe	XI EN_0 |
+triệu	TRI IÊN_1 UC_1 |
+giúp	ZI UN_5 PC_5 |
+khoảng	KHI WO_2 AN1_2 NGC_2 |
+nghệ	NGI ÊN_1 |
+dẫn	ZI ÂN_3 NC_3 |
+ca	KI AN2_0 |
+phi	PHI IN_0 |
+lai	LI AN2_0 IC_0 |
+trả	TRI AN2_2 |
+ít	IN_5 TC_5 |
+lợi	LI ƠN_1 IC_1 |
+tuyệt	TI WO_1 YÊN_1 TC_1 |
+giữa	ZI ƯƠN_3 |
+đời	DI ƠN_4 IC_4 |
+đồ	DI ÔN_4 |
+chỗ	CHI ÔN_3 |
+ứng	ƯN_5 NGC_5 |
+dịch	ZI IN_1 KC_1 |
+cường	KI ƯƠN_4 NGC_4 |
+trí	TRI IN_5 |
+kiến	KI IÊN_5 NC_5 |
+đáng	DI AN1_5 NGC_5 |
+bay	BI AN3_0 YC_0 |
+kim	KI IN_0 MC_0 |
+kỹ	KI IN_3 |
+chạy	CHI AN3_1 YC_1 |
+chú	CHI UN_5 |
+thiết	THI IÊN_5 TC_5 |
+lẽ	LI EN_3 |
+chọn	CHI ON2_1 NC_1 |
+độc	DI ÔN_1 KC_1 |
+trẻ	TRI EN_2 |
+lưu	LI ƯN_0 UC_0 |
+hoặc	HI WO_1 AN3_1 KC_1 |
+giang	ZI AN1_0 NGC_0 |
+quyền	KI WO_4 YÊN_4 NC_4 |
+giác	ZI AN1_5 KC_5 |
+đẹp	DI EN_1 PC_1 |
+vận	VI ÂN_1 NC_1 |
+cố	KI ÔN_5 |
+cuối	KI UÔN_5 IC_5 |
+nổi	NI ÔN_2 IC_2 |
+quang	KI UÔN_0 NGC_0 |
+bán	BI AN2_5 NC_5 |
+phá	PHI AN2_5 |
+hồi	HI ÔN_4 IC_4 |
+khai	KHI AN2_0 IC_0 |
+ma	MI AN2_0 |
+đá	DI AN2_5 |
+chịu	CHI IN_1 UC_1 |
+cứu	KI ƯN_5 UC_5 |
+dám	ZI AN2_5 MC_5 |
+dương	ZI ƯƠN_0 NGC_0 |
+âm	ÂN_0 MC_0 |
+sở	SI ƠC_2 |
+cây	KI ÂN_0 YC_0 |
+quay	KI UÔN_0 YC_0 |
+xác	XI AN1_5 KC_5 |
+cửa	KI ƯƠN_2 |
+cộng	KI ÔN_1 NGC_1 |
+ngồi	NGI ÔN_4 IC_4 |
+sang	SI AN1_0 NGC_0 |
+hoạt	HI WO_1 AN2_1 TC_1 |
+chia	CHI IAN_0 |
+vòng	VI ON1_4 NGC_4 |
+hơi	HI ƠN_0 IC_0 |
+tu	TI UN_0 |
+dựng	ZI ƯN_1 NGC_1 |
+đoàn	DI WO_4 AN2_4 NC_4 |
+tổng	TI ÔN_2 NGC_2 |
+la	LI AN2_0 |
+mạng	MI AN1_1 NGC_1 |
+giữ	ZI ƯC_3 |
+đột	DI ÔN_1 TC_1 |
+yếu	YÊN_5 UC_5 |
+dễ	ZI ÊN_3 |
+tưởng	TI ƯƠN_2 NGC_2 |
+vệ	VI ÊN_1 |
+thống	THI ÔN_5 NGC_5 |
+hữu	HI ƯN_3 UC_3 |
+áo	AN2_5 UC_5 |
+ngàn	NGI AN2_4 NC_4 |
+cổ	KI ÔN_2 |
+mưa	MI ƯƠN_0 |
+tỷ	TI IN_2 |
+tương	TI ƯƠN_0 NGC_0 |
+so	SI ON2_0 |
+chơi	CHI ƠN_0 IC_0 |
+mặc	MI AN3_1 KC_1 |
+đôi	DI ÔN_0 IC_0 |
+hạn	HI AN2_1 NC_1 |
+ngọc	NGI ON1_1 KC_1 |
+coi	KI ON2_0 IC_0 |
+lộ	LI ÔN_1 |
+lăm	LI AN3_0 MC_0 |
+nhi	NHI IN_0 |
+xây	XI ÂN_0 YC_0 |
+ô	ÔN_0 |
+kích	KI IN_5 KC_5 |
+mua	MI UÔN_0 |
+nhiệm	NHI IÊN_1 MC_1 |
+bố	BI ÔN_5 |
+đan	DI AN2_0 NC_0 |
+nhớ	NHI ƠC_5 |
+cá	KI AN2_5 |
+bạch	BI AN1_1 KC_1 |
+hoắc	HI WO_5 AN3_5 KC_5 |
+tra	TRI AN2_0 |
+hãy	HI AN3_3 YC_3 |
+thú	THI UN_5 |
+thất	THI ÂN_5 TC_5 |
+dụ	ZI UN_1 |
+cạnh	KI AN1_1 NGC_1 |
+phạm	PHI AN2_1 MC_1 |
+vàng	VI AN1_4 NGC_4 |
+khả	KHI AN2_2 |
+tranh	TRI AN1_0 NGC_0 |
+căn	KI AN3_0 NC_0 |
+đạt	DI AN2_1 TC_1 |
+sách	SI AN1_5 KC_5 |
+cung	KI UN_0 NGC_0 |
+hồng	HI ÔN_4 NGC_4 |
+mức	MI ƯN_5 KC_5 |
+thẳng	THI AN3_2 NGC_2 |
+thuộc	THI UÔN_1 KC_1 |
+biểu	BI IÊN_2 UC_2 |
+lạnh	LI AN1_1 NGC_1 |
+thắng	THI AN3_5 NGC_5 |
+song	SI ON1_0 NGC_0 |
+áp	AN2_5 PC_5 |
+mỹ	MI IN_3 |
+khắc	KHI AN3_5 KC_5 |
+mời	MI ƠN_4 IC_4 |
+to	TI ON2_0 |
+suy	SI UN_0 YC_0 |
+giết	ZI ÊN_5 TC_5 |
+chuẩn	CHI WO_2 ÂN_2 NC_2 |
+hộ	HI ÔN_1 |
+đặt	DI AN3_1 TC_1 |
+ngờ	NGI ƠC_4 |
+tông	TI ÔN_0 NGC_0 |
+nghị	NGI IN_1 |
+ích	IN_5 KC_5 |
+ty	TI IN_0 |
+huynh	HI WO_0 IN_0 NGC_0 |
+đừng	DI ƯN_4 NGC_4 |
+bối	BI ÔN_5 IC_5 |
+vọng	VI ON1_1 NGC_1 |
+chuyên	CHI WO_0 YÊN_0 NC_0 |
+hòa	HI WO_4 AN2_4 |
+nhiêu	NHI IÊN_0 UC_0 |
+mục	MI UN_1 KC_1 |
+vui	VI UN_0 IC_0 |
+danh	ZI AN1_0 NGC_0 |
+vùng	VI UN_4 NGC_4 |
+núi	NI UN_5 IC_5 |
+gây	GI ÂN_0 YC_0 |
+nghiệm	NGI IÊN_1 MC_1 |
+thầy	THI ÂN_4 YC_4 |
+bác	BI AN1_5 KC_5 |
+nông	NI ÔN_0 NGC_0 |
+kế	KI ÊN_5 |
+luật	LI WO_1 ÂN_1 TC_1 |
+chứng	CHI ƯN_5 NGC_5 |
+đầy	DI ÂN_4 YC_4 |
+luận	LI WO_1 ÂN_1 NC_1 |
+trái	TRI AN2_5 IC_5 |
+khăn	KHI AN3_0 NC_0 |
+trừ	TRI ƯC_4 |
+bê	BI ÊN_0 |
+chào	CHI AN2_4 UC_4 |
+lo	LI ON2_0 |
+tam	TI AN2_0 MC_0 |
+hưởng	HI ƯƠN_2 NGC_2 |
+lan	LI AN2_0 NC_0 |
+đô	DI ÔN_0 |
+ví	VI IN_5 |
+đêm	DI ÊN_0 MC_0 |
+xử	XI ƯC_2 |
+tầng	TI ÂN_4 NGC_4 |
+kiện	KI IÊN_1 NC_1 |
+biển	BI IÊN_2 NC_2 |
+lạc	LI AN1_1 KC_1 |
+kiểm	KI IÊN_2 MC_2 |
+tôn	TI ÔN_0 NC_0 |
+chưởng	CHI ƯƠN_2 NGC_2 |
+thuật	THI WO_1 ÂN_1 TC_1 |
+chiếc	CHI IÊN_5 KC_5 |
+hát	HI AN2_5 TC_5 |
+đáp	DI AN2_5 PC_5 |
+tối	TI ÔN_5 IC_5 |
+liệu	LI IÊN_1 UC_1 |
+vốn	VI ÔN_5 NC_5 |
+ràng	RI AN1_4 NGC_4 |
+hổ	HI ÔN_2 |
+nằm	NI AN3_4 MC_4 |
+bé	BI EN_5 |
+hậu	HI ÂN_1 UC_1 |
+trợ	TRI ƠC_1 |
+kể	KI ÊN_2 |
+ó	ON2_5 |
+máy	MI AN3_5 YC_5 |
+sai	SI AN2_0 IC_0 |
+nhập	NHI ÂN_1 PC_1 |
+phủ	PHI UN_2 |
+quản	KI UÔN_2 NC_2 |
+đen	DI EN_0 NC_0 |
+lao	LI AN2_0 UC_0 |
+tiết	TI IÊN_5 TC_5 |
+miệng	MI IÊN_1 NGC_1 |
+nguyễn	NGI WO_3 YÊN_3 NC_3 |
+chờ	CHI ƠC_4 |
+ơn	ƠN_0 NC_0 |
+mét	MI EN_5 TC_5 |
+nha	NHI AN2_0 |
+sâu	SI ÂN_0 UC_0 |
+quanh	KI UÔN_0 NGC_0 |
+niên	NI IÊN_0 NC_0 |
+trực	TRI ƯN_1 KC_1 |
+băng	BI AN3_0 NGC_0 |
+xảy	XI AN3_2 YC_2 |
+thưa	THI ƯƠN_0 |
+trò	TRI ON2_4 |
+giảm	ZI AN2_2 MC_2 |
+gái	GI AN2_5 IC_5 |
+phí	PHI IN_5 |
+nắm	NI AN3_5 MC_5 |
+lệ	LI ÊN_1 |
+đảm	DI AN2_2 MC_2 |
+máu	MI AN3_5 UC_5 |
+bắc	BI AN3_5 KC_5 |
+nguy	NGI UN_0 YC_0 |
+mày	MI AN3_4 YC_4 |
+huấn	HI WO_5 ÂN_5 NC_5 |
+lịch	LI IN_1 KC_1 |
+nhóm	NHI ON2_5 MC_5 |
+ha	HI AN2_0 |
+thủy	THI UN_2 YC_2 |
+yên	YÊN_0 NC_0 |
+sân	SI ÂN_0 NC_0 |
+vài	VI AN2_4 IC_4 |
+trạng	TRI AN1_1 NGC_1 |
+chống	CHI ÔN_5 NGC_5 |
+phó	PHI ON2_5 |
+chồng	CHI ÔN_4 NGC_4 |
+đàn	DI AN2_4 NC_4 |
+c	KI |
+thử	THI ƯC_2 |
+nương	NI ƯƠN_0 NGC_0 |
+đương	DI ƯƠN_0 NGC_0 |
+hại	HI AN2_1 IC_1 |
+chiều	CHI IÊN_4 UC_4 |
+kéo	KI EN_5 UC_5 |
+xê	XI ÊN_0 |
+phóng	PHI ON1_5 NGC_5 |
+quảng	KI UÔN_2 NGC_2 |
+phản	PHI AN2_2 NC_2 |
+đa	DI AN2_0 |
+kêu	KI ÊN_0 UC_0 |
+kẻ	KI EN_2 |
+vai	VI AN2_0 IC_0 |
+đào	DI AN2_4 UC_4 |
+xét	XI EN_5 TC_5 |
+lớp	LI ƠN_5 PC_5 |
+trần	TRI ÂN_4 NC_4 |
+vợ	VI ƠC_1 |
+cánh	KI AN1_5 NGC_5 |
+vâng	VI ÂN_0 NGC_0 |
+thậm	THI ÂN_1 MC_1 |
+cam	KI AN2_0 MC_0 |
+đau	DI AN3_0 UC_0 |
+nhật	NHI ÂN_1 TC_1 |
+đao	DI AN2_0 UC_0 |
+huyện	HI WO_1 YÊN_1 NC_1 |
+mai	MI AN2_0 IC_0 |
+giọng	ZI ON1_1 NGC_1 |
+mẫu	MI ÂN_3 UC_3 |
+sớm	SI ƠN_5 MC_5 |
+tây	TI ÂN_0 YC_0 |
+hiểm	HI IÊN_2 MC_2 |
+châu	CHI ÂN_0 UC_0 |
+di	ZI IN_0 |
+tai	TI AN2_0 IC_0 |
+địch	DI IN_1 KC_1 |
+giai	ZI AN2_0 IC_0 |
+thư	THI ƯC_0 |
+quái	KI UÔN_5 IC_5 |
+nghiêm	NGI IÊN_0 MC_0 |
+kính	KI IN_5 NGC_5 |
+chiêu	CHI IÊN_0 UC_0 |
+nóng	NI ON1_5 NGC_5 |
+đức	DI ƯN_5 KC_5 |
+sơ	SI ƠC_0 |
+món	MI ON2_5 NC_5 |
+bí	BI IN_5 |
+tướng	TI ƯƠN_5 NGC_5 |
+riêng	RI IÊN_0 NGC_0 |
+thạch	THI AN1_1 KC_1 |
+ngành	NGI AN1_4 NGC_4 |
+đám	DI AN2_5 MC_5 |
+duy	ZI UN_0 YC_0 |
+đảo	DI AN2_2 UC_2 |
+chắn	CHI AN3_5 NC_5 |
+khá	KHI AN2_5 |
+phép	PHI EN_5 PC_5 |
+nhạc	NHI AN1_1 KC_1 |
+cáo	KI AN2_5 UC_5 |
+rộng	RI ÔN_1 NGC_1 |
+trách	TRI AN1_5 KC_5 |
+u	UN_0 |
+phẩy	PHI ÂN_2 YC_2 |
+xanh	XI AN1_0 NGC_0 |
+mùa	MI UÔN_4 |
+đỏ	DI ON2_2 |
+tránh	TRI AN1_5 NGC_5 |
+ngoại	NGI WO_1 AN2_1 IC_1 |
+vượt	VI ƯƠN_1 TC_1 |
+nguồn	NGI UÔN_4 NC_4 |
+đóng	DI ON1_5 NGC_5 |
+huy	HI UN_0 YC_0 |
+tố	TI ÔN_5 |
+môi	MI ÔN_0 IC_0 |
+mong	MI ON1_0 NGC_0 |
+cậu	KI ÂN_1 UC_1 |
+vạn	VI AN2_1 NC_1 |
+lãnh	LI AN1_3 NGC_3 |
+đọc	DI ON1_1 KC_1 |
+giận	ZI ÂN_1 NC_1 |
+huyết	HI WO_5 YÊN_5 TC_5 |
+thúc	THI UN_5 KC_5 |
+vội	VI ÔN_1 IC_1 |
+trắng	TRI AN3_5 NGC_5 |
+xúc	XI UN_5 KC_5 |
+nửa	NI ƯƠN_2 |
+uy	UN_0 YC_0 |
+nhẹ	NHI EN_1 |
+ép	EN_5 PC_5 |
+cầm	KI ÂN_4 MC_4 |
+gã	GI AN2_3 |
+đứa	DI ƯƠN_5 |
+tốc	TI ÔN_5 KC_5 |
+chừng	CHI ƯN_4 NGC_4 |
+hoạch	HI WO_1 AN1_1 KC_1 |
+cháu	CHI AN3_5 UC_5 |
+rơi	RI ƠN_0 IC_0 |
+lôi	LI ÔN_0 IC_0 |
+ngân	NGI ÂN_0 NC_0 |
+phút	PHI UN_5 TC_5 |
+lĩnh	LI IN_3 NGC_3 |
+hùng	HI UN_4 NGC_4 |
+tiện	TI IÊN_1 NC_1 |
+cát	KI AN2_5 TC_5 |
+nhảy	NHI AN3_2 YC_2 |
+cụ	KI UN_1 |
+quen	KI WO_0 EN_0 NC_0 |
+tuyển	TI WO_2 YÊN_2 NC_2 |
+lưng	LI ƯN_0 NGC_0 |
+ghi	GI IN_0 |
+đảng	DI AN1_2 NGC_2 |
+đế	DI ÊN_5 |
+ký	KI IN_5 |
+dược	ZI ƯƠN_1 KC_1 |
+tuần	TI WO_4 ÂN_4 NC_4 |
+khoa	KHI WO_0 AN2_0 |
+ơi	ƠN_0 IC_0 |
+đỡ	DI ƠC_3 |
+sẻ	SI EN_2 |
+gió	ZI ON2_5 |
+may	MI AN3_0 YC_0 |
+dừng	ZI ƯN_4 NGC_4 |
+ngũ	NGI UN_3 |
+cửu	KI ƯN_2 UC_2 |
+khán	KHI AN2_5 NC_5 |
+rút	RI UN_5 TC_5 |
+khổ	KHI ÔN_2 |
+sông	SI ÔN_0 NGC_0 |
+liệt	LI IÊN_1 TC_1 |
+rừng	RI ƯN_4 NGC_4 |
+uống	UÔN_5 NGC_5 |
+mô	MI ÔN_0 |
+đê	DI ÊN_0 |
+nghề	NGI ÊN_4 |
+thằng	THI AN3_4 NGC_4 |
+tê	TI ÊN_0 |
+thuốc	THI UÔN_5 KC_5 |
+ủy	UN_2 YC_2 |
+hỏa	HI WO_2 AN2_2 |
+cục	KI UN_1 KC_1 |
+tĩnh	TI IN_3 NGC_3 |
+nghi	NGI IN_0 |
+mê	MI ÊN_0 |
+hiệp	HI IÊN_1 PC_1 |
+sắp	SI AN3_5 PC_5 |
+quỷ	KI UN_2 YC_2 |
+tuyến	TI WO_5 YÊN_5 NC_5 |
+phù	PHI UN_4 |
+tung	TI UN_0 NGC_0 |
+phu	PHI UN_0 |
+dần	ZI ÂN_4 NC_4 |
+hả	HI AN2_2 |
+viết	VI IÊN_5 TC_5 |
+nhiệt	NHI IÊN_1 TC_1 |
+e	EN_0 |
+thấp	THI ÂN_5 PC_5 |
+hắc	HI AN3_5 KC_5 |
+phúc	PHI UN_5 KC_5 |
+đẩy	DI ÂN_2 YC_2 |
+chữ	CHI ƯC_3 |
+nâng	NI ÂN_0 NGC_0 |
+bỗng	BI ÔN_3 NGC_3 |
+tội	TI ÔN_1 IC_1 |
+thừa	THI ƯƠN_4 |
+nguyệt	NGI WO_1 YÊN_1 TC_1 |
+chấp	CHI ÂN_5 PC_5 |
+nặng	NI AN3_1 NGC_1 |
+mốt	MI ÔN_5 TC_5 |
+kiểu	KI IÊN_2 UC_2 |
+biên	BI IÊN_0 NC_0 |
+khẩu	KHI ÂN_2 UC_2 |
+ừ	ƯC_4 |
+dành	ZI AN1_4 NGC_4 |
+ấn	ÂN_5 NC_5 |
+thánh	THI AN1_5 NGC_5 |
+toán	TI WO_5 AN2_5 NC_5 |
+ninh	NI IN_0 NGC_0 |
+tơ	TI ƠC_0 |
+hề	HI ÊN_4 |
+dạy	ZI AN3_1 YC_1 |
+nghiên	NGI IÊN_0 NC_0 |
+thuận	THI WO_1 ÂN_1 NC_1 |
+thở	THI ƠC_2 |
+trông	TRI ÔN_0 NGC_0 |
+mũi	MI UN_3 IC_3 |
+binh	BI IN_0 NGC_0 |
+vang	VI AN1_0 NGC_0 |
+dạng	ZI AN1_1 NGC_1 |
+rời	RI ƠN_4 IC_4 |
+kịp	KI IN_1 PC_1 |
+mờ	MI ƠC_4 |
+da	ZI AN2_0 |
+khởi	KHI ƠN_2 IC_2 |
+huyền	HI WO_4 YÊN_4 NC_4 |
+lạ	LI AN2_1 |
+đoán	DI WO_5 AN2_5 NC_5 |
+lửa	LI ƯƠN_2 |
+giản	ZI AN2_2 NC_2 |
+hỗ	HI ÔN_3 |
+tấn	TI ÂN_5 NC_5 |
+đem	DI EN_0 MC_0 |
+hương	HI ƯƠN_0 NGC_0 |
+tải	TI AN2_2 IC_2 |
+hẳn	HI AN3_2 NC_2 |
+già	ZI AN2_4 |
+đài	DI AN2_4 IC_4 |
+phú	PHI UN_5 |
+ngừng	NGI ƯN_4 NGC_4 |
+thơ	THI ƠC_0 |
+đỉnh	DI IN_2 NGC_2 |
+dị	ZI IN_1 |
+hào	HI AN2_4 UC_4 |
+nhờ	NHI ƠC_4 |
+thượng	THI ƯƠN_1 NGC_1 |
+bức	BI ƯN_5 KC_5 |
+lương	LI ƯƠN_0 NGC_0 |
+ơ	ƠC_0 |
+mẽ	MI EN_3 |
+bắn	BI AN3_5 NC_5 |
+mã	MI AN2_3 |
+cha	CHI AN2_0 |
+trương	TRI ƯƠN_0 NGC_0 |
+ngang	NGI AN1_0 NGC_0 |
+tầm	TI ÂN_4 MC_4 |
+thoát	THI WO_5 AN2_5 TC_5 |
+góc	GI ON1_5 KC_5 |
+bại	BI AN2_1 IC_1 |
+ly	LI IN_0 |
+ngược	NGI ƯƠN_1 KC_1 |
+xưa	XI ƯƠN_0 |
+xuyên	XI WO_0 YÊN_0 NC_0 |
+mối	MI ÔN_5 IC_5 |
+giám	ZI AN2_5 MC_5 |
+chậm	CHI ÂN_1 MC_1 |
+chặt	CHI AN3_1 TC_1 |
+lựa	LI ƯƠN_1 |
+trấn	TRI ÂN_5 NC_5 |
+khối	KHI ÔN_5 IC_5 |
+tô	TI ÔN_0 |
+thù	THI UN_4 |
+nuôi	NI UÔN_0 IC_0 |
+mừng	MI ƯN_4 NGC_4 |
+quần	KI WO_4 ÂN_4 NC_4 |
+tứ	TI ƯC_5 |
+chu	CHI UN_0 |
+lệnh	LI ÊN_1 NGC_1 |
+góp	GI ON2_5 PC_5 |
+buổi	BI UÔN_2 IC_2 |
+miền	MI IÊN_4 NC_4 |
+xấu	XI ÂN_5 UC_5 |
+ngủ	NGI UN_2 |
+trì	TRI IN_4 |
+trầm	TRI ÂN_4 MC_4 |
+tia	TI IAN_0 |
+phim	PHI IN_0 MC_0 |
+mật	MI ÂN_1 TC_1 |
+xuân	XI WO_0 ÂN_0 NC_0 |
+lô	LI ÔN_0 |
+ngăn	NGI AN3_0 NC_0 |
+bậc	BI ÂN_1 KC_1 |
+tận	TI ÂN_1 NC_1 |
+dậy	ZI ÂN_1 YC_1 |
+dấu	ZI ÂN_5 UC_5 |
+kém	KI EN_5 MC_5 |
+thí	THI IN_5 |
+thảo	THI AN2_2 UC_2 |
+phối	PHI ÔN_5 IC_5 |
+thiệu	THI IÊN_1 UC_1 |
+hư	HI ƯC_0 |
+ngạc	NGI AN1_1 KC_1 |
+tàu	TI AN3_4 UC_4 |
+chấn	CHI ÂN_5 NC_5 |
+muội	MI UÔN_1 IC_1 |
+suốt	SI UÔN_5 TC_5 |
+mạch	MI AN1_1 KC_1 |
+dõi	ZI ON2_3 IC_3 |
+tộc	TI ÔN_1 KC_1 |
+gắng	GI AN3_5 NGC_5 |
+đợi	DI ƠN_1 IC_1 |
+xung	XI UN_0 NGC_0 |
+tắc	TI AN3_5 KC_5 |
+sẵn	SI AN3_3 NC_3 |
+thưởng	THI ƯƠN_2 NGC_2 |
+huống	HI UÔN_5 NGC_5 |
+tuyết	TI WO_5 YÊN_5 TC_5 |
+giật	ZI ÂN_1 TC_1 |
+đón	DI ON2_5 NC_5 |
+dục	ZI UN_1 KC_1 |
+nạn	NI AN2_1 NC_1 |
+mi	MI IN_0 |
+hưng	HI ƯN_0 NGC_0 |
+hầu	HI ÂN_4 UC_4 |
+trai	TRI AN2_0 IC_0 |
+thịt	THI IN_1 TC_1 |
+chăm	CHI AN3_0 MC_0 |
+cán	KI AN2_5 NC_5 |
+khỏe	KHI WO_2 EN_2 |
+lỗi	LI ÔN_3 IC_3 |
+dàng	ZI AN1_4 NGC_4 |
+nghỉ	NGI IN_2 |
+lắng	LI AN3_5 NGC_5 |
+nắng	NI AN3_5 NGC_5 |
+hãi	HI AN2_3 IC_3 |
+nhu	NHI UN_0 |
+ẩn	ÂN_2 NC_2 |
+trải	TRI AN2_2 IC_2 |
+nhắc	NHI AN3_5 KC_5 |
+quên	KI WO_0 ÊN_0 NC_0 |
+lang	LI AN1_0 NGC_0 |
+tạm	TI AN2_1 MC_1 |
+tràn	TRI AN2_4 NC_4 |
+buồn	BI UÔN_4 NC_4 |
+tái	TI AN2_5 IC_5 |
+ti	TI IN_0 |
+sa	SI AN2_0 |
+vững	VI ƯN_3 NGC_3 |
+ngư	NGI ƯC_0 |
+tụ	TI UN_1 |
+mắc	MI AN3_5 KC_5 |
+li	LI IN_0 |
+hạnh	HI AN1_1 NGC_1 |
+phái	PHI AN2_5 IC_5 |
+suất	SI WO_5 ÂN_5 TC_5 |
+niệm	NI IÊN_1 MC_1 |
+dựa	ZI ƯƠN_1 |
+thua	THI UÔN_0 |
+thôn	THI ÔN_0 NC_0 |
+ác	AN1_5 KC_5 |
+mộ	MI ÔN_1 |
+chiếm	CHI IÊN_5 MC_5 |
+nối	NI ÔN_5 IC_5 |
+thầm	THI ÂN_4 MC_4 |
+lê	LI ÊN_0 |
+đổ	DI ÔN_2 |
+dòng	ZI ON1_4 NGC_4 |
+khẳng	KHI AN3_2 NGC_2 |
+thiện	THI IÊN_1 NC_1 |
+lễ	LI ÊN_3 |
+xếp	XI ÊN_5 PC_5 |
+nổ	NI ÔN_2 |
+nền	NI ÊN_4 NC_4 |
+mơ	MI ƠC_0 |
+hi	HI IN_0 |
+dường	ZI ƯƠN_4 NGC_4 |
+nhị	NHI IN_1 |
+kỷ	KI IN_2 |
+lui	LI UN_0 IC_0 |
+nãy	NI AN3_3 YC_3 |
+chóng	CHI ON1_5 NGC_5 |
+hấp	HI ÂN_5 PC_5 |
+biện	BI IÊN_1 NC_1 |
+bổ	BI ÔN_2 |
+cốt	KI ÔN_5 TC_5 |
+loạn	LI WO_1 AN2_1 NC_1 |
+dáng	ZI AN1_5 NGC_5 |
+dư	ZI ƯC_0 |
+cận	KI ÂN_1 NC_1 |
+dũng	ZI UN_3 NGC_3 |
+lũ	LI UN_3 |
+khủng	KHI UN_2 NGC_2 |
+trao	TRI AN2_0 UC_0 |
+run	RI UN_0 NC_0 |
+sóng	SI ON1_5 NGC_5 |
+xi	XI IN_0 |
+lá	LI AN2_5 |
+ngôi	NGI ÔN_0 IC_0 |
+xương	XI ƯƠN_0 NGC_0 |
+phận	PHI ÂN_1 NC_1 |
+nè	NI EN_4 |
+sờ	SI ƠC_4 |
+đăng	DI AN3_0 NGC_0 |
+đà	DI AN2_4 |
+tỏ	TI ON2_2 |
+cuồng	KI UÔN_4 NGC_4 |
+ước	ƯƠN_5 KC_5 |
+lam	LI AN2_0 MC_0 |
+nhược	NHI ƯƠN_1 KC_1 |
+bạc	BI AN1_1 KC_1 |
+nhằm	NHI AN3_4 MC_4 |
+nháy	NHI AN3_5 YC_5 |
+đuổi	DI UÔN_2 IC_2 |
+si	SI IN_0 |
+mệnh	MI ÊN_1 NGC_1 |
+dĩ	ZI IN_3 |
+dữ	ZI ƯC_3 |
+ổn	ÔN_2 NC_2 |
+sánh	SI AN1_5 NGC_5 |
+gửi	GI ƯN_2 IC_2 |
+đích	DI IN_5 KC_5 |
+lặng	LI AN3_1 NGC_1 |
+chạm	CHI AN2_1 MC_1 |
+ưu	ƯN_0 UC_0 |
+bang	BI AN1_0 NGC_0 |
+ngập	NGI ÂN_1 PC_1 |
+bờ	BI ƠC_4 |
+cắt	KI AN3_5 TC_5 |
+gật	GI ÂN_1 TC_1 |
+mái	MI AN2_5 IC_5 |
+mãi	MI AN2_3 IC_3 |
+bảng	BI AN1_2 NGC_2 |
+bầu	BI ÂN_4 UC_4 |
+ngắn	NGI AN3_5 NC_5 |
+tan	TI AN2_0 NC_0 |
+khắp	KHI AN3_5 PC_5 |
+cân	KI ÂN_0 NC_0 |
+diệt	ZI IÊN_1 TC_1 |
+tim	TI IN_0 MC_0 |
+vít	VI IN_5 TC_5 |
+hận	HI ÂN_1 NC_1 |
+dứt	ZI ƯN_5 TC_5 |
+tán	TI AN2_5 NC_5 |
+tàn	TI AN2_4 NC_4 |
+màn	MI AN2_4 NC_4 |
+mạo	MI AN2_1 UC_1 |
+chục	CHI UN_1 KC_1 |
+dây	ZI ÂN_0 YC_0 |
+vê	VI ÊN_0 |
+rượu	RI ƯƠN_1 UC_1 |
+gồm	GI ÔN_4 MC_4 |
+tấm	TI ÂN_5 MC_5 |
+tao	TI AN2_0 UC_0 |
+chiếu	CHI IÊN_5 UC_5 |
+giấy	ZI ÂN_5 YC_5 |
+chớp	CHI ƠN_5 PC_5 |
+cư	KI ƯC_0 |
+bá	BI AN2_5 |
+tịch	TI IN_1 KC_1 |
+hung	HI UN_0 NGC_0 |
+che	CHI EN_0 |
+tuyên	TI WO_0 YÊN_0 NC_0 |
+thiệt	THI IÊN_1 TC_1 |
+gấp	GI ÂN_5 PC_5 |
+dưỡng	ZI ƯƠN_3 NGC_3 |
+nữu	NI ƯN_3 UC_3 |
+cất	KI ÂN_5 TC_5 |
+thoại	THI WO_1 AN2_1 IC_1 |
+ngã	NGI AN2_3 |
+ngựa	NGI ƯƠN_1 |
+nỗi	NI ÔN_3 IC_3 |
+cũ	KI UN_3 |
+tường	TI ƯƠN_4 NGC_4 |
+hôn	HI ÔN_0 NC_0 |
+sàng	SI AN1_4 NGC_4 |
+thụ	THI UN_1 |
+lùng	LI UN_4 NGC_4 |
+bật	BI ÂN_1 TC_1 |
+lắc	LI AN3_5 KC_5 |
+cử	KI ƯC_2 |
+ôm	ÔN_0 MC_0 |
+rô	RI ÔN_0 |
+tồn	TI ÔN_4 NC_4 |
+bi	BI IN_0 |
+tóc	TI ON1_5 KC_5 |
+tân	TI ÂN_0 NC_0 |
+soát	SI WO_5 AN2_5 TC_5 |
+thao	THI AN2_0 UC_0 |
+trúng	TRI UN_5 NGC_5 |
+niềm	NI IÊN_4 MC_4 |
+tươi	TI ƯƠN_0 IC_0 |
+siêu	SI IÊN_0 UC_0 |
+tùy	TI UN_4 YC_4 |
+chém	CHI EN_5 MC_5 |
+hán	HI AN2_5 NC_5 |
+cản	KI AN2_2 NC_2 |
+trồng	TRI ÔN_4 NGC_4 |
+thác	THI AN1_5 KC_5 |
+chấm	CHI ÂN_5 MC_5 |
+cải	KI AN2_2 IC_2 |
+bạo	BI AN2_1 UC_1 |
+ương	ƯƠN_0 NGC_0 |
+tuấn	TI WO_5 ÂN_5 NC_5 |
+hút	HI UN_5 TC_5 |
+quát	KI UÔN_5 TC_5 |
+nhá	NHI AN2_5 |
+bày	BI AN3_4 YC_4 |
+hạng	HI AN1_1 NGC_1 |
+tín	TI IN_5 NC_5 |
+ngọn	NGI ON2_1 NC_1 |
+ngạo	NGI AN2_1 UC_1 |
+má	MI AN2_5 |
+vết	VI ÊN_5 TC_5 |
+na	NI AN2_0 |
+chữa	CHI ƯƠN_3 |
+trượng	TRI ƯƠN_1 NGC_1 |
+chằm	CHI AN3_4 MC_4 |
+vỡ	VI ƠC_3 |
+bẩy	BI ÂN_2 YC_2 |
+xoay	XI WO_0 AN3_0 YC_0 |
+tả	TI AN2_2 |
+ngôn	NGI ÔN_0 NC_0 |
+buộc	BI UÔN_1 KC_1 |
+tròn	TRI ON2_4 NC_4 |
+bách	BI AN1_5 KC_5 |
+hài	HI AN2_4 IC_4 |
+lát	LI AN2_5 TC_5 |
+tựa	TI ƯƠN_1 |
+lượt	LI ƯƠN_1 TC_1 |
+bào	BI AN2_4 UC_4 |
+vung	VI UN_0 NGC_0 |
+kê	KI ÊN_0 |
+trùng	TRI UN_4 NGC_4 |
+trào	TRI AN2_4 UC_4 |
+cặp	KI AN3_1 PC_1 |
+phượng	PHI ƯƠN_1 NGC_1 |
+quán	KI UÔN_5 NC_5 |
+ngực	NGI ƯN_1 KC_1 |
+phật	PHI ÂN_1 TC_1 |
+tụi	TI UN_1 IC_1 |
+ám	AN2_5 MC_5 |
+âu	ÂN_0 UC_0 |
+thăm	THI AN3_0 MC_0 |
+tà	TI AN2_4 |
+tổn	TI ÔN_2 NC_2 |
+đốc	DI ÔN_5 KC_5 |
+sạch	SI AN1_1 KC_1 |
+khóc	KHI ON1_5 KC_5 |
+luồng	LI UÔN_4 NGC_4 |
+ngon	NGI ON2_0 NC_0 |
+chợt	CHI ƠN_1 TC_1 |
+khẽ	KHI EN_3 |
+kiên	KI IÊN_0 NC_0 |
+hoài	HI WO_4 AN2_4 IC_4 |
+chảy	CHI AN3_2 YC_2 |
+khôi	KHI ÔN_0 IC_0 |
+sửa	SI ƯƠN_2 |
+thai	THI AN2_0 IC_0 |
+vĩnh	VI IN_3 NGC_3 |
+canh	KI AN1_0 NGC_0 |
+phổ	PHI ÔN_2 |
+diệu	ZI IÊN_1 UC_1 |
+nét	NI EN_5 TC_5 |
+ôn	ÔN_0 NC_0 |
+cương	KI ƯƠN_0 NGC_0 |
+tháp	THI AN2_5 PC_5 |
+cơm	KI ƠN_0 MC_0 |
+nhé	NHI EN_5 |
+lẫn	LI ÂN_3 NC_3 |
+n	NI |
+chúc	CHI UN_5 KC_5 |
+trốn	TRI ÔN_5 NC_5 |
+đập	DI ÂN_1 PC_1 |
+bấm	BI ÂN_5 MC_5 |
+nhiễm	NHI IÊN_3 MC_3 |
+tỏa	TI WO_2 AN2_2 |
+sương	SI ƯƠN_0 NGC_0 |
+thước	THI ƯƠN_5 KC_5 |
+ngại	NGI AN2_1 IC_1 |
+thách	THI AN1_5 KC_5 |
+hẹn	HI EN_1 NC_1 |
+quê	KI WO_0 ÊN_0 |
+thuyền	THI WO_4 YÊN_4 NC_4 |
+duyên	ZI WO_0 YÊN_0 NC_0 |
+hạt	HI AN2_1 TC_1 |
+ki	KI IN_0 |
+đòi	DI ON2_4 IC_4 |
+lối	LI ÔN_5 IC_5 |
+đắc	DI AN3_5 KC_5 |
+gương	GI ƯƠN_0 NGC_0 |
+phạt	PHI AN2_1 TC_1 |
+cốc	KI ÔN_5 KC_5 |
+hoang	HI WO_0 AN1_0 NGC_0 |
+mau	MI AN3_0 UC_0 |
+truy	TRI UN_0 YC_0 |
+bát	BI AN2_5 TC_5 |
+tỉ	TI IN_2 |
+thúy	THI UN_5 YC_5 |
+cướp	KI ƯƠN_5 PC_5 |
+cơn	KI ƠN_0 NC_0 |
+dao	ZI AN2_0 UC_0 |
+đinh	DI IN_0 NGC_0 |
+giỏi	ZI ON2_2 IC_2 |
+khám	KHI AN2_5 MC_5 |
+tuệ	TI WO_1 ÊN_1 |
+oanh	WO_0 AN1_0 NGC_0 |
+mại	MI AN2_1 IC_1 |
+hàm	HI AN2_4 MC_4 |
+răng	RI AN3_0 NGC_0 |
+gà	GI AN2_4 |
+sóc	SI ON1_5 KC_5 |
+lầm	LI ÂN_4 MC_4 |
+khúc	KHI UN_5 KC_5 |
+cháy	CHI AN3_5 YC_5 |
+kênh	KI ÊN_0 NGC_0 |
+man	MI AN2_0 NC_0 |
+chỉnh	CHI IN_2 NGC_2 |
+buông	BI UÔN_0 NGC_0 |
+tòa	TI WO_4 AN2_4 |
+bão	BI AN2_3 UC_3 |
+mộng	MI ÔN_1 NGC_1 |
+hứng	HI ƯN_5 NGC_5 |
+lùi	LI UN_4 IC_4 |
+phức	PHI ƯN_5 KC_5 |
+nụ	NI UN_1 |
+tiếc	TI IÊN_5 KC_5 |
+lỗ	LI ÔN_3 |
+cờ	KI ƠC_4 |
+hy	HI IN_0 |
+tặng	TI AN3_1 NGC_1 |
+sung	SI UN_0 NGC_0 |
+lược	LI ƯƠN_1 KC_1 |
+thận	THI ÂN_1 NC_1 |
+xông	XI ÔN_0 NGC_0 |
+giây	ZI ÂN_0 YC_0 |
+tọa	TI WO_1 AN2_1 |
+cẩn	KI ÂN_2 NC_2 |
+ga	GI AN2_0 |
+ngô	NGI ÔN_0 |
+tạp	TI AN2_1 PC_1 |
+chốt	CHI ÔN_5 TC_5 |
+gốc	GI ÔN_5 KC_5 |
+điên	DI IÊN_0 NC_0 |
+gắn	GI AN3_5 NC_5 |
+nấu	NI ÂN_5 UC_5 |
+nát	NI AN2_5 TC_5 |
+chụp	CHI UN_1 PC_1 |
+in	IN_0 NC_0 |
+ngữ	NGI ƯC_3 |
+đợt	DI ƠN_1 TC_1 |
+cấu	KI ÂN_5 UC_5 |
+xinh	XI IN_0 NGC_0 |
+mỉm	MI IN_2 MC_2 |
+bữa	BI ƯƠN_3 |
+ngón	NGI ON2_5 NC_5 |
+vọt	VI ON2_1 TC_1 |
+quà	KI UÔN_4 |
+bò	BI ON2_4 |
+mưu	MI ƯN_0 UC_0 |
+cập	KI ÂN_1 PC_1 |
+mãn	MI AN2_3 NC_3 |
+tha	THI AN2_0 |
+kháng	KHI AN1_5 NGC_5 |
+mắn	MI AN3_5 NC_5 |
+hằng	HI AN3_4 NGC_4 |
+chúa	CHI UÔN_5 |
+hô	HI ÔN_0 |
+cứng	KI ƯN_5 NGC_5 |
+can	KI AN2_0 NC_0 |
+nhãn	NHI AN2_3 NC_3 |
+thập	THI ÂN_1 PC_1 |
+đẳng	DI AN3_2 NGC_2 |
+chuyến	CHI WO_5 YÊN_5 NC_5 |
+mảnh	MI AN1_2 NGC_2 |
+phấn	PHI ÂN_5 NC_5 |
+thảm	THI AN2_2 MC_2 |
+bụng	BI UN_1 NGC_1 |
+miễn	MI IÊN_3 NC_3 |
+cuốn	KI UÔN_5 NC_5 |
+trúc	TRI UN_5 KC_5 |
+vây	VI ÂN_0 YC_0 |
+vẽ	VI EN_3 |
+thả	THI AN2_2 |
+nghèo	NGI EN_4 UC_4 |
+chứa	CHI ƯƠN_5 |
+nhàng	NHI AN1_4 NGC_4 |
+khống	KHI ÔN_5 NGC_5 |
+mãnh	MI AN1_3 NGC_3 |
+hiển	HI IÊN_2 NC_2 |
+rối	RI ÔN_5 IC_5 |
+nhạt	NHI AN2_1 TC_1 |
+thoáng	THI WO_5 AN1_5 NGC_5 |
+i	IN_0 |
+giấu	ZI ÂN_5 UC_5 |
+pha	PHI AN2_0 |
+kịch	KI IN_1 KC_1 |
+pháo	PHI AN2_5 UC_5 |
+mềm	MI ÊN_4 MC_4 |
+nhã	NHI AN2_3 |
+đoạt	DI WO_1 AN2_1 TC_1 |
+mùng	MI UN_4 NGC_4 |
+sắt	SI AN3_5 TC_5 |
+làng	LI AN1_4 NGC_4 |
+vong	VI ON1_0 NGC_0 |
+mát	MI AN2_5 TC_5 |
+tờ	TI ƠC_4 |
+đâm	DI ÂN_0 MC_0 |
+ngộ	NGI ÔN_1 |
+quét	KI WO_5 EN_5 TC_5 |
+nguyện	NGI WO_1 YÊN_1 NC_1 |
+ngự	NGI ƯC_1 |
+khinh	KHI IN_0 NGC_0 |
+vinh	VI IN_0 NGC_0 |
+nhắm	NHI AN3_5 MC_5 |
+giáp	ZI AN2_5 PC_5 |
+ngưng	NGI ƯN_0 NGC_0 |
+chặn	CHI AN3_1 NC_1 |
+ri	RI IN_0 |
+mệt	MI ÊN_1 TC_1 |
+bánh	BI AN1_5 NGC_5 |
+kiếp	KI IÊN_5 PC_5 |
+ói	ON2_5 IC_5 |
+chăng	CHI AN3_0 NGC_0 |
+thuê	THI WO_0 ÊN_0 |
+giơ	ZI ƠC_0 |
+điền	DI IÊN_4 NC_4 |
+khóa	KHI WO_5 AN2_5 |
+tú	TI UN_5 |
+thuyết	THI WO_5 YÊN_5 TC_5 |
+tí	TI IN_5 |
+bích	BI IN_5 KC_5 |
+tệ	TI ÊN_1 |
+khô	KHI ÔN_0 |
+va	VI AN2_0 |
+mùi	MI UN_4 IC_4 |
+hộp	HI ÔN_1 PC_1 |
+nờ	NI ƠC_4 |
+nọ	NI ON2_1 |
+lích	LI IN_5 KC_5 |
+hang	HI AN1_0 NGC_0 |
+ảo	AN2_2 UC_2 |
+xích	XI IN_5 KC_5 |
+đằng	DI AN3_4 NGC_4 |
+diễm	ZI IÊN_3 MC_3 |
+đo	DI ON2_0 |
+vỗ	VI ÔN_3 |
+trống	TRI ÔN_5 NGC_5 |
+quận	KI WO_1 ÂN_1 NC_1 |
+trụ	TRI UN_1 |
+điệp	DI IÊN_1 PC_1 |
+lành	LI AN1_4 NGC_4 |
+kình	KI IN_4 NGC_4 |
+khoản	KHI WO_2 AN2_2 NC_2 |
+ngu	NGI UN_0 |
+nợ	NI ƠC_1 |
+chó	CHI ON2_5 |
+phun	PHI UN_0 NC_0 |
+nêu	NI ÊN_0 UC_0 |
+kì	KI IN_4 |
+trà	TRI AN2_4 |
+thăng	THI AN3_0 NGC_0 |
+thẩm	THI ÂN_2 MC_2 |
+mạc	MI AN1_1 KC_1 |
+yến	YÊN_5 NC_5 |
+cà	KI AN2_4 |
+lí	LI IN_5 |
+khảo	KHI AN2_2 UC_2 |
+chim	CHI IN_0 MC_0 |
+cột	KI ÔN_1 TC_1 |
+cấm	KI ÂN_5 MC_5 |
+vuông	VI UÔN_0 NGC_0 |
+en	EN_0 NC_0 |
+thoải	THI WO_2 AN2_2 IC_2 |
+khiếp	KHI IÊN_5 PC_5 |
+rung	RI UN_0 NGC_0 |
+lướt	LI ƯƠN_5 TC_5 |
+tạ	TI AN2_1 |
+im	IN_0 MC_0 |
+ư	ƯC_0 |
+hoảng	HI WO_2 AN1_2 NGC_2 |
+trinh	TRI IN_0 NGC_0 |
+nỗ	NI ÔN_3 |
+hiếu	HI IÊN_5 UC_5 |
+phẳng	PHI AN3_2 NGC_2 |
+huyệt	HI WO_1 YÊN_1 TC_1 |
+nhẫn	NHI ÂN_3 NC_3 |
+khánh	KHI AN1_5 NGC_5 |
+ân	ÂN_0 NC_0 |
+mông	MI ÔN_0 NGC_0 |
+giảng	ZI AN1_2 NGC_2 |
+thấu	THI ÂN_5 UC_5 |
+triều	TRI IÊN_4 UC_4 |
+lẻ	LI EN_2 |
+lông	LI ÔN_0 NGC_0 |
+đỗ	DI ÔN_3 |
+khấu	KHI ÂN_5 UC_5 |
+sốt	SI ÔN_5 TC_5 |
+lừa	LI ƯƠN_4 |
+lưỡi	LI ƯƠN_3 IC_3 |
+họp	HI ON2_1 PC_1 |
+kiêu	KI IÊN_0 UC_0 |
+chả	CHI AN2_2 |
+khái	KHI AN2_5 IC_5 |
+ngao	NGI AN2_0 UC_0 |
+phê	PHI ÊN_0 |
+lưới	LI ƯƠN_5 IC_5 |
+giành	ZI AN1_4 NGC_4 |
+sài	SI AN2_4 IC_4 |
+lở	LI ƠC_2 |
+tiềm	TI IÊN_4 MC_4 |
+đèn	DI EN_4 NC_4 |
+luân	LI WO_0 ÂN_0 NC_0 |
+hôi	HI ÔN_0 IC_0 |
+thâm	THI ÂN_0 MC_0 |
+hảo	HI AN2_2 UC_2 |
+ung	UN_0 NGC_0 |
+miếng	MI IÊN_5 NGC_5 |
+co	KI ON2_0 |
+tảng	TI AN1_2 NGC_2 |
+lãng	LI AN1_3 NGC_3 |
+lăn	LI AN3_0 NC_0 |
+phách	PHI AN1_5 KC_5 |
+hiền	HI IÊN_4 NC_4 |
+phán	PHI AN2_5 NC_5 |
+ét	EN_5 TC_5 |
+hiếm	HI IÊN_5 MC_5 |
+liều	LI IÊN_4 UC_4 |
+xưng	XI ƯN_0 NGC_0 |
+lóe	LI WO_5 EN_5 |
+ni	NI IN_0 |
+dồn	ZI ÔN_4 NC_4 |
+căng	KI AN3_0 NGC_0 |
+phiên	PHI IÊN_0 NC_0 |
+ủng	UN_2 NGC_2 |
+rắn	RI AN3_5 NC_5 |
+gỗ	GI ÔN_3 |
+đành	DI AN1_4 NGC_4 |
+véc	VI EN_5 KC_5 |
+loài	LI WO_4 AN2_4 IC_4 |
+thuần	THI WO_4 ÂN_4 NC_4 |
+bồi	BI ÔN_4 IC_4 |
+rãi	RI AN2_3 IC_3 |
+túc	TI UN_5 KC_5 |
+mây	MI ÂN_0 YC_0 |
+cắn	KI AN3_5 NC_5 |
+tri	TRI IN_0 |
+ném	NI EN_5 MC_5 |
+phiền	PHI IÊN_4 NC_4 |
+gỡ	GI ƠC_3 |
+phàm	PHI AN2_4 MC_4 |
+nga	NGI AN2_0 |
+sổ	SI ÔN_2 |
+sác	SI AN1_5 KC_5 |
+khen	KHI EN_0 NC_0 |
+thải	THI AN2_2 IC_2 |
+sạt	SI AN2_1 TC_1 |
+viễn	VI IÊN_3 NC_3 |
+loạt	LI WO_1 AN2_1 TC_1 |
+cỡ	KI ƠC_3 |
+rác	RI AN1_5 KC_5 |
+đốt	DI ÔN_5 TC_5 |
+cám	KI AN2_5 MC_5 |
+khổng	KHI ÔN_2 NGC_2 |
+rào	RI AN2_4 UC_4 |
+thiền	THI IÊN_4 NC_4 |
+gờ	GI ƠC_4 |
+hao	HI AN2_0 UC_0 |
+khuôn	KHI UÔN_0 NC_0 |
+liễu	LI IÊN_3 UC_3 |
+xứng	XI ƯN_5 NGC_5 |
+làn	LI AN2_4 NC_4 |
+gọn	GI ON2_1 NC_1 |
+nhịn	NHI IN_1 NC_1 |
+ầm	ÂN_4 MC_4 |
+dịp	ZI IN_1 PC_1 |
+liếc	LI IÊN_5 KC_5 |
+gan	GI AN2_0 NC_0 |
+chợ	CHI ƠC_1 |
+khẩn	KHI ÂN_2 NC_2 |
+giàu	ZI AN3_4 UC_4 |
+ấm	ÂN_5 MC_5 |
+say	SI AN3_0 YC_0 |
+túi	TI UN_5 IC_5 |
+trôi	TRI ÔN_0 IC_0 |
+họa	HI WO_1 AN2_1 |
+dày	ZI AN3_4 YC_4 |
+mượn	MI ƯƠN_1 NC_1 |
+nở	NI ƠC_2 |
+thỏa	THI WO_2 AN2_2 |
+vay	VI AN3_0 YC_0 |
+xu	XI UN_0 |
+lái	LI AN2_5 IC_5 |
+nhan	NHI AN2_0 NC_0 |
+hừ	HI ƯC_4 |
+bè	BI EN_4 |
+cự	KI ƯC_1 |
+phỏng	PHI ON1_2 NGC_2 |
+cúi	KI UN_5 IC_5 |
+mồ	MI ÔN_4 |
+túy	TI UN_5 YC_5 |
+buôn	BI UÔN_0 NC_0 |
+kín	KI IN_5 NC_5 |
+ngơi	NGI ƠN_0 IC_0 |
+lồ	LI ÔN_4 |
+não	NI AN2_3 UC_3 |
+hứa	HI ƯƠN_5 |
+khuyết	KHI WO_5 YÊN_5 TC_5 |
+sê	SI ÊN_0 |
+bền	BI ÊN_4 NC_4 |
+huế	HI WO_5 ÊN_5 |
+ngài	NGI AN2_4 IC_4 |
+mâu	MI ÂN_0 UC_0 |
+gòn	GI ON2_4 NC_4 |
+trăng	TRI AN3_0 NGC_0 |
+khích	KHI IN_5 KC_5 |
+bãi	BI AN2_3 IC_3 |
+bớt	BI ƠN_5 TC_5 |
+viêm	VI IÊN_0 MC_0 |
+bốc	BI ÔN_5 KC_5 |
+thổ	THI ÔN_2 |
+đòn	DI ON2_4 NC_4 |
+bổn	BI ÔN_2 NC_2 |
+rốt	RI ÔN_5 TC_5 |
+cỗ	KI ÔN_3 |
+tùng	TI UN_4 NGC_4 |
+móc	MI ON1_5 KC_5 |
+cỏ	KI ON2_2 |
+trảm	TRI AN2_2 MC_2 |
+dâng	ZI ÂN_0 NGC_0 |
+dập	ZI ÂN_1 PC_1 |
+tốn	TI ÔN_5 NC_5 |
+đàm	DI AN2_4 MC_4 |
+	NIAN2_0 NC_0 |
+bấy	BI ÂN_5 YC_5 |
+thuế	THI WO_5 ÊN_5 |
+xíu	XI IN_5 UC_5 |
+nhuận	NHI WO_1 ÂN_1 NC_1 |
+hạch	HI AN1_1 KC_1 |
+vườn	VI ƯƠN_4 NC_4 |
+phường	PHI ƯƠN_4 NGC_4 |
+côn	KI ÔN_0 NC_0 |
+sâm	SI ÂN_0 MC_0 |
+x	XI |
+rực	RI ƯN_1 KC_1 |
+hét	HI EN_5 TC_5 |
+kiều	KI IÊN_4 UC_4 |
+hiên	HI IÊN_0 NC_0 |
+mụ	MI UN_1 |
+nhắn	NHI AN3_5 NC_5 |
+há	HI AN2_5 |
+đụng	DI UN_1 NGC_1 |
+phan	PHI AN2_0 NC_0 |
+dắt	ZI AN3_5 TC_5 |
+ven	VI EN_0 NC_0 |
+san	SI AN2_0 NC_0 |
+vách	VI AN1_5 KC_5 |
+nhục	NHI UN_1 KC_1 |
+hủy	HI UN_2 YC_2 |
+đeo	DI EN_0 UC_0 |
+ái	AN2_5 IC_5 |
+đạp	DI AN2_1 PC_1 |
+mộc	MI ÔN_1 KC_1 |
+bụi	BI UN_1 IC_1 |
+tuyền	TI WO_4 YÊN_4 NC_4 |
+mực	MI ƯN_1 KC_1 |
+đựng	DI ƯN_1 NGC_1 |
+ức	ƯN_5 KC_5 |
+phiếu	PHI IÊN_5 UC_5 |
+khuyên	KHI WO_0 YÊN_0 NC_0 |
+bùng	BI UN_4 NGC_4 |
+chở	CHI ƠC_2 |
+mù	MI UN_4 |
+xâm	XI ÂN_0 MC_0 |
+dính	ZI IN_5 NGC_5 |
+chủng	CHI UN_2 NGC_2 |
+rít	RI IN_5 TC_5 |
+lệch	LI ÊN_1 KC_1 |
+than	THI AN2_0 NC_0 |
+cưới	KI ƯƠN_5 IC_5 |
+giường	ZI ƯƠN_4 NGC_4 |
+b	BI |
+trâm	TRI ÂN_0 MC_0 |
+thổi	THI ÔN_2 IC_2 |
+hối	HI ÔN_5 IC_5 |
+chén	CHI EN_5 NC_5 |
+đua	DI UÔN_0 |
+dầu	ZI ÂN_4 UC_4 |
+tắt	TI AN3_5 TC_5 |
+hiếp	HI IÊN_5 PC_5 |
+rỡ	RI ƠC_3 |
+mến	MI ÊN_5 NC_5 |
+thơm	THI ƠN_0 MC_0 |
+sữa	SI ƯƠN_3 |
+óc	ON1_5 KC_5 |
+nô	NI ÔN_0 |
+bận	BI ÂN_1 NC_1 |
+nhượng	NHI ƯƠN_1 NGC_1 |
+sàn	SI AN2_4 NC_4 |
+kiệt	KI IÊN_1 TC_1 |
+lấp	LI ÂN_5 PC_5 |
+muộn	MI UÔN_1 NC_1 |
+oán	WO_5 AN2_5 NC_5 |
+đùa	DI UÔN_4 |
+rèn	RI EN_4 NC_4 |
+đói	DI ON2_5 IC_5 |
+tím	TI IN_5 MC_5 |
+đồn	DI ÔN_4 NC_4 |
+rau	RI AN3_0 UC_0 |
+mỗ	MI ÔN_3 |
+dò	ZI ON2_4 |
+nhấn	NHI ÂN_5 NC_5 |
+kho	KHI ON2_0 |
+đái	DI AN2_5 IC_5 |
+trại	TRI AN2_1 IC_1 |
+điệu	DI IÊN_1 UC_1 |
+dực	ZI ƯN_1 KC_1 |
+hở	HI ƠC_2 |
+đam	DI AN2_0 MC_0 |
+trục	TRI UN_1 KC_1 |
+trắc	TRI AN3_5 KC_5 |
+đứt	DI ƯN_5 TC_5 |
+bề	BI ÊN_4 |
+nề	NI ÊN_4 |
+súng	SI UN_5 NGC_5 |
+hiến	HI IÊN_5 NC_5 |
+lộc	LI ÔN_1 KC_1 |
+bếp	BI ÊN_5 PC_5 |
+ghế	GI ÊN_5 |
+sót	SI ON2_5 TC_5 |
+lãi	LI AN2_3 IC_3 |
+trú	TRI UN_5 |
+vời	VI ƠN_4 IC_4 |
+thuẫn	THI WO_3 ÂN_3 NC_3 |
+tần	TI ÂN_4 NC_4 |
+sanh	SI AN1_0 NGC_0 |
+ồ	ÔN_4 |
+gói	GI ON2_5 IC_5 |
+thọ	THI ON2_1 |
+hạc	HI AN1_1 KC_1 |
+rửa	RI ƯƠN_2 |
+thiểu	THI IÊN_2 UC_2 |
+trân	TRI ÂN_0 NC_0 |
+sôi	SI ÔN_0 IC_0 |
+tát	TI AN2_5 TC_5 |
+xạ	XI AN2_1 |
+ống	ÔN_5 NGC_5 |
+trưa	TRI ƯƠN_0 |
+tật	TI ÂN_1 TC_1 |
+trảo	TRI AN2_2 UC_2 |
+óng	ON1_5 NGC_5 |
+hè	HI EN_4 |
+thèm	THI EN_4 MC_4 |
+né	NI EN_5 |
+cắp	KI AN3_5 PC_5 |
+tui	TI UN_0 IC_0 |
+tù	TI UN_4 |
+thốt	THI ÔN_5 TC_5 |
+kèm	KI EN_4 MC_4 |
+đạn	DI AN2_1 NC_1 |
+bén	BI EN_5 NC_5 |
+vả	VI AN2_2 |
+khôn	KHI ÔN_0 NC_0 |
+múa	MI UÔN_5 |
+trưng	TRI ƯN_0 NGC_0 |
+chọc	CHI ON1_1 KC_1 |
+khuyến	KHI WO_5 YÊN_5 NC_5 |
+nẵng	NI AN3_3 NGC_3 |
+dã	ZI AN2_3 |
+nuốt	NI UÔN_5 TC_5 |
+chán	CHI AN2_5 NC_5 |
+phất	PHI ÂN_5 TC_5 |
+chuỗi	CHI UÔN_3 IC_3 |
+cưỡng	KI ƯƠN_3 NGC_3 |
+mắng	MI AN3_5 NGC_5 |
+ruột	RI UÔN_1 TC_1 |
+cảng	KI AN1_2 NGC_2 |
+bẩm	BI ÂN_2 MC_2 |
+lọt	LI ON2_1 TC_1 |
+khiển	KHI IÊN_2 NC_2 |
+khung	KHI UN_0 NGC_0 |
+mỏi	MI ON2_2 IC_2 |
+trừng	TRI ƯN_4 NGC_4 |
+chùa	CHI UÔN_4 |
+phế	PHI ÊN_5 |
+bộc	BI ÔN_1 KC_1 |
+tháo	THI AN2_5 UC_5 |
+lỡ	LI ƠC_3 |
+ngọt	NGI ON2_1 TC_1 |
+trợn	TRI ƠN_1 NC_1 |
+bó	BI ON2_5 |
+ngầm	NGI ÂN_4 MC_4 |
+đáy	DI AN3_5 YC_5 |
+hông	HI ÔN_0 NGC_0 |
+ghê	GI ÊN_0 |
+lộn	LI ÔN_1 NC_1 |
+bông	BI ÔN_0 NGC_0 |
+bến	BI ÊN_5 NC_5 |
+bù	BI UN_4 |
+xé	XI EN_5 |
+ghét	GI EN_5 TC_5 |
+tết	TI ÊN_5 TC_5 |
+non	NI ON2_0 NC_0 |
+tiễn	TI IÊN_3 NC_3 |
+quỹ	KI UN_3 YC_3 |
+chư	CHI ƯC_0 |
+manh	MI AN1_0 NGC_0 |
+trộm	TRI ÔN_1 MC_1 |
+cãi	KI AN2_3 IC_3 |
+sợi	SI ƠN_1 IC_1 |
+bừng	BI ƯN_4 NGC_4 |
+vế	VI ÊN_5 |
+bám	BI AN2_5 MC_5 |
+đậu	DI ÂN_1 UC_1 |
+quỳnh	KI WO_4 IN_4 NGC_4 |
+ôi	ÔN_0 IC_0 |
+quế	KI WO_5 ÊN_5 |
+ngẩn	NGI ÂN_2 NC_2 |
+sướng	SI ƯƠN_5 NGC_5 |
+thầu	THI ÂN_4 UC_4 |
+đặng	DI AN3_1 NGC_1 |
+hân	HI ÂN_0 NC_0 |
+oai	WO_0 AN2_0 IC_0 |
+vĩ	VI IN_3 |
+lò	LI ON2_4 |
+xăng	XI AN3_0 NGC_0 |
+dọa	ZI WO_1 AN2_1 |
+tách	TI AN1_5 KC_5 |
+chẽ	CHI EN_3 |
+dịu	ZI IN_1 UC_1 |
+chen	CHI EN_0 NC_0 |
+lây	LI ÂN_0 YC_0 |
+lữ	LI ƯC_3 |
+gãy	GI AN3_3 YC_3 |
+đáo	DI AN2_5 UC_5 |
+đờ	DI ƠC_4 |
+đấm	DI ÂN_5 MC_5 |
+lân	LI ÂN_0 NC_0 |
+ớ	ƠC_5 |
+ngưu	NGI ƯN_0 UC_0 |
+tràng	TRI AN1_4 NGC_4 |
+thỉnh	THI IN_2 NGC_2 |
+tôm	TI ÔN_0 MC_0 |
+xà	XI AN2_4 |
+gánh	GI AN1_5 NGC_5 |
+ngoan	NGI WO_0 AN2_0 NC_0 |
+hỗn	HI ÔN_3 NC_3 |
+nho	NHI ON2_0 |
+đới	DI ƠN_5 IC_5 |
+gạo	GI AN2_1 UC_1 |
+thản	THI AN2_2 NC_2 |
+chăn	CHI AN3_0 NC_0 |
+tuân	TI WO_0 ÂN_0 NC_0 |
+khiếu	KHI IÊN_5 UC_5 |
+triệt	TRI IÊN_1 TC_1 |
+chối	CHI ÔN_5 IC_5 |
+đậm	DI ÂN_1 MC_1 |
+nộ	NI ÔN_1 |
+hoành	HI WO_4 AN1_4 NGC_4 |
+nai	NI AN2_0 IC_0 |
+ghép	GI EN_5 PC_5 |
+dâu	ZI ÂN_0 UC_0 |
+vải	VI AN2_2 IC_2 |
+nạp	NI AN2_1 PC_1 |
+trâu	TRI ÂN_0 UC_0 |
+chênh	CHI ÊN_0 NGC_0 |
+đền	DI ÊN_4 NC_4 |
+hít	HI IN_5 TC_5 |
+đớn	DI ƠN_5 NC_5 |
+rồng	RI ÔN_4 NGC_4 |
+lúa	LI UÔN_5 |
+hỏng	HI ON1_2 NGC_2 |
+lính	LI IN_5 NGC_5 |
+suối	SI UÔN_5 IC_5 |
+sầu	SI ÂN_4 UC_4 |
+lợn	LI ƠN_1 NC_1 |
+đùng	DI UN_4 NGC_4 |
+hoá	HI WO_5 AN2_5 |
+đống	DI ÔN_5 NGC_5 |
+khoan	KHI WO_0 AN2_0 NC_0 |
+ào	AN2_4 UC_4 |
+mồm	MI ÔN_4 MC_4 |
+trích	TRI IN_5 KC_5 |
+khát	KHI AN2_5 TC_5 |
+chớ	CHI ƠC_5 |
+vắng	VI AN3_5 NGC_5 |
+cẩu	KI ÂN_2 UC_2 |
+rẩy	RI ÂN_2 YC_2 |
+giấc	ZI ÂN_5 KC_5 |
+dọc	ZI ON1_1 KC_1 |
+diệp	ZI IÊN_1 PC_1 |
+đãi	DI AN2_3 IC_3 |
+treo	TRI EN_0 UC_0 |
+chui	CHI UN_0 IC_0 |
+đuôi	DI UÔN_0 IC_0 |
+lén	LI EN_5 NC_5 |
+thẻ	THI EN_2 |
+trán	TRI AN2_5 NC_5 |
+trật	TRI ÂN_1 TC_1 |
+ngẩng	NGI ÂN_2 NGC_2 |
+lầu	LI ÂN_4 UC_4 |
+vươn	VI ƯƠN_0 NC_0 |
+thịnh	THI IN_1 NGC_1 |
+mợ	MI ƠC_1 |
+mò	MI ON2_4 |
+thang	THI AN1_0 NGC_0 |
+khe	KHI EN_0 |
+ưng	ƯN_0 NGC_0 |
+gầm	GI ÂN_4 MC_4 |
+châm	CHI ÂN_0 MC_0 |
+tàng	TI AN1_4 NGC_4 |
+trứng	TRI ƯN_5 NGC_5 |
+leo	LI EN_0 UC_0 |
+trạm	TRI AN2_1 MC_1 |
+giày	ZI AN3_4 YC_4 |
+thê	THI ÊN_0 |
+truyện	TRI WO_1 YÊN_1 NC_1 |
+nướng	NI ƯƠN_5 NGC_5 |
+lồng	LI ÔN_4 NGC_4 |
+khuất	KHI WO_5 ÂN_5 TC_5 |
+dại	ZI AN2_1 IC_1 |
+ngâm	NGI ÂN_0 MC_0 |
+bế	BI ÊN_5 |
+mũ	MI UN_3 |
+vặn	VI AN3_1 NC_1 |
+gợi	GI ƠN_1 IC_1 |
+lờ	LI ƠC_4 |
+nộp	NI ÔN_1 PC_1 |
+sứ	SI ƯC_5 |
+dọn	ZI ON2_1 NC_1 |
+giọt	ZI ON2_1 TC_1 |
+huệ	HI WO_1 ÊN_1 |
+vua	VI UÔN_0 |
+lào	LI AN2_4 UC_4 |
+rưỡi	RI ƯƠN_3 IC_3 |
+ừm	ƯN_4 MC_4 |
+xám	XI AN2_5 MC_5 |
+lắp	LI AN3_5 PC_5 |
+táo	TI AN2_5 UC_5 |
+muối	MI UÔN_5 IC_5 |
+ngưỡng	NGI ƯƠN_3 NGC_3 |
+hoại	HI WO_1 AN2_1 IC_1 |
+hãng	HI AN1_3 NGC_3 |
+nghiêng	NGI IÊN_0 NGC_0 |
+bọc	BI ON1_1 KC_1 |
+ngơ	NGI ƠC_0 |
+tre	TRI EN_0 |
+khói	KHI ON2_5 IC_5 |
+ê	ÊN_0 |
+rủi	RI UN_2 IC_2 |
+vất	VI ÂN_5 TC_5 |
+ro	RI ON2_0 |
+hăng	HI AN3_0 NGC_0 |
+ủa	UÔN_2 |
+thét	THI EN_5 TC_5 |
+phụng	PHI UN_1 NGC_1 |
+xóa	XI WO_5 AN2_5 |
+sạn	SI AN2_1 NC_1 |
+nghịch	NGI IN_1 KC_1 |
+bái	BI AN2_5 IC_5 |
+quỳ	KI UN_4 YC_4 |
+phước	PHI ƯƠN_5 KC_5 |
+vuốt	VI UÔN_5 TC_5 |
+bực	BI ƯN_1 KC_1 |
+mạn	MI AN2_1 NC_1 |
+pho	PHI ON2_0 |
+vẹn	VI EN_1 NC_1 |
+thoảng	THI WO_2 AN1_2 NGC_2 |
+bùi	BI UN_4 IC_4 |
+ngó	NGI ON2_5 |
+ngột	NGI ÔN_1 TC_1 |
+nảy	NI AN3_2 YC_2 |
+xì	XI IN_4 |
+bành	BI AN1_4 NGC_4 |
+líp	LI IN_5 PC_5 |
+thói	THI ON2_5 IC_5 |
+bội	BI ÔN_1 IC_1 |
+nham	NHI AN2_0 MC_0 |
+xô	XI ÔN_0 |
+ngây	NGI ÂN_0 YC_0 |
+hầm	HI ÂN_4 MC_4 |
+suýt	SI WO_5 IN_5 TC_5 |
+khiêu	KHI IÊN_0 UC_0 |
+lứa	LI ƯƠN_5 |
+đoan	DI WO_0 AN2_0 NC_0 |
+lốc	LI ÔN_5 KC_5 |
+trữ	TRI ƯC_3 |
+nhỉ	NHI IN_2 |
+nghiệt	NGI IÊN_1 TC_1 |
+bần	BI ÂN_4 NC_4 |
+chìm	CHI IN_4 MC_4 |
+ngốc	NGI ÔN_5 KC_5 |
+sét	SI EN_5 TC_5 |
+kiệm	KI IÊN_1 MC_1 |
+ngắm	NGI AN3_5 MC_5 |
+dông	ZI ÔN_0 NGC_0 |
+men	MI EN_0 NC_0 |
+ngãi	NGI AN2_3 IC_3 |
+sững	SI ƯN_3 NGC_3 |
+dét	ZI EN_5 TC_5 |
+dặn	ZI AN3_1 NC_1 |
+kỵ	KI IN_1 |
+gào	GI AN2_4 UC_4 |
+chửi	CHI ƯN_2 IC_2 |
+kí	KI IN_5 |
+dời	ZI ƠN_4 IC_4 |
+bơi	BI ƠN_0 IC_0 |
+vu	VI UN_0 |
+su	SI UN_0 |
+dặm	ZI AN3_1 MC_1 |
+lơ	LI ƠC_0 |
+hâm	HI ÂN_0 MC_0 |
+dội	ZI ÔN_1 IC_1 |
+mọc	MI ON1_1 KC_1 |
+vầng	VI ÂN_4 NGC_4 |
+lánh	LI AN1_5 NGC_5 |
+rùa	RI UÔN_4 |
+đè	DI EN_4 |
+tóm	TI ON2_5 MC_5 |
+nhường	NHI ƯƠN_4 NGC_4 |
+tửu	TI ƯN_2 UC_2 |
+khép	KHI EN_5 PC_5 |
+nhịp	NHI IN_1 PC_1 |
+tang	TI AN1_0 NGC_0 |
+rách	RI AN1_5 KC_5 |
+lật	LI ÂN_1 TC_1 |
+vỏ	VI ON2_2 |
+tắm	TI AN3_5 MC_5 |
+duyệt	ZI WO_1 YÊN_1 TC_1 |
+trùm	TRI UN_4 MC_4 |
+phỉ	PHI IN_2 |
+tráng	TRI AN1_5 NGC_5 |
+bia	BI IAN_0 |
+cắm	KI AN3_5 MC_5 |
+xả	XI AN2_2 |
+ao	AN2_0 UC_0 |
+té	TI EN_5 |
+nhuệ	NHI WO_1 ÊN_1 |
+xứ	XI ƯC_5 |
+cổng	KI ÔN_2 NGC_2 |
+săn	SI AN3_0 NC_0 |
+se	SI EN_0 |
+phen	PHI EN_0 NC_0 |
+xen	XI EN_0 NC_0 |
+cẩm	KI ÂN_2 MC_2 |
+xóm	XI ON2_5 MC_5 |
+điển	DI IÊN_2 NC_2 |
+chốc	CHI ÔN_5 KC_5 |
+thối	THI ÔN_5 IC_5 |
+kĩ	KI IN_3 |
+vé	VI EN_5 |
+đẻ	DI EN_2 |
+nén	NI EN_5 NC_5 |
+nhở	NHI ƠC_2 |
+tặc	TI AN3_1 KC_1 |
+lẩm	LI ÂN_2 MC_2 |
+rớt	RI ƠN_5 TC_5 |
+đầm	DI ÂN_4 MC_4 |
+bân	BI ÂN_0 NC_0 |
+cống	KI ÔN_5 NGC_5 |
+cú	KI UN_5 |
+vã	VI AN2_3 |
+hãn	HI AN2_3 NC_3 |
+oành	WO_4 AN1_4 NGC_4 |
+bu	BI UN_0 |
+ngợi	NGI ƠN_1 IC_1 |
+thình	THI IN_4 NGC_4 |
+dối	ZI ÔN_5 IC_5 |
+giam	ZI AN2_0 MC_0 |
+chói	CHI ON2_5 IC_5 |
+gõ	GI ON2_3 |
+lường	LI ƯƠN_4 NGC_4 |
+khéo	KHI EN_5 UC_5 |
+ngửa	NGI ƯƠN_2 |
+cạn	KI AN2_1 NC_1 |
+phẫu	PHI ÂN_3 UC_3 |
+náo	NI AN2_5 UC_5 |
+gạt	GI AN2_1 TC_1 |
+dở	ZI ƠC_2 |
+nhàn	NHI AN2_4 NC_4 |
+bể	BI ÊN_2 |
+hòn	HI ON2_4 NC_4 |
+toát	TI WO_5 AN2_5 TC_5 |
+gác	GI AN1_5 KC_5 |
+phẫn	PHI ÂN_3 NC_3 |
+nhầm	NHI ÂN_4 MC_4 |
+lung	LI UN_0 NGC_0 |
+thảy	THI AN3_2 YC_2 |
+trọn	TRI ON2_1 NC_1 |
+cúp	KI UN_5 PC_5 |
+bồ	BI ÔN_4 |
+rẻ	RI EN_2 |
+chốn	CHI ÔN_5 NC_5 |
+trơn	TRI ƠN_0 NC_0 |
+giở	ZI ƠC_2 |
+ẩm	ÂN_2 MC_2 |
+cai	KI AN2_0 IC_0 |
+khoái	KHI WO_5 AN2_5 IC_5 |
+đả	DI AN2_2 |
+o	ON2_0 |
+súc	SI UN_5 KC_5 |
+thủng	THI UN_2 NGC_2 |
+chuối	CHI UÔN_5 IC_5 |
+vũng	VI UN_3 NGC_3 |
+lạt	LI AN2_1 TC_1 |
+vướng	VI ƯƠN_5 NGC_5 |
+đ	DI |
+tống	TI ÔN_5 NGC_5 |
+đếm	DI ÊN_5 MC_5 |
+lạng	LI AN1_1 NGC_1 |
+đai	DI AN2_0 IC_0 |
+dinh	ZI IN_0 NGC_0 |
+thỏ	THI ON2_2 |
+củ	KI UN_2 |
+tựu	TI ƯN_1 UC_1 |
+oan	WO_0 AN2_0 NC_0 |
+iu	IN_0 UC_0 |
+ham	HI AN2_0 MC_0 |
+chôn	CHI ÔN_0 NC_0 |
+nghênh	NGI ÊN_0 NGC_0 |
+tít	TI IN_5 TC_5 |
+chuông	CHI UÔN_0 NGC_0 |
+bút	BI UN_5 TC_5 |
+roi	RI ON2_0 IC_0 |
+gam	GI AN2_0 MC_0 |
+râu	RI ÂN_0 UC_0 |
+xảo	XI AN2_2 UC_2 |
+kệ	KI ÊN_1 |
+ghen	GI EN_0 NC_0 |
+nút	NI UN_5 TC_5 |
+len	LI EN_0 NC_0 |
+vờ	VI ƠC_4 |
+cong	KI ON1_0 NGC_0 |
+uyển	WO_2 YÊN_2 NC_2 |
+át	AN2_5 TC_5 |
+trêu	TRI ÊN_0 UC_0 |
+trịnh	TRI IN_1 NGC_1 |
+rà	RI AN2_4 |
+gen	GI EN_0 NC_0 |
+chét	CHI EN_5 TC_5 |
+kìa	KI IAN_4 |
+tiếu	TI IÊN_5 UC_5 |
+nhạn	NHI AN2_1 NC_1 |
+rét	RI EN_5 TC_5 |
+dong	ZI ON1_0 NGC_0 |
+dốc	ZI ÔN_5 KC_5 |
+lau	LI AN3_0 UC_0 |
+ướt	ƯƠN_5 TC_5 |
+muôn	MI UÔN_0 NC_0 |
+cành	KI AN1_4 NGC_4 |
+héc	HI EN_5 KC_5 |
+khâu	KHI ÂN_0 UC_0 |
+nhẹn	NHI EN_1 NC_1 |
+vãn	VI AN2_3 NC_3 |
+hoan	HI WO_0 AN2_0 NC_0 |
+tản	TI AN2_2 NC_2 |
+mảng	MI AN1_2 NGC_2 |
+gầy	GI ÂN_4 YC_4 |
+tề	TI ÊN_4 |
+sô	SI ÔN_0 |
+chua	CHI UÔN_0 |
+mặn	MI AN3_1 NC_1 |
+nhọn	NHI ON2_1 NC_1 |
+nhíu	NHI IN_5 UC_5 |
+gối	GI ÔN_5 IC_5 |
+cước	KI ƯƠN_5 KC_5 |
+nhặt	NHI AN3_1 TC_1 |
+bột	BI ÔN_1 TC_1 |
+mổ	MI ÔN_2 |
+giông	ZI ÔN_0 NGC_0 |
+xá	XI AN2_5 |
+sấm	SI ÂN_5 MC_5 |
+sút	SI UN_5 TC_5 |
+màng	MI AN1_4 NGC_4 |
+đồi	DI ÔN_4 IC_4 |
+cừu	KI ƯN_4 UC_4 |
+vơ	VI ƠC_0 |
+rót	RI ON2_5 TC_5 |
+thẹn	THI EN_1 NC_1 |
+dì	ZI IN_4 |
+móng	MI ON1_5 NGC_5 |
+nể	NI ÊN_2 |
+lưỡng	LI ƯƠN_3 NGC_3 |
+cuộn	KI UÔN_1 NC_1 |
+huỳnh	HI WO_4 IN_4 NGC_4 |
+hẹp	HI EN_1 PC_1 |
+hái	HI AN2_5 IC_5 |
+nhích	NHI IN_5 KC_5 |
+nghiền	NGI IÊN_4 NC_4 |
+đe	DI EN_0 |
+lẽo	LI EN_3 UC_3 |
+ớt	ƠN_5 TC_5 |
+dê	ZI ÊN_0 |
+khóe	KHI WO_5 EN_5 |
+thụy	THI UN_1 YC_1 |
+thờ	THI ƠC_4 |
+vù	VI UN_4 |
+cau	KI AN3_0 UC_0 |
+ruộng	RI UÔN_1 NGC_1 |
+xít	XI IN_5 TC_5 |
+điêu	DI IÊN_0 UC_0 |
+xoáy	XI WO_5 AN3_5 YC_5 |
+nồng	NI ÔN_4 NGC_4 |
+mèo	MI EN_4 UC_4 |
+xí	XI IN_5 |
+quất	KI WO_5 ÂN_5 TC_5 |
+béo	BI EN_5 UC_5 |
+điểu	DI IÊN_2 UC_2 |
+đắp	DI AN3_5 PC_5 |
+nứt	NI ƯN_5 TC_5 |
+tá	TI AN2_5 |
+búc	BI UN_5 KC_5 |
+chinh	CHI IN_0 NGC_0 |
+thiệp	THI IÊN_1 PC_1 |
+chê	CHI ÊN_0 |
+ngoái	NGI WO_5 AN2_5 IC_5 |
+thoái	THI WO_5 AN2_5 IC_5 |
+hách	HI AN1_5 KC_5 |
+hốt	HI ÔN_5 TC_5 |
+hoán	HI WO_5 AN2_5 NC_5 |
+gắt	GI AN3_5 TC_5 |
+toan	TI WO_0 AN2_0 NC_0 |
+thùng	THI UN_4 NGC_4 |
+gìn	ZI NC_4 |
+ho	HI ON2_0 |
+miếu	MI IÊN_5 UC_5 |
+sảnh	SI AN1_2 NGC_2 |
+trễ	TRI ÊN_3 |
+lỏng	LI ON1_2 NGC_2 |
+thục	THI UN_1 KC_1 |
+rắc	RI AN3_5 KC_5 |
+gi	ZI |
+lay	LI AN3_0 YC_0 |
+nhánh	NHI AN1_5 NGC_5 |
+càn	KI AN2_4 NC_4 |
+no	NI ON2_0 |
+chuột	CHI UÔN_1 TC_1 |
+thô	THI ÔN_0 |
+tuôn	TI UÔN_0 NC_0 |
+nghiến	NGI IÊN_5 NC_5 |
+tăm	TI AN3_0 MC_0 |
+heo	HI EN_0 UC_0 |
+gai	GI AN2_0 IC_0 |
+vụt	VI UN_1 TC_1 |
+miêu	MI IÊN_0 UC_0 |
+nhào	NHI AN2_4 UC_4 |
+ấp	ÂN_5 PC_5 |
+mập	MI ÂN_1 PC_1 |
+thán	THI AN2_5 NC_5 |
+phảy	PHI AN3_2 YC_2 |
+hì	HI IN_4 |
+tẩu	TI ÂN_2 UC_2 |
+báu	BI AN3_5 UC_5 |
+khoác	KHI WO_5 AN1_5 KC_5 |
+bàng	BI AN1_4 NGC_4 |
+tiêm	TI IÊN_0 MC_0 |
+cởi	KI ƠN_2 IC_2 |
+triết	TRI IÊN_5 TC_5 |
+dỗ	ZI ÔN_3 |
+quãng	KI UÔN_3 NGC_3 |
+h	HI |
+lặp	LI AN3_1 PC_1 |
+củng	KI UN_2 NGC_2 |
+ả	AN2_2 |
+giáng	ZI AN1_5 NGC_5 |
+dưng	ZI ƯN_0 NGC_0 |
+nhôm	NHI ÔN_0 MC_0 |
+gạch	GI AN1_1 KC_1 |
+phây	PHI ÂN_0 YC_0 |
+mỏng	MI ON1_2 NGC_2 |
+thép	THI EN_5 PC_5 |
+tớ	TI ƠC_5 |
+gượng	GI ƯƠN_1 NGC_1 |
+giãn	ZI AN2_3 NC_3 |
+phiêu	PHI IÊN_0 UC_0 |
+đạm	DI AN2_1 MC_1 |
+quyển	KI WO_2 YÊN_2 NC_2 |
+hố	HI ÔN_5 |
+lư	LI ƯC_0 |
+van	VI AN2_0 NC_0 |
+am	AN2_0 MC_0 |
+ngẫm	NGI ÂN_3 MC_3 |
+cụm	KI UN_1 MC_1 |
+phùng	PHI UN_4 NGC_4 |
+chuyền	CHI WO_4 YÊN_4 NC_4 |
+cựu	KI ƯN_1 UC_1 |
+thắc	THI AN3_5 KC_5 |
+thiếp	THI IÊN_5 PC_5 |
+dạo	ZI AN2_1 UC_1 |
+khớp	KHI ƠN_5 PC_5 |
+xuôi	XI UÔN_0 IC_0 |
+kiềm	KI IÊN_4 MC_4 |
+căm	KI AN3_0 MC_0 |
+khuếch	KHI WO_5 ÊN_5 KC_5 |
+lũy	LI UN_3 YC_3 |
+quấy	KI WO_5 ÂN_5 YC_5 |
+rờ	RI ƠC_4 |
+nấy	NI ÂN_5 YC_5 |
+đắt	DI AN3_5 TC_5 |
+chánh	CHI AN1_5 NGC_5 |
+quấn	KI WO_5 ÂN_5 NC_5 |
+ây	ÂN_0 YC_0 |
+chắp	CHI AN3_5 PC_5 |
+kha	KHI AN2_0 |
+mẻ	MI EN_2 |
+mị	MI IN_1 |
+lít	LI IN_5 TC_5 |
+loan	LI WO_0 AN2_0 NC_0 |
+cớ	KI ƠC_5 |
+nê	NI ÊN_0 |
+vắc	VI AN3_5 KC_5 |
+dãy	ZI AN3_3 YC_3 |
+bỏng	BI ON1_2 NGC_2 |
+my	MI IN_0 |
+đuối	DI UÔN_5 IC_5 |
+lọc	LI ON1_1 KC_1 |
+khang	KHI AN1_0 NGC_0 |
+nhăm	NHI AN3_0 MC_0 |
+ổng	ÔN_2 NGC_2 |
+ngừa	NGI ƯƠN_4 |
+gay	GI AN3_0 YC_0 |
+ải	AN2_2 IC_2 |
+kiêng	KI IÊN_0 NGC_0 |
+ngớt	NGI ƠN_5 TC_5 |
+khoán	KHI WO_5 AN2_5 NC_5 |
+tro	TRI ON2_0 |
+vóc	VI ON1_5 KC_5 |
+rũ	RI UN_3 |
+cu	KI UN_0 |
+lụt	LI UN_1 TC_1 |
+ch	CHI |
+sườn	SI ƯƠN_4 NC_4 |
+ngác	NGI AN1_5 KC_5 |
+tiệc	TI IÊN_1 KC_1 |
+ong	ON1_0 NGC_0 |
+giương	ZI ƯƠN_0 NGC_0 |
+đúc	DI UN_5 KC_5 |
+rùng	RI UN_4 NGC_4 |
+lình	LI IN_4 NGC_4 |
+ốm	ÔN_5 MC_5 |
+hất	HI ÂN_5 TC_5 |
+tò	TI ON2_4 |
+nhạy	NHI AN3_1 YC_1 |
+đàng	DI AN1_4 NGC_4 |
+mòn	MI ON2_4 NC_4 |
+sụp	SI UN_1 PC_1 |
+cua	KI UÔN_0 |
+quạt	KI UÔN_1 TC_1 |
+rịa	RI IAN_1 |
+ngời	NGI ƠN_4 IC_4 |
+rảnh	RI AN1_2 NGC_2 |
+thợ	THI ƠC_1 |
+khơi	KHI ƠN_0 IC_0 |
+nhựa	NHI ƯƠN_1 |
+lẹ	LI EN_1 |
+khứ	KHI ƯC_5 |
+văng	VI AN3_0 NGC_0 |
+dán	ZI AN2_5 NC_5 |
+xoa	XI WO_0 AN2_0 |
+rợn	RI ƠN_1 NC_1 |
+vẫy	VI ÂN_3 YC_3 |
+thiêu	THI IÊN_0 UC_0 |
+sí	SI IN_5 |
+sỉ	SI IN_2 |
+sen	SI EN_0 NC_0 |
+khoát	KHI WO_5 AN2_5 TC_5 |
+nồi	NI ÔN_4 IC_4 |
+dật	ZI ÂN_1 TC_1 |
+phiến	PHI IÊN_5 NC_5 |
+nạt	NI AN2_1 TC_1 |
+bẫy	BI ÂN_3 YC_3 |
+họng	HI ON1_1 NGC_1 |
+đùi	DI UN_4 IC_4 |
+sửng	SI ƯN_2 NGC_2 |
+phổi	PHI ÔN_2 IC_2 |
+mỡ	MI ƠC_3 |
+mỏ	MI ON2_2 |
+quyến	KI WO_5 YÊN_5 NC_5 |
+khoanh	KHI WO_0 AN1_0 NGC_0 |
+vạch	VI AN1_1 KC_1 |
+hò	HI ON2_4 |
+mắm	MI AN3_5 MC_5 |
+sắm	SI AN3_5 MC_5 |
+bai	BI AN2_0 IC_0 |
+xẹt	XI EN_1 TC_1 |
+mốc	MI ÔN_5 KC_5 |
+gián	ZI AN2_5 NC_5 |
+sừng	SI ƯN_4 NGC_4 |
+ngất	NGI ÂN_5 TC_5 |
+út	UN_5 TC_5 |
+nhức	NHI ƯN_5 KC_5 |
+soi	SI ON2_0 IC_0 |
+vứt	VI ƯN_5 TC_5 |
+dâm	ZI ÂN_0 MC_0 |
+lậu	LI ÂN_1 UC_1 |
+bóp	BI ON2_5 PC_5 |
+uyên	WO_0 YÊN_0 NC_0 |
+thò	THI ON2_4 |
+me	MI EN_0 |
+điếm	DI IÊN_5 MC_5 |
+lu	LI UN_0 |
+tước	TI ƯƠN_5 KC_5 |
+lấn	LI ÂN_5 NC_5 |
+dồi	ZI ÔN_4 IC_4 |
+khốc	KHI ÔN_5 KC_5 |
+nhô	NHI ÔN_0 |
+nhung	NHI UN_0 NGC_0 |
+bạt	BI AN2_1 TC_1 |
+bẩn	BI ÂN_2 NC_2 |
+vút	VI UN_5 TC_5 |
+khuya	KHI WO_0 YAN_0 |
+dưa	ZI ƯƠN_0 |
+trổ	TRI ÔN_2 |
+giặc	ZI AN3_1 KC_1 |
+hoà	HI WO_4 AN2_4 |
+thấm	THI ÂN_5 MC_5 |
+sáo	SI AN2_5 UC_5 |
+rạp	RI AN2_1 PC_1 |
+lanh	LI AN1_0 NGC_0 |
+táng	TI AN1_5 NGC_5 |
+d	ZI |
+hưu	HI ƯN_0 UC_0 |
+bì	BI IN_4 |
+í	IN_5 |
+măng	MI AN3_0 NGC_0 |
+ngắt	NGI AN3_5 TC_5 |
+on	ON2_0 NC_0 |
+com	KI ON2_0 MC_0 |
+cậy	KI ÂN_1 YC_1 |
+ngẫu	NGI ÂN_3 UC_3 |
+ranh	RI AN1_0 NGC_0 |
+nạ	NI AN2_1 |
+gò	GI ON2_4 |
+nốt	NI ÔN_5 TC_5 |
+khốn	KHI ÔN_5 NC_5 |
+dơ	ZI ƠC_0 |
+rê	RI ÊN_0 |
+diu	ZI IN_0 UC_0 |
+eo	EN_0 UC_0 |
+bỉ	BI IN_2 |
+uất	WO_5 ÂN_5 TC_5 |
+ngụm	NGI UN_1 MC_1 |
+khoáng	KHI WO_5 AN1_5 NGC_5 |
+thề	THI ÊN_4 |
+phai	PHI AN2_0 IC_0 |
+chìa	CHI IAN_4 |
+bom	BI ON2_0 MC_0 |
+bã	BI AN2_3 |
+nôn	NI ÔN_0 NC_0 |
+tiệm	TI IÊN_1 MC_1 |
+xèo	XI EN_4 UC_4 |
+lột	LI ÔN_1 TC_1 |
+lách	LI AN1_5 KC_5 |
+ồn	ÔN_4 NC_4 |
+tẩy	TI ÂN_2 YC_2 |
+trộn	TRI ÔN_1 NC_1 |
+bắp	BI AN3_5 PC_5 |
+ắp	AN3_5 PC_5 |
+ổ	ÔN_2 |
+chẩm	CHI ÂN_2 MC_2 |
+đắn	DI AN3_5 NC_5 |
+nhát	NHI AN2_5 TC_5 |
+nếm	NI ÊN_5 MC_5 |
+êm	ÊN_0 MC_0 |
+chép	CHI EN_5 PC_5 |
+cưng	KI ƯN_0 NGC_0 |
+trượt	TRI ƯƠN_1 TC_1 |
+khỉ	KHI IN_2 |
+đọng	DI ON1_1 NGC_1 |
+kề	KI ÊN_4 |
+óa	WO_5 AN2_5 |
+sỹ	SI IN_3 |
+gớm	GI ƠN_5 MC_5 |
+nít	NI IN_5 TC_5 |
+niu	NI IN_0 UC_0 |
+rậm	RI ÂN_1 MC_1 |
+rú	RI UN_5 |
+huyên	HI WO_0 YÊN_0 NC_0 |
+chai	CHI AN2_0 IC_0 |
+tánh	TI AN1_5 NGC_5 |
+mồi	MI ÔN_4 IC_4 |
+dệt	ZI ÊN_1 TC_1 |
+ngỡ	NGI ƠC_3 |
+úng	UN_5 NGC_5 |
+phơ	PHI ƠC_0 |
+vụn	VI UN_1 NC_1 |
+bô	BI ÔN_0 |
+son	SI ON2_0 NC_0 |
+gom	GI ON2_0 MC_0 |
+hổng	HI ÔN_2 NGC_2 |
+tốp	TI ÔN_5 PC_5 |
+gũi	GI UN_3 IC_3 |
+lụa	LI UÔN_1 |
+đố	DI ÔN_5 |
+rên	RI ÊN_0 NC_0 |
+phảng	PHI AN1_2 NGC_2 |
+ráp	RI AN2_5 PC_5 |
+xót	XI ON2_5 TC_5 |
+thính	THI IN_5 NGC_5 |
+két	KI EN_5 TC_5 |
+mịt	MI IN_1 TC_1 |
+sếp	SI ÊN_5 PC_5 |
+vở	VI ƠC_2 |
+hụt	HI UN_1 TC_1 |
+tạng	TI AN1_1 NGC_1 |
+gằn	GI AN3_4 NC_4 |
+nhai	NHI AN2_0 IC_0 |
+nhúc	NHI UN_5 KC_5 |
+bệ	BI ÊN_1 |
+lẳng	LI AN3_2 NGC_2 |
+cay	KI AN3_0 YC_0 |
+ròng	RI ON1_4 NGC_4 |
+tiệp	TI IÊN_1 PC_1 |
+nhợt	NHI ƠN_1 TC_1 |
+tứt	TI ƯN_5 TC_5 |
+lặn	LI AN3_1 NC_1 |
+xào	XI AN2_4 UC_4 |
+nhóc	NHI ON1_5 KC_5 |
+đục	DI UN_1 KC_1 |
+mì	MI IN_4 |
+vèo	VI EN_4 UC_4 |
+khoảnh	KHI WO_2 AN1_2 NGC_2 |
+búa	BI UÔN_5 |
+mon	MI ON2_0 NC_0 |
+dẹp	ZI EN_1 PC_1 |
+thắt	THI AN3_5 TC_5 |
+quật	KI WO_1 ÂN_1 TC_1 |
+nhiếp	NHI IÊN_5 PC_5 |
+thà	THI AN2_4 |
+thong	THI ON1_0 NGC_0 |
+bổng	BI ÔN_2 NGC_2 |
+lụy	LI UN_1 YC_1 |
+tanh	TI AN1_0 NGC_0 |
+gót	GI ON2_5 TC_5 |
+lượn	LI ƯƠN_1 NC_1 |
+séc	SI EN_5 KC_5 |
+rủ	RI UN_2 |
+túng	TI UN_5 NGC_5 |
+váy	VI AN3_5 YC_5 |
+chéo	CHI EN_5 UC_5 |
+xưởng	XI ƯƠN_2 NGC_2 |
+hèn	HI EN_4 NC_4 |
+khải	KHI AN2_2 IC_2 |
+cúc	KI UN_5 KC_5 |
+đơ	DI ƠC_0 |
+kép	KI EN_5 PC_5 |
+tủ	TI UN_2 |
+ưa	ƯƠN_0 |
+khiêm	KHI IÊN_0 MC_0 |
+phệ	PHI ÊN_1 |
+ghé	GI EN_5 |
+vác	VI AN1_5 KC_5 |
+gu	GI UN_0 |
+trội	TRI ÔN_1 IC_1 |
+soạn	SI WO_1 AN2_1 NC_1 |
+rầm	RI ÂN_4 MC_4 |
+gân	GI ÂN_0 NC_0 |
+trói	TRI ON2_5 IC_5 |
+vy	VI IN_0 |
+hãm	HI AN2_3 MC_3 |
+hót	HI ON2_5 TC_5 |
+vành	VI AN1_4 NGC_4 |
+bóc	BI ON1_5 KC_5 |
+tý	TI IN_5 |
+sầm	SI ÂN_4 MC_4 |
+ốc	ÔN_5 KC_5 |
+giỡn	ZI ƠN_3 NC_3 |
+bốt	BI ÔN_5 TC_5 |
+ủi	UN_2 IC_2 |
+hê	HI ÊN_0 |
+bầy	BI ÂN_4 YC_4 |
+chướng	CHI ƯƠN_5 NGC_5 |
+rẽ	RI EN_3 |
+kỉ	KI IN_2 |
+tịnh	TI IN_1 NGC_1 |
+chè	CHI EN_4 |
+dai	ZI AN2_0 IC_0 |
+ngấm	NGI ÂN_5 MC_5 |
+mẫn	MI ÂN_3 NC_3 |
+m	MI |
+gấu	GI ÂN_5 UC_5 |
+gieo	ZI EN_0 UC_0 |
+nại	NI AN2_1 IC_1 |
+kẽ	KI EN_3 |
+bèn	BI EN_4 NC_4 |
+sin	SI IN_0 NC_0 |
+sập	SI ÂN_1 PC_1 |
+gợn	GI ƠN_1 NC_1 |
+khanh	KHI AN1_0 NGC_0 |
+đóa	DI WO_5 AN2_5 |
+ló	LI ON2_5 |
+nhậu	NHI ÂN_1 UC_1 |
+rỗng	RI ÔN_3 NGC_3 |
+voi	VI ON2_0 IC_0 |
+quăng	KI WO_0 AN3_0 NGC_0 |
+cáp	KI AN2_5 PC_5 |
+bơ	BI ƠC_0 |
+mường	MI ƯƠN_4 NGC_4 |
+rã	RI AN2_3 |
+bơm	BI ƠN_0 MC_0 |
+hắt	HI AN3_5 TC_5 |
+diêm	ZI IÊN_0 MC_0 |
+khoe	KHI WO_0 EN_0 |
+t	TI |
+xách	XI AN1_5 KC_5 |
+lảo	LI AN2_2 UC_2 |
+min	MI IN_0 NC_0 |
+rống	RI ÔN_5 NGC_5 |
+dàn	ZI AN2_4 NC_4 |
+huyễn	HI WO_3 YÊN_3 NC_3 |
+ỷ	IN_2 |
+nhăn	NHI AN3_0 NC_0 |
+kem	KI EN_0 MC_0 |
+phôn	PHI ÔN_0 NC_0 |
+bả	BI AN2_2 |
+khuẩn	KHI WO_2 ÂN_2 NC_2 |
+banh	BI AN1_0 NGC_0 |
+ngào	NGI AN2_4 UC_4 |
+xao	XI AN2_0 UC_0 |
+hoãn	HI WO_3 AN2_3 NC_3 |
+phào	PHI AN2_4 UC_4 |
+nhiễu	NHI IÊN_3 UC_3 |
+cược	KI ƯƠN_1 KC_1 |
+phờ	PHI ƠC_4 |
+lửng	LI ƯN_2 NGC_2 |
+tằm	TI AN3_4 MC_4 |
+tròng	TRI ON1_4 NGC_4 |
+đắm	DI AN3_5 MC_5 |
+mác	MI AN1_5 KC_5 |
+miên	MI IÊN_0 NC_0 |
+gô	GI ÔN_0 |
+cê	KI ÊN_0 |
+lười	LI ƯƠN_4 IC_4 |
+rạng	RI AN1_1 NGC_1 |
+nhún	NHI UN_5 NC_5 |
+bẻ	BI EN_2 |
+tráo	TRI AN2_5 UC_5 |
+gien	ZI EN_0 NC_0 |
+ngõ	NGI ON2_3 |
+xế	XI ÊN_5 |
+hốc	HI ÔN_5 KC_5 |
+băn	BI AN3_0 NC_0 |
+ru	RI UN_0 |
+chật	CHI ÂN_1 TC_1 |
+ngửi	NGI ƯN_2 IC_2 |
+trướng	TRI ƯƠN_5 NGC_5 |
+cuống	KI UÔN_5 NGC_5 |
+ngần	NGI ÂN_4 NC_4 |
+dô	ZI ÔN_0 |
+dấp	ZI ÂN_5 PC_5 |
+nhấc	NHI ÂN_5 KC_5 |
+bo	BI ON2_0 |
+bậy	BI ÂN_1 YC_1 |
+lùn	LI UN_4 NC_4 |
+óp	ON2_5 PC_5 |
+nấm	NI ÂN_5 MC_5 |
+kíp	KI IN_5 PC_5 |
+khoăn	KHI WO_0 AN3_0 NC_0 |
+ve	VI EN_0 |
+mép	MI EN_5 PC_5 |
+rệt	RI ÊN_1 TC_1 |
+nhũng	NHI UN_3 NGC_3 |
+phì	PHI IN_4 |
+vẹo	VI EN_1 UC_1 |
+nắp	NI AN3_5 PC_5 |
+điệt	DI IÊN_1 TC_1 |
+úc	UN_5 KC_5 |
+xui	XI UN_0 IC_0 |
+hủ	HI UN_2 |
+dằn	ZI AN3_4 NC_4 |
+bùn	BI UN_4 NC_4 |
+giục	ZI UN_1 KC_1 |
+hệt	HI ÊN_1 TC_1 |
+chộp	CHI ÔN_1 PC_1 |
+mãng	MI AN1_3 NGC_3 |
+cháo	CHI AN2_5 UC_5 |
+ngoãn	NGI WO_3 AN2_3 NC_3 |
+sùng	SI UN_4 NGC_4 |
+ngục	NGI UN_1 KC_1 |
+le	LI EN_0 |
+phe	PHI EN_0 |
+đĩa	DI IAN_3 |
+nghiện	NGI IÊN_1 NC_1 |
+tút	TI UN_5 TC_5 |
+trọ	TRI ON2_1 |
+rộn	RI ÔN_1 NC_1 |
+nhủ	NHI UN_2 |
+liêm	LI IÊN_0 MC_0 |
+xua	XI UÔN_0 |
+xài	XI AN2_4 IC_4 |
+thòi	THI ON2_4 IC_4 |
+trút	TRI UN_5 TC_5 |
+đãng	DI AN1_3 NGC_3 |
+tấc	TI ÂN_5 KC_5 |
+nhét	NHI EN_5 TC_5 |
+bún	BI UN_5 NC_5 |
+hờ	HI ƠC_4 |
+lộng	LI ÔN_1 NGC_1 |
+đậy	DI ÂN_1 YC_1 |
+nhao	NHI AN2_0 UC_0 |
+mênh	MI ÊN_0 NGC_0 |
+quách	KI UÔN_5 KC_5 |
+nón	NI ON2_5 NC_5 |
+chọi	CHI ON2_1 IC_1 |
+cuồn	KI UÔN_4 NC_4 |
+chặng	CHI AN3_1 NGC_1 |
+dè	ZI EN_4 |
+mu	MI UN_0 |
+s	SI |
+lừng	LI ƯN_4 NGC_4 |
+nấp	NI ÂN_5 PC_5 |
+xỉ	XI IN_2 |
+hen	HI EN_0 NC_0 |
+tụng	TI UN_1 NGC_1 |
+khâm	KHI ÂN_0 MC_0 |
+khương	KHI ƯƠN_0 NGC_0 |
+cài	KI AN2_4 IC_4 |
+biếc	BI IÊN_5 KC_5 |
+phím	PHI IN_5 MC_5 |
+ngạn	NGI AN2_1 NC_1 |
+ráng	RI AN1_5 NGC_5 |
+thùy	THI UN_4 YC_4 |
+tấp	TI ÂN_5 PC_5 |
+rộ	RI ÔN_1 |
+hé	HI EN_5 |
+gốm	GI ÔN_5 MC_5 |
+sốc	SI ÔN_5 KC_5 |
+bưng	BI ƯN_0 NGC_0 |
+đũa	DI UÔN_3 |
+võng	VI ON1_3 NGC_3 |
+ngông	NGI ÔN_0 NGC_0 |
+tỳ	TI IN_4 |
+giếng	ZI ÊN_5 NGC_5 |
+cặn	KI AN3_1 NC_1 |
+khiết	KHI IÊN_5 TC_5 |
+loáng	LI WO_5 AN1_5 NGC_5 |
+kẹo	KI EN_1 UC_1 |
+tào	TI AN2_4 UC_4 |
+nhọc	NHI ON1_1 KC_1 |
+thon	THI ON2_0 NC_0 |
+phô	PHI ÔN_0 |
+bon	BI ON2_0 NC_0 |
+gêm	GI ÊN_0 MC_0 |
+điềm	DI IÊN_4 MC_4 |
+vú	VI UN_5 |
+vịt	VI IN_1 TC_1 |
+trơ	TRI ƠC_0 |
+cối	KI ÔN_5 IC_5 |
+ngụy	NGI UN_1 YC_1 |
+chà	CHI AN2_4 |
+top	TI ON2_0 PC_0 |
+bọt	BI ON2_1 TC_1 |
+yết	YÊN_5 TC_5 |
+cõi	KI ON2_3 IC_3 |
+dào	ZI AN2_4 UC_4 |
+ngạch	NGI AN1_1 KC_1 |
+hễ	HI ÊN_3 |
+nhõm	NHI ON2_3 MC_3 |
+quẩn	KI WO_2 ÂN_2 NC_2 |
+lét	LI EN_5 TC_5 |
+xôi	XI ÔN_0 IC_0 |
+khao	KHI AN2_0 UC_0 |
+gậy	GI ÂN_1 YC_1 |
+lận	LI ÂN_1 NC_1 |
+nín	NI IN_5 NC_5 |
+bón	BI ON2_5 NC_5 |
+mé	MI EN_5 |
+nhẩm	NHI ÂN_2 MC_2 |
+sói	SI ON2_5 IC_5 |
+củi	KI UN_2 IC_2 |
+quyên	KI WO_0 YÊN_0 NC_0 |
+cấy	KI ÂN_5 YC_5 |
+cúng	KI UN_5 NGC_5 |
+lẫy	LI ÂN_3 YC_3 |
+lội	LI ÔN_1 IC_1 |
+gấm	GI ÂN_5 MC_5 |
+kh	KHI |
+gáy	GI AN3_5 YC_5 |
+dép	ZI EN_5 PC_5 |
+tột	TI ÔN_1 TC_1 |
+cóc	KI ON1_5 KC_5 |
+đẫm	DI ÂN_3 MC_3 |
+tua	TI UÔN_0 |
+độn	DI ÔN_1 NC_1 |
+hỉ	HI IN_2 |
+then	THI EN_0 NC_0 |
+rỉ	RI IN_2 |
+uổng	UÔN_2 NGC_2 |
+đăm	DI AN3_0 MC_0 |
+giùm	ZI UN_4 MC_4 |
+gục	GI UN_1 KC_1 |
+nếp	NI ÊN_5 PC_5 |
+toả	TI WO_2 AN2_2 |
+thược	THI ƯƠN_1 KC_1 |
+choáng	CHI WO_5 AN1_5 NGC_5 |
+nhốt	NHI ÔN_5 TC_5 |
+bừa	BI ƯƠN_4 |
+cút	KI UN_5 TC_5 |
+tạc	TI AN1_1 KC_1 |
+nhĩ	NHI IN_3 |
+mài	MI AN2_4 IC_4 |
+sụt	SI UN_1 TC_1 |
+chiên	CHI IÊN_0 NC_0 |
+gồ	GI ÔN_4 |
+xơ	XI ƠC_0 |
+nhâm	NHI ÂN_0 MC_0 |
+tía	TI IAN_5 |
+siết	SI IÊN_5 TC_5 |
+mao	MI AN2_0 UC_0 |
+nơ	NI ƠC_0 |
+hí	HI IN_5 |
+rễ	RI ÊN_3 |
+xăm	XI AN3_0 MC_0 |
+mầm	MI ÂN_4 MC_4 |
+túp	TI UN_5 PC_5 |
+khan	KHI AN2_0 NC_0 |
+ngậm	NGI ÂN_1 MC_1 |
+lẫm	LI ÂN_3 MC_3 |
+vó	VI ON2_5 |
+hực	HI ƯN_1 KC_1 |
+ốt	ÔN_5 TC_5 |
+vái	VI AN2_5 IC_5 |
+quí	KI UN_5 IC_5 |
+nhẫm	NHI ÂN_3 MC_3 |
+đạc	DI AN1_1 KC_1 |
+bịt	BI IN_1 TC_1 |
+rụng	RI UN_1 NGC_1 |
+lạy	LI AN3_1 YC_1 |
+ùn	UN_4 NC_4 |
+uốn	UÔN_5 NC_5 |
+chùy	CHI UN_4 YC_4 |
+ập	ÂN_1 PC_1 |
+chanh	CHI AN1_0 NGC_0 |
+nhổ	NHI ÔN_2 |
+vồ	VI ÔN_4 |
+nã	NI AN2_3 |
+lõi	LI ON2_3 IC_3 |
+lót	LI ON2_5 TC_5 |
+ghêm	GI ÊN_0 MC_0 |
+đu	DI UN_0 |
+lóc	LI ON1_5 KC_5 |
+nhướng	NHI ƯƠN_5 NGC_5 |
+lãm	LI AN2_3 MC_3 |
+phao	PHI AN2_0 UC_0 |
+ngứa	NGI ƯƠN_5 |
+rỗi	RI ÔN_3 IC_3 |
+lúng	LI UN_5 NGC_5 |
+vùi	VI UN_4 IC_4 |
+lóng	LI ON1_5 NGC_5 |
+ráo	RI AN2_5 UC_5 |
+tồi	TI ÔN_4 IC_4 |
+chùm	CHI UN_4 MC_4 |
+tưới	TI ƯƠN_5 IC_5 |
+đính	DI IN_5 NGC_5 |
+kẹt	KI EN_1 TC_1 |
+bưu	BI ƯN_0 UC_0 |
+ních	NI IN_5 KC_5 |
+toái	TI WO_5 AN2_5 IC_5 |
+vặt	VI AN3_1 TC_1 |
+sưu	SI ƯN_0 UC_0 |
+dạn	ZI AN2_1 NC_1 |
+ren	RI EN_0 NC_0 |
+meo	MI EN_0 UC_0 |
+chập	CHI ÂN_1 PC_1 |
+ngủi	NGI UN_2 IC_2 |
+chuồn	CHI UÔN_4 NC_4 |
+nghễ	NGI ÊN_3 |
+léo	LI EN_5 UC_5 |
+chằng	CHI AN3_4 NGC_4 |
+hú	HI UN_5 |
+thêu	THI ÊN_0 UC_0 |
+lẩn	LI ÂN_2 NC_2 |
+lều	LI ÊN_4 UC_4 |
+bôn	BI ÔN_0 NC_0 |
+nhếch	NHI ÊN_5 KC_5 |
+hòng	HI ON1_4 NGC_4 |
+chẩn	CHI ÂN_2 NC_2 |
+phơi	PHI ƠN_0 IC_0 |
+luộc	LI UÔN_1 KC_1 |
+dừa	ZI ƯƠN_4 |
+vịnh	VI IN_1 NGC_1 |
+đoản	DI WO_2 AN2_2 NC_2 |
+chóc	CHI ON1_5 KC_5 |
+đắng	DI AN3_5 NGC_5 |
+bồng	BI ÔN_4 NGC_4 |
+ngụ	NGI UN_1 |
+thám	THI AN2_5 MC_5 |
+đét	DI EN_5 TC_5 |
+váng	VI AN1_5 NGC_5 |
+ka	KI AN2_0 |
+ui	UN_0 IC_0 |
+nòng	NI ON1_4 NGC_4 |
+nhúng	NHI UN_5 NGC_5 |
+trá	TRI AN2_5 |
+nhoáng	NHI WO_5 AN1_5 NGC_5 |
+núp	NI UN_5 PC_5 |
+nhuyễn	NHI WO_3 YÊN_3 NC_3 |
+vớt	VI ƠN_5 TC_5 |
+oa	WO_0 AN2_0 |
+mấu	MI ÂN_5 UC_5 |
+sưng	SI ƯN_0 NGC_0 |
+mĩ	MI IN_3 |
+sào	SI AN2_4 UC_4 |
+mìn	MI IN_4 NC_4 |
+vấp	VI ÂN_5 PC_5 |
+dải	ZI AN2_2 IC_2 |
+p	PC_0 |
+thắn	THI AN3_5 NC_5 |
+nhe	NHI EN_0 |
+loa	LI WO_0 AN2_0 |
+chuồng	CHI UÔN_4 NGC_4 |
+toa	TI WO_0 AN2_0 |
+ngoặc	NGI WO_1 AN3_1 KC_1 |
+rát	RI AN2_5 TC_5 |
+duỗi	ZI UÔN_3 IC_3 |
+rước	RI ƯƠN_5 KC_5 |
+thiêng	THI IÊN_0 NGC_0 |
+thâu	THI ÂN_0 UC_0 |
+khê	KHI ÊN_0 |
+giặt	ZI AN3_1 TC_1 |
+quắc	KI WO_5 AN3_5 KC_5 |
+nhí	NHI IN_5 |
+khoang	KHI WO_0 AN1_0 NGC_0 |
+trỏ	TRI ON2_2 |
+den	ZI EN_0 NC_0 |
+chao	CHI AN2_0 UC_0 |
+sam	SI AN2_0 MC_0 |
+chạp	CHI AN2_1 PC_1 |
+thây	THI ÂN_0 YC_0 |
+hớn	HI ƠN_5 NC_5 |
+vò	VI ON2_4 |
+nóc	NI ON1_5 KC_5 |
+hột	HI ÔN_1 TC_1 |
+bồn	BI ÔN_4 NC_4 |
+huân	HI WO_0 ÂN_0 NC_0 |
+bít	BI IN_5 TC_5 |
+nhì	NHI IN_4 |
+nhơn	NHI ƠN_0 NC_0 |
+hùm	HI UN_4 MC_4 |
+chiêm	CHI IÊN_0 MC_0 |
+nhuộm	NHI UÔN_1 MC_1 |
+trẻo	TRI EN_2 UC_2 |
+gù	GI UN_4 |
+tơn	TI ƠN_0 NC_0 |
+rành	RI AN1_4 NGC_4 |
+kè	KI EN_4 |
+giẫm	ZI ÂN_3 MC_3 |
+lũng	LI UN_3 NGC_3 |
+đôn	DI ÔN_0 NC_0 |
+rẫy	RI ÂN_3 YC_3 |
+rong	RI ON1_0 NGC_0 |
+cọc	KI ON1_1 KC_1 |
+đổng	DI ÔN_2 NGC_2 |
+mít	MI IN_5 TC_5 |
+chay	CHI AN3_0 YC_0 |
+cò	KI ON2_4 |
+quỵ	KI UN_1 YC_1 |
+nang	NI AN1_0 NGC_0 |
+rể	RI ÊN_2 |
+khía	KHI IAN_5 |
+ván	VI AN2_5 NC_5 |
+be	BI EN_0 |
+nịnh	NI IN_1 NGC_1 |
+kiệu	KI IÊN_1 UC_1 |
+te	TI EN_0 |
+khuê	KHI WO_0 ÊN_0 |
+phanh	PHI AN1_0 NGC_0 |
+chần	CHI ÂN_4 NC_4 |
+trọc	TRI ON1_1 KC_1 |
+giòn	ZI ON2_4 NC_4 |
+lạm	LI AN2_1 MC_1 |
+nỡ	NI ƠC_3 |
+úp	UN_5 PC_5 |
+toà	TI WO_4 AN2_4 |
+kìm	KI IN_4 MC_4 |
+kẹp	KI EN_1 PC_1 |
+reo	RI EN_0 UC_0 |
+rọi	RI ON2_1 IC_1 |
+liêu	LI IÊN_0 UC_0 |
+đéo	DI EN_5 UC_5 |
+cưỡi	KI ƯƠN_3 IC_3 |
+soái	SI WO_5 AN2_5 IC_5 |
+trạch	TRI AN1_1 KC_1 |
+ạt	AN2_1 TC_1 |
+bưởi	BI ƯƠN_2 IC_2 |
+nện	NI ÊN_1 NC_1 |
+hẻm	HI EN_2 MC_2 |
+gả	GI AN2_2 |
+sảng	SI AN1_2 NGC_2 |
+thẳm	THI AN3_2 MC_2 |
+nhũn	NHI UN_3 NC_3 |
+choạng	CHI WO_1 AN1_1 NGC_1 |
+ảm	AN2_2 MC_2 |
+trăn	TRI AN3_0 NC_0 |
+còng	KI ON1_4 NGC_4 |
+dang	ZI AN1_0 NGC_0 |
+nản	NI AN2_2 NC_2 |
+lì	LI IN_4 |
+trũng	TRI UN_3 NGC_3 |
+rạch	RI AN1_1 KC_1 |
+nhấp	NHI ÂN_5 PC_5 |
+buột	BI UÔN_1 TC_1 |
+rầu	RI ÂN_4 UC_4 |
+diều	ZI IÊN_4 UC_4 |
+ngán	NGI AN2_5 NC_5 |
+cợt	KI ƠN_1 TC_1 |
+tủy	TI UN_2 YC_2 |
+ruồi	RI UÔN_4 IC_4 |
+dỡ	ZI ƠC_3 |
+nhảm	NHI AN2_2 MC_2 |
+vạt	VI AN2_1 TC_1 |
+chát	CHI AN2_5 TC_5 |
+sủa	SI UÔN_2 |
+trèo	TRI EN_4 UC_4 |
+rụt	RI UN_1 TC_1 |
+thoa	THI WO_0 AN2_0 |
+bệch	BI ÊN_1 KC_1 |
+chuôi	CHI UÔN_0 IC_0 |
+vầy	VI ÂN_4 YC_4 |
+mỉ	MI IN_2 |
+cày	KI AN3_4 YC_4 |
+khom	KHI ON2_0 MC_0 |
+phác	PHI AN1_5 KC_5 |
+khùng	KHI UN_4 NGC_4 |
+the	THI EN_0 |
+thiểm	THI IÊN_2 MC_2 |
+ngừ	NGI ƯC_4 |
+chực	CHI ƯN_1 KC_1 |
+lọ	LI ON2_1 |
+loạng	LI WO_1 AN1_1 NGC_1 |
+lếch	LI ÊN_5 KC_5 |
+tấu	TI ÂN_5 UC_5 |
+giò	ZI ON2_4 |
+neo	NI EN_0 UC_0 |
+rải	RI AN2_2 IC_2 |
+ngượng	NGI ƯƠN_1 NGC_1 |
+luyến	LI WO_5 YÊN_5 NC_5 |
+ten	TI EN_0 NC_0 |
+rảo	RI AN2_2 UC_2 |
+ngọ	NGI ON2_1 |
+phồng	PHI ÔN_4 NGC_4 |
+rập	RI ÂN_1 PC_1 |
+nâu	NI ÂN_0 UC_0 |
+miệt	MI IÊN_1 TC_1 |
+chót	CHI ON2_5 TC_5 |
+khiêng	KHI IÊN_0 NGC_0 |
+buýt	BI WO_5 IN_5 TC_5 |
+cồn	KI ÔN_4 NC_4 |
+ngà	NGI AN2_4 |
+vía	VI IAN_5 |
+vệt	VI ÊN_1 TC_1 |
+nua	NI UÔN_0 |
+ửng	ƯN_2 NGC_2 |
+nuối	NI UÔN_5 IC_5 |
+bênh	BI ÊN_0 NGC_0 |
+đò	DI ON2_4 |
+ben	BI EN_0 NC_0 |
+vén	VI EN_5 NC_5 |
+buồng	BI UÔN_4 NGC_4 |
+ngước	NGI ƯƠN_5 KC_5 |
+rương	RI ƯƠN_0 NGC_0 |
+tợn	TI ƠN_1 NC_1 |
+tỏi	TI ON2_2 IC_2 |
+đẽ	DI EN_3 |
+hờn	HI ƠN_4 NC_4 |
+tùm	TI UN_4 MC_4 |
+háo	HI AN2_5 UC_5 |
+quậy	KI WO_1 ÂN_1 YC_1 |
+hừng	HI ƯN_4 NGC_4 |
+tem	TI EN_0 MC_0 |
+giời	ZI ƠN_4 IC_4 |
+láo	LI AN2_5 UC_5 |
+tơi	TI ƠN_0 IC_0 |
+rích	RI IN_5 KC_5 |
+thắp	THI AN3_5 PC_5 |
+xiết	XI IÊN_5 TC_5 |
+chèo	CHI EN_4 UC_4 |
+ngả	NGI AN2_2 |
+vãi	VI AN2_3 IC_3 |
+đun	DI UN_0 NC_0 |
+thuột	THI UÔN_1 TC_1 |
+vắt	VI AN3_5 TC_5 |
+câm	KI ÂN_0 MC_0 |
+han	HI AN2_0 NC_0 |
+sực	SI ƯN_1 KC_1 |
+đốm	DI ÔN_5 MC_5 |
+xổ	XI ÔN_2 |
+cào	KI AN2_4 UC_4 |
+hoạn	HI WO_1 AN2_1 NC_1 |
+đệm	DI ÊN_1 MC_1 |
+vét	VI EN_5 TC_5 |
+đặn	DI AN3_1 NC_1 |
+lút	LI UN_5 TC_5 |
+chiết	CHI IÊN_5 TC_5 |
+keo	KI EN_0 UC_0 |
+de	ZI EN_0 |
+cuả	KI UÔN_2 |
+sáp	SI AN2_5 PC_5 |
+nheo	NHI EN_0 UC_0 |
+mâm	MI ÂN_0 MC_0 |
+ram	RI AN2_0 MC_0 |
+seo	SI EN_0 UC_0 |
+sêu	SI ÊN_0 UC_0 |
+hù	HI UN_4 |
+mí	MI IN_5 |
+qui	KI UN_0 IC_0 |
+ối	ÔN_5 IC_5 |
+nức	NI ƯN_5 KC_5 |
+sừn	SI ƯN_4 NC_4 |
+cằm	KI AN3_4 MC_4 |
+chưng	CHI ƯN_0 NGC_0 |
+ủ	UN_2 |
+hoi	HI ON2_0 IC_0 |
+bứt	BI ƯN_5 TC_5 |
+bướm	BI ƯƠN_5 MC_5 |
+rì	RI IN_4 |
+thuở	THI UN_2 ƠC_2 |
+day	ZI AN3_0 YC_0 |
+bong	BI ON1_0 NGC_0 |
+ách	AN1_5 KC_5 |
+kị	KI IN_1 |
+vẩy	VI ÂN_2 YC_2 |
+nà	NI AN2_4 |
+xôn	XI ÔN_0 NC_0 |
+sẹo	SI EN_1 UC_1 |
+khàn	KHI AN2_4 NC_4 |
+buốt	BI UÔN_5 TC_5 |
+hơ	HI ƠC_0 |
+khoai	KHI WO_0 AN2_0 IC_0 |
+bôi	BI ÔN_0 IC_0 |
+ngặt	NGI AN3_1 TC_1 |
+thung	THI UN_0 NGC_0 |
+cup	KI UN_0 PC_0 |
+chang	CHI AN1_0 NGC_0 |
+lún	LI UN_5 NC_5 |
+dẻo	ZI EN_2 UC_2 |
+nghẹn	NGI EN_1 NC_1 |
+lõm	LI ON2_3 MC_3 |
+thoắt	THI WO_5 AN3_5 TC_5 |
+tủi	TI UN_2 IC_2 |
+cù	KI UN_4 |
+tràm	TRI AN2_4 MC_4 |
+muỗng	MI UÔN_3 NGC_3 |
+cúm	KI UN_5 MC_5 |
+chận	CHI ÂN_1 NC_1 |
+mớ	MI ƠC_5 |
+thinh	THI IN_0 NGC_0 |
+rao	RI AN2_0 UC_0 |
+méc	MI EN_5 KC_5 |
+nao	NI AN2_0 UC_0 |
+thềm	THI ÊN_4 MC_4 |
+nung	NI UN_0 NGC_0 |
+ngạnh	NGI AN1_1 NGC_1 |
+tum	TI UN_0 MC_0 |
+trệ	TRI ÊN_1 |
+tụt	TI UN_1 TC_1 |
+keng	KI EN_0 NGC_0 |
+bời	BI ƠN_4 IC_4 |
+khử	KHI ƯC_2 |
+úy	UN_5 YC_5 |
+mo	MI ON2_0 |
+ngoạn	NGI WO_1 AN2_1 NC_1 |
+nhộn	NHI ÔN_1 NC_1 |
+ứ	ƯC_5 |
+giã	ZI AN2_3 |
+nến	NI ÊN_5 NC_5 |
+xoài	XI WO_4 AN2_4 IC_4 |
+din	ZI IN_0 NC_0 |
+cỏi	KI ON2_2 IC_2 |
+vin	VI IN_0 NC_0 |
+mịch	MI IN_1 KC_1 |
+rầy	RI ÂN_4 YC_4 |
+giỏ	ZI ON2_2 |
+búng	BI UN_5 NGC_5 |
+hóc	HI ON1_5 KC_5 |
+doạ	ZI WO_1 AN2_1 |
+thắm	THI AN3_5 MC_5 |
+oánh	WO_5 AN1_5 NGC_5 |
+muỗi	MI UÔN_3 IC_3 |
+luống	LI UÔN_5 NGC_5 |
+nhện	NHI ÊN_1 NC_1 |
+hằn	HI AN3_4 NC_4 |
+xỉu	XI IN_2 UC_2 |
+nhể	NHI ÊN_2 |
+nhả	NHI AN2_2 |
+khuynh	KHI WO_0 IN_0 NGC_0 |
+rai	RI AN2_0 IC_0 |
+ngóng	NGI ON1_5 NGC_5 |
+bin	BI IN_0 NC_0 |
+chòi	CHI ON2_4 IC_4 |
+lốt	LI ÔN_5 TC_5 |
+bọ	BI ON2_1 |
+tét	TI EN_5 TC_5 |
+oát	WO_5 AN2_5 TC_5 |
+chích	CHI IN_5 KC_5 |
+tẩm	TI ÂN_2 MC_2 |
+tạt	TI AN2_1 TC_1 |
+điếu	DI IÊN_5 UC_5 |
+rắm	RI AN3_5 MC_5 |
+qúy	KI UN_5 YC_5 |
+chuộc	CHI UÔN_1 KC_1 |
+chước	CHI ƯƠN_5 KC_5 |
+năn	NI AN3_0 NC_0 |
+vun	VI UN_0 NC_0 |
+chậu	CHI ÂN_1 UC_1 |
+thoạt	THI WO_1 AN2_1 TC_1 |
+vá	VI AN2_5 |
+bét	BI EN_5 TC_5 |
+ấu	ÂN_5 UC_5 |
+loang	LI WO_0 AN1_0 NGC_0 |
+gáp	GI AN2_5 PC_5 |
+dế	ZI ÊN_5 |
+thạo	THI AN2_1 UC_1 |
+khà	KHI AN2_4 |
+dôn	ZI ÔN_0 NC_0 |
+xát	XI AN2_5 TC_5 |
+moi	MI ON2_0 IC_0 |
+hạp	HI AN2_1 PC_1 |
+bạ	BI AN2_1 |
+kềm	KI ÊN_4 MC_4 |
+sục	SI UN_1 KC_1 |
+he	HI EN_0 |
+dẫm	ZI ÂN_3 MC_3 |
+gãi	GI AN2_3 IC_3 |
+vảy	VI AN3_2 YC_2 |
+phét	PHI EN_5 TC_5 |
+lin	LI IN_0 NC_0 |
+ướp	ƯƠN_5 PC_5 |
+chầm	CHI ÂN_4 MC_4 |
+dạt	ZI AN2_1 TC_1 |
+hộc	HI ÔN_1 KC_1 |
+chài	CHI AN2_4 IC_4 |
+giãy	ZI AN3_3 YC_3 |
+lịnh	LI IN_1 NGC_1 |
+ph	PHI |
+diệc	ZI IÊN_1 KC_1 |
+tếch	TI ÊN_5 KC_5 |
+gởi	GI ƠN_2 IC_2 |
+ngạt	NGI AN2_1 TC_1 |
+nguội	NGI UÔN_1 IC_1 |
+diêu	ZI IÊN_0 UC_0 |
+mụn	MI UN_1 NC_1 |
+bú	BI UN_5 |
+tưng	TI ƯN_0 NGC_0 |
+chừa	CHI ƯƠN_4 |
+ếch	ÊN_5 KC_5 |
+tru	TRI UN_0 |
+méo	MI EN_5 UC_5 |
+lẻn	LI EN_2 NC_2 |
+hắng	HI AN3_5 NGC_5 |
+khoá	KHI WO_5 AN2_5 |
+guôn	GI UÔN_0 NC_0 |
+đốn	DI ÔN_5 NC_5 |
+hãnh	HI AN1_3 NGC_3 |
+nêm	NI ÊN_0 MC_0 |
+ngoặt	NGI WO_1 AN3_1 TC_1 |
+quầng	KI WO_4 ÂN_4 NGC_4 |
+vượng	VI ƯƠN_1 NGC_1 |
+liêng	LI IÊN_0 NGC_0 |
+khố	KHI ÔN_5 |
+ngùng	NGI UN_4 NGC_4 |
+cọp	KI ON2_1 PC_1 |
+híp	HI IN_5 PC_5 |
+um	UN_0 MC_0 |
+gọt	GI ON2_1 TC_1 |
+ờm	ƠN_4 MC_4 |
+nhói	NHI ON2_5 IC_5 |
+áy	AN3_5 YC_5 |
+náy	NI AN3_5 YC_5 |
+điếc	DI IÊN_5 KC_5 |
+vần	VI ÂN_4 NC_4 |
+rông	RI ÔN_0 NGC_0 |
+thuỷ	THI UN_2 YC_2 |
+v	VI |
+bung	BI UN_0 NGC_0 |
+rình	RI IN_4 NGC_4 |
+trác	TRI AN1_5 KC_5 |
+nới	NI ƠN_5 IC_5 |
+dẫu	ZI ÂN_3 UC_3 |
+rượt	RI ƯƠN_1 TC_1 |
+liếm	LI IÊN_5 MC_5 |
+đẫy	DI ÂN_3 YC_3 |
+mếch	MI ÊN_5 KC_5 |
+xấp	XI ÂN_5 PC_5 |
+vớ	VI ƠC_5 |
+bự	BI ƯC_1 |
+líu	LI IN_5 UC_5 |
+láng	LI AN1_5 NGC_5 |
+mạ	MI AN2_1 |
+thớt	THI ƠN_5 TC_5 |
+tuỳ	TI UN_4 YC_4 |
+tóe	TI WO_5 EN_5 |
+thự	THI ƯC_1 |
+nặc	NI AN3_1 KC_1 |
+hước	HI ƯƠN_5 KC_5 |
+dòm	ZI ON2_4 MC_4 |
+vòi	VI ON2_4 IC_4 |
+xịt	XI IN_1 TC_1 |
+xú	XI UN_5 |
+bốp	BI ÔN_5 PC_5 |
+chủy	CHI UN_2 YC_2 |
+ci	KI IN_0 |
+tuột	TI UÔN_1 TC_1 |
+ỏi	ON2_2 IC_2 |
+loay	LI WO_0 AN3_0 YC_0 |
+chờn	CHI ƠN_4 NC_4 |
+cụt	KI UN_1 TC_1 |
+khỏa	KHI WO_2 AN2_2 |
+gộp	GI ÔN_1 PC_1 |
+sắn	SI AN3_5 NC_5 |
+lỏi	LI ON2_2 IC_2 |
+thốn	THI ÔN_5 NC_5 |
+giăng	ZI AN3_0 NGC_0 |
+băm	BI AN3_0 MC_0 |
+dẻ	ZI EN_2 |
+nhạo	NHI AN2_1 UC_1 |
+sủng	SI UN_2 NGC_2 |
+phớt	PHI ƠN_5 TC_5 |
+hoạ	HI WO_1 AN2_1 |
+cọng	KI ON1_1 NGC_1 |
+hoay	HI WO_0 AN3_0 YC_0 |
+ken	KI EN_0 NC_0 |
+bướng	BI ƯƠN_5 NGC_5 |
+ngòi	NGI ON2_4 IC_4 |
+sấy	SI ÂN_5 YC_5 |
+cọ	KI ON2_1 |
+súp	SI UN_5 PC_5 |
+phôi	PHI ÔN_0 IC_0 |
+niêm	NI IÊN_0 MC_0 |
+goai	GI WO_0 AN2_0 IC_0 |
+phàn	PHI AN2_4 NC_4 |
+lìa	LI IAN_4 |
+xẻo	XI EN_2 UC_2 |
+xắn	XI AN3_5 NC_5 |
+xéo	XI EN_5 UC_5 |
+sấp	SI ÂN_5 PC_5 |
+đanh	DI AN1_0 NGC_0 |
+ghe	GI EN_0 |
+diếm	ZI IÊN_5 MC_5 |
+ngõa	NGI WO_3 AN2_3 |
+hoả	HI WO_2 AN2_2 |
+cac	KI AN1_0 KC_0 |
+rang	RI AN1_0 NGC_0 |
+go	GI ON2_0 |
+đèo	DI EN_4 UC_4 |
+xướng	XI ƯƠN_5 NGC_5 |
+bầm	BI ÂN_4 MC_4 |
+guốc	GI UÔN_5 KC_5 |
+tiều	TI IÊN_4 UC_4 |
+ngớ	NGI ƠC_5 |
+nhoẻn	NHI WO_2 EN_2 NC_2 |
+phắt	PHI AN3_5 TC_5 |
+xuẩn	XI WO_2 ÂN_2 NC_2 |
+nu	NI UN_0 |
+tòi	TI ON2_4 IC_4 |
+thụt	THI UN_1 TC_1 |
+vàn	VI AN2_4 NC_4 |
+vỉa	VI IAN_2 |
+rổ	RI ÔN_2 |
+nhỡ	NHI ƠC_3 |
+úi	UN_5 IC_5 |
+bặt	BI AN3_1 TC_1 |
+ke	KI EN_0 |
+phốc	PHI ÔN_5 KC_5 |
+rèm	RI EN_4 MC_4 |
+nỉ	NI IN_2 |
+thạnh	THI AN1_1 NGC_1 |
+mỉa	MI IAN_2 |
+đần	DI ÂN_4 NC_4 |
+còi	KI ON2_4 IC_4 |
+thuấn	THI WO_5 ÂN_5 NC_5 |
+ngửng	NGI ƯN_2 NGC_2 |
+chem	CHI EN_0 MC_0 |
+dấn	ZI ÂN_5 NC_5 |
+nhứt	NHI ƯN_5 TC_5 |
+dùm	ZI UN_4 MC_4 |
+hun	HI UN_0 NC_0 |
+đì	DI IN_4 |
+ngói	NGI ON2_5 IC_5 |
+tị	TI IN_1 |
+chan	CHI AN2_0 NC_0 |
+ắt	AN3_5 TC_5 |
+hổn	HI ÔN_2 NC_2 |
+vích	VI IN_5 KC_5 |
+sặc	SI AN3_1 KC_1 |
+huỷ	HI UN_2 YC_2 |
+duệ	ZI WO_1 ÊN_1 |
+rền	RI ÊN_4 NC_4 |
+mảy	MI AN3_2 YC_2 |
+phở	PHI ƠC_2 |
+lon	LI ON2_0 NC_0 |
+xáo	XI AN2_5 UC_5 |
+dầy	ZI ÂN_4 YC_4 |
+viếng	VI IÊN_5 NGC_5 |
+choàng	CHI WO_4 AN1_4 NGC_4 |
+noi	NI ON2_0 IC_0 |
+lượm	LI ƯƠN_1 MC_1 |
+giun	ZI UN_0 NC_0 |
+răn	RI AN3_0 NC_0 |
+vượn	VI ƯƠN_1 NC_1 |
+sính	SI IN_5 NGC_5 |
+toi	TI ON2_0 IC_0 |
+oang	WO_0 AN1_0 NGC_0 |
+côi	KI ÔN_0 IC_0 |
+bới	BI ƠN_5 IC_5 |
+gàng	GI AN1_4 NGC_4 |
+tòng	TI ON1_4 NGC_4 |
+búp	BI UN_5 PC_5 |
+biếng	BI IÊN_5 NGC_5 |
+quýt	KI WO_5 IN_5 TC_5 |
+rãnh	RI AN1_3 NGC_3 |
+quầy	KI WO_4 ÂN_4 YC_4 |
+uẩn	WO_2 ÂN_2 NC_2 |
+thót	THI ON2_5 TC_5 |
+thào	THI AN2_4 UC_4 |
+thoi	THI ON2_0 IC_0 |
+phót	PHI ON2_5 TC_5 |
+trau	TRI AN3_0 UC_0 |
+lã	LI AN2_3 |
+chèn	CHI EN_4 NC_4 |
+riết	RI IÊN_5 TC_5 |
+phăng	PHI AN3_0 NGC_0 |
+cốp	KI ÔN_5 PC_5 |
+mịn	MI IN_1 NC_1 |
+chồm	CHI ÔN_4 MC_4 |
+hững	HI ƯN_3 NGC_3 |
+miến	MI IÊN_5 NC_5 |
+ngoa	NGI WO_0 AN2_0 |
+vec	VI EN_0 KC_0 |
+nghẹt	NGI EN_1 TC_1 |
+ngáy	NGI AN3_5 YC_5 |
+nàn	NI AN2_4 NC_4 |
+sing	SI IN_0 NGC_0 |
+triền	TRI IÊN_4 NC_4 |
+xẻ	XI EN_2 |
+ngổn	NGI ÔN_2 NC_2 |
+đít	DI IN_5 TC_5 |
+sành	SI AN1_4 NGC_4 |
+sỏi	SI ON2_2 IC_2 |
+nhẽ	NHI EN_3 |
+gập	GI ÂN_1 PC_1 |
+dơi	ZI ƠN_0 IC_0 |
+khất	KHI ÂN_5 TC_5 |
+lép	LI EN_5 PC_5 |
+miểu	MI IÊN_2 UC_2 |
+trố	TRI ÔN_5 |
+chững	CHI ƯN_3 NGC_3 |
+hũ	HI UN_3 |
+lia	LI IAN_0 |
+khiếm	KHI IÊN_5 MC_5 |
+bìa	BI IAN_4 |
+rè	RI EN_4 |
+vẩn	VI ÂN_2 NC_2 |
+xoắn	XI WO_5 AN3_5 NC_5 |
+nghê	NGI ÊN_0 |
+sộ	SI ÔN_1 |
+giễu	ZI ÊN_3 UC_3 |
+uông	UÔN_0 NGC_0 |
+nỏ	NI ON2_2 |
+ngút	NGI UN_5 TC_5 |
+tuồng	TI UÔN_4 NGC_4 |
+lầy	LI ÂN_4 YC_4 |
+ứa	ƯƠN_5 |
+nhái	NHI AN2_5 IC_5 |
+lả	LI AN2_2 |
+rạn	RI AN2_1 NC_1 |
+hển	HI ÊN_2 NC_2 |
+chừ	CHI ƯC_4 |
+khảm	KHI AN2_2 MC_2 |
+rây	RI ÂN_0 YC_0 |
+thịch	THI IN_1 KC_1 |
+hu	HI UN_0 |
+soạt	SI WO_1 AN2_1 TC_1 |
+trim	TRI IN_0 MC_0 |
+xay	XI AN3_0 YC_0 |
+kiêm	KI IÊN_0 MC_0 |
+rần	RI ÂN_4 NC_4 |
+hăm	HI AN3_0 MC_0 |
+om	ON2_0 MC_0 |
+đút	DI UN_5 TC_5 |
+rĩ	RI IN_3 |
+gang	GI AN1_0 NGC_0 |
+trạc	TRI AN1_1 KC_1 |
+hạm	HI AN2_1 MC_1 |
+trẫm	TRI ÂN_3 MC_3 |
+nây	NI ÂN_0 YC_0 |
+sệt	SI ÊN_1 TC_1 |
+dầm	ZI ÂN_4 MC_4 |
+nhè	NHI EN_4 |
+cưa	KI ƯƠN_0 |
+nách	NI AN1_5 KC_5 |
+giằng	ZI AN3_4 NGC_4 |
+dờ	ZI ƠC_4 |
+tỉm	TI IN_2 MC_2 |
+khong	KHI ON1_0 NGC_0 |
+trù	TRI UN_4 |
+bèo	BI EN_4 UC_4 |
+đong	DI ON1_0 NGC_0 |
+rơm	RI ƠN_0 MC_0 |
+ì	IN_4 |
+lốp	LI ÔN_5 PC_5 |
+cạp	KI AN2_1 PC_1 |
+ngỏ	NGI ON2_2 |
+k	KI |
+điu	DI IN_0 UC_0 |
+mướn	MI ƯƠN_5 NC_5 |
+dốt	ZI ÔN_5 TC_5 |
+dãi	ZI AN2_3 IC_3 |
+bịch	BI IN_1 KC_1 |
+dìu	ZI IN_4 UC_4 |
+lòi	LI ON2_4 IC_4 |
+trô	TRI ÔN_0 |
+rồ	RI ÔN_4 |
+héo	HI EN_5 UC_5 |
+nháo	NHI AN2_5 UC_5 |
+vo	VI ON2_0 |
+hanh	HI AN1_0 NGC_0 |
+lim	LI IN_0 MC_0 |
+gâu	GI ÂN_0 UC_0 |
+kít	KI IN_5 TC_5 |
+chếch	CHI ÊN_5 KC_5 |
+mot	MI ON2_0 TC_0 |
+cạm	KI AN2_1 MC_1 |
+múc	MI UN_5 KC_5 |
+vồng	VI ÔN_4 NGC_4 |
+gặm	GI AN3_1 MC_1 |
+khét	KHI EN_5 TC_5 |
+chì	CHI IN_4 |
+re	RI EN_0 |
+bêu	BI ÊN_0 UC_0 |
+giê	ZI ÊN_0 |
+tủm	TI UN_2 MC_2 |
+nồ	NI ÔN_4 |
+túm	TI UN_5 MC_5 |
+níu	NI IN_5 UC_5 |
+gắp	GI AN3_5 PC_5 |
+xuyến	XI WO_5 YÊN_5 NC_5 |
+nhang	NHI AN1_0 NGC_0 |
+vạ	VI AN2_1 |
+lấm	LI ÂN_5 MC_5 |
+nép	NI EN_5 PC_5 |
+cội	KI ÔN_1 IC_1 |
+ky	KI IN_0 |
+vơi	VI ƠN_0 IC_0 |
+sóp	SI ON2_5 PC_5 |
+uỷ	UN_2 YC_2 |
+hửng	HI ƯN_2 NGC_2 |
+gặt	GI AN3_1 TC_1 |
+guy	GI UN_0 YC_0 |
+dút	ZI UN_5 TC_5 |
+nghẽn	NGI EN_3 NC_3 |
+xỉa	XI IAN_2 |
+phả	PHI AN2_2 |
+lề	LI ÊN_4 |
+hức	HI ƯN_5 KC_5 |
+bịa	BI IAN_1 |
+phà	PHI AN2_4 |
+tỵ	TI IN_1 |
+ran	RI AN2_0 NC_0 |
+óe	WO_5 EN_5 |
+giảo	ZI AN2_2 UC_2 |
+xoạt	XI WO_1 AN2_1 TC_1 |
+thoả	THI WO_2 AN2_2 |
+duẫn	ZI WO_3 ÂN_3 NC_3 |
+chuộng	CHI UÔN_1 NGC_1 |
+ẩu	ÂN_2 UC_2 |
+thúi	THI UN_5 IC_5 |
+xúi	XI UN_5 IC_5 |
+nhót	NHI ON2_5 TC_5 |
+mải	MI AN2_2 IC_2 |
+dãn	ZI AN2_3 NC_3 |
+cõng	KI ON1_3 NGC_3 |
+nguôi	NGI UÔN_0 IC_0 |
+đuốc	DI UÔN_5 KC_5 |
+síp	SI IN_5 PC_5 |
+rủa	RI UÔN_2 |
+hòm	HI ON2_4 MC_4 |
+cáu	KI AN3_5 UC_5 |
+nũng	NI UN_3 NGC_3 |
+chùi	CHI UN_4 IC_4 |
+đếch	DI ÊN_5 KC_5 |
+rin	RI IN_0 NC_0 |
+vẳng	VI AN3_2 NGC_2 |
+sòng	SI ON1_4 NGC_4 |
+giàn	ZI AN2_4 NC_4 |
+chảo	CHI AN2_2 UC_2 |
+nhàm	NHI AN2_4 MC_4 |
+ngàng	NGI AN1_4 NGC_4 |
+mương	MI ƯƠN_0 NGC_0 |
+mạt	MI AN2_1 TC_1 |
+sả	SI AN2_2 |
+đực	DI ƯN_1 KC_1 |
+lồi	LI ÔN_4 IC_4 |
+veo	VI EN_0 UC_0 |
+mọn	MI ON2_1 NC_1 |
+ngầu	NGI ÂN_4 UC_4 |
+nen	NI EN_0 NC_0 |
+xo	XI ON2_0 |
+lum	LI UN_0 MC_0 |
+mía	MI IAN_5 |
+lác	LI AN1_5 KC_5 |
+sạc	SI AN1_1 KC_1 |
+bỉnh	BI IN_2 NGC_2 |
+thui	THI UN_0 IC_0 |
+mích	MI IN_5 KC_5 |
+sưa	SI ƯƠN_0 |
+thố	THI ÔN_5 |
+rết	RI ÊN_5 TC_5 |
+nanh	NI AN1_0 NGC_0 |
+vẻn	VI EN_2 NC_2 |
+sọ	SI ON2_1 |
+gút	GI UN_5 TC_5 |
+yếm	YÊN_5 MC_5 |
+xuồng	XI UÔN_4 NGC_4 |
+hời	HI ƠN_4 IC_4 |
+dấy	ZI ÂN_5 YC_5 |
+lườm	LI ƯƠN_4 MC_4 |
+sải	SI AN2_2 IC_2 |
+l	LI |
+dụa	ZI UÔN_1 |
+dỗi	ZI ÔN_3 IC_3 |
+ngách	NGI AN1_5 KC_5 |
+ù	UN_4 |
+ế	ÊN_5 |
+sần	SI ÂN_4 NC_4 |
+que	KI WO_0 EN_0 |
+thóc	THI ON1_5 KC_5 |
+ĩ	IN_3 |
+rưng	RI ƯN_0 NGC_0 |
+xâu	XI ÂN_0 UC_0 |
+mêu	MI ÊN_0 UC_0 |
+cấn	KI ÂN_5 NC_5 |
+tróc	TRI ON1_5 KC_5 |
+cẳng	KI AN3_2 NGC_2 |
+thím	THI IN_5 MC_5 |
+khiên	KHI IÊN_0 NC_0 |
+đản	DI AN2_2 NC_2 |
+bĩu	BI IN_3 UC_3 |
+phập	PHI ÂN_1 PC_1 |
+g	GI |
+khoẻ	KHI WO_2 EN_2 |
+liễm	LI IÊN_3 MC_3 |
+kon	KI ON2_0 NC_0 |
+goét	GI WO_5 EN_5 TC_5 |
+éo	EN_5 UC_5 |
+chải	CHI AN2_2 IC_2 |
+lọi	LI ON2_1 IC_1 |
+xộn	XI ÔN_1 NC_1 |
+thẫm	THI ÂN_3 MC_3 |
+loãng	LI WO_3 AN1_3 NGC_3 |
+lựu	LI ƯN_1 UC_1 |
+lươn	LI ƯƠN_0 NC_0 |
+chau	CHI AN3_0 UC_0 |
+táp	TI AN2_5 PC_5 |
+hống	HI ÔN_5 NGC_5 |
+đĩnh	DI IN_3 NGC_3 |
+trây	TRI ÂN_0 YC_0 |
+phủi	PHI UN_2 IC_2 |
+đừn	DI ƯN_4 NC_4 |
+chông	CHI ÔN_0 NGC_0 |
+tuốt	TI UÔN_5 TC_5 |
+đật	DI ÂN_1 TC_1 |
+bói	BI ON2_5 IC_5 |
+sim	SI IN_0 MC_0 |
+toại	TI WO_1 AN2_1 IC_1 |
+quai	KI UÔN_0 IC_0 |
+chồn	CHI ÔN_4 NC_4 |
+nẻo	NI EN_2 UC_2 |
+tởm	TI ƠN_2 MC_2 |
+oải	WO_2 AN2_2 IC_2 |
+bun	BI UN_0 NC_0 |
+oi	ON2_0 IC_0 |
+vòm	VI ON2_4 MC_4 |
+nõn	NI ON2_3 NC_3 |
+thừng	THI ƯN_4 NGC_4 |
+quơ	KI UN_0 ƠC_0 |
+lè	LI EN_4 |
+nhồi	NHI ÔN_4 IC_4 |
+mách	MI AN1_5 KC_5 |
+ú	UN_5 |
+tụy	TI UN_1 YC_1 |
+tể	TI ÊN_2 |
+thiều	THI IÊN_4 UC_4 |
+nghinh	NGI IN_0 NGC_0 |
+đẩu	DI ÂN_2 UC_2 |
+cang	KI AN1_0 NGC_0 |
+khăng	KHI AN3_0 NGC_0 |
+đìa	DI IAN_4 |
+lâng	LI ÂN_0 NGC_0 |
+nết	NI ÊN_5 TC_5 |
+vạm	VI AN2_1 MC_1 |
+mó	MI ON2_5 |
+cổn	KI ÔN_2 NC_2 |
+trát	TRI AN2_5 TC_5 |
+ớn	ƠN_5 NC_5 |
+hiềm	HI IÊN_4 MC_4 |
+hớp	HI ƠN_5 PC_5 |
+nấc	NI ÂN_5 KC_5 |
+yểu	YÊN_2 UC_2 |
+xù	XI UN_4 |
+véo	VI EN_5 UC_5 |
+guây	GI WO_0 ÂN_0 YC_0 |
+lôn	LI ÔN_0 NC_0 |
+vụng	VI UN_1 NGC_1 |
+mần	MI ÂN_4 NC_4 |
+đỗi	DI ÔN_3 IC_3 |
+vãng	VI AN1_3 NGC_3 |
+nhãi	NHI AN2_3 IC_3 |
+cằn	KI AN3_4 NC_4 |
+liu	LI IN_0 UC_0 |
+nám	NI AN2_5 MC_5 |
+vênh	VI ÊN_0 NGC_0 |
+đin	DI IN_0 NC_0 |
+km	KI MC_0 |
+giếm	ZI ÊN_5 MC_5 |
+bùa	BI UÔN_4 |
+phết	PHI ÊN_5 TC_5 |
+tỉa	TI IAN_2 |
+trót	TRI ON2_5 TC_5 |
+tàm	TI AN2_4 MC_4 |
+gươm	GI ƯƠN_0 MC_0 |
+phướng	PHI ƯƠN_5 NGC_5 |
+oản	WO_2 AN2_2 NC_2 |
+hậm	HI ÂN_1 MC_1 |
+lùm	LI UN_4 MC_4 |
+dậm	ZI ÂN_1 MC_1 |
+nguyền	NGI WO_4 YÊN_4 NC_4 |
+khắt	KHI AN3_5 TC_5 |
+nhuần	NHI WO_4 ÂN_4 NC_4 |
+cạo	KI AN2_1 UC_1 |
+gơ	GI ƠC_0 |
+trọt	TRI ON2_1 TC_1 |
+kén	KI EN_5 NC_5 |
+mím	MI IN_5 MC_5 |
+thửa	THI ƯƠN_2 |
+ngoảnh	NGI WO_2 AN1_2 NGC_2 |
+khựng	KHI ƯN_1 NGC_1 |
+phông	PHI ÔN_0 NGC_0 |
+khờ	KHI ƠC_4 |
+vưu	VI ƯN_0 UC_0 |
+guân	GI WO_0 ÂN_0 NC_0 |
+thạc	THI AN1_1 KC_1 |
+gồng	GI ÔN_4 NGC_4 |
+thuyên	THI WO_0 YÊN_0 NC_0 |
+tẻ	TI EN_2 |
+hiu	HI IN_0 UC_0 |
+viu	VI IN_0 UC_0 |
+uể	WO_2 ÊN_2 |
+kịt	KI IN_1 TC_1 |
+sì	SI IN_4 |
+nọt	NI ON2_1 TC_1 |
+tóp	TI ON2_5 PC_5 |
+chảnh	CHI AN1_2 NGC_2 |
+xòe	XI WO_4 EN_4 |
+khẩy	KHI ÂN_2 YC_2 |
+rơ	RI ƠC_0 |
+rúng	RI UN_5 NGC_5 |
+leng	LI EN_0 NGC_0 |
+ko	KI ON2_0 |
+khưu	KHI ƯN_0 UC_0 |
+ngát	NGI AN2_5 TC_5 |
+phạn	PHI AN2_1 NC_1 |
+xõa	XI WO_3 AN2_3 |
+chắt	CHI AN3_5 TC_5 |
+tảo	TI AN2_2 UC_2 |
+nầy	NI ÂN_4 YC_4 |
+ót	ON2_5 TC_5 |
+dăm	ZI AN3_0 MC_0 |
+khuấy	KHI WO_5 ÂN_5 YC_5 |
+vôi	VI ÔN_0 IC_0 |
+dậu	ZI ÂN_1 UC_1 |
+chửng	CHI ƯN_2 NGC_2 |
+mễ	MI ÊN_3 |
+sái	SI AN2_5 IC_5 |
+hâu	HI ÂN_0 UC_0 |
+lạch	LI AN1_1 KC_1 |
+lảnh	LI AN1_2 NGC_2 |
+loé	LI WO_5 EN_5 |
+trồi	TRI ÔN_4 IC_4 |
+dí	ZI IN_5 |
+ươm	ƯƠN_0 MC_0 |
+mấp	MI ÂN_5 PC_5 |
+ganh	GI AN1_0 NGC_0 |
+lõng	LI ON1_3 NGC_3 |
+cóp	KI ON2_5 PC_5 |
+kèn	KI EN_4 NC_4 |
+phồn	PHI ÔN_4 NC_4 |
+hoằng	HI WO_4 AN3_4 NGC_4 |
+tho	THI ON2_0 |
+sậm	SI ÂN_1 MC_1 |
+chít	CHI IN_5 TC_5 |
+tren	TRI EN_0 NC_0 |
+chô	CHI ÔN_0 |
+mượt	MI ƯƠN_1 TC_1 |
+miu	MI IN_0 UC_0 |
+dĩa	ZI IAN_3 |
+ùa	UÔN_4 |
+nôi	NI ÔN_0 IC_0 |
+trối	TRI ÔN_5 IC_5 |
+sấu	SI ÂN_5 UC_5 |
+gở	GI ƠC_2 |
+gôn	GI ÔN_0 NC_0 |
+bâng	BI ÂN_0 NGC_0 |
+khua	KHI UÔN_0 |
+mun	MI UN_0 NC_0 |
+xoe	XI WO_0 EN_0 |
+bịnh	BI IN_1 NGC_1 |
+rúp	RI UN_5 PC_5 |
+chạc	CHI AN1_1 KC_1 |
+hứ	HI ƯC_5 |
+dặt	ZI AN3_1 TC_1 |
+sít	SI IN_5 TC_5 |
+ưm	ƯN_0 MC_0 |
+gài	GI AN2_4 IC_4 |
+xờ	XI ƠC_4 |
+xiêu	XI IÊN_0 UC_0 |
+quyện	KI WO_1 YÊN_1 NC_1 |
+riêu	RI IÊN_0 UC_0 |
+chíp	CHI IN_5 PC_5 |
+xốc	XI ÔN_5 KC_5 |
+gao	GI AN2_0 UC_0 |
+lóa	LI WO_5 AN2_5 |
+ngìn	NGI IN_4 NC_4 |
+lừn	LI ƯN_4 NC_4 |
+đát	DI AN2_5 TC_5 |
+nớt	NI ƠN_5 TC_5 |
+lịa	LI IAN_1 |
+quáng	KI UÔN_5 NGC_5 |
+nhằn	NHI AN3_4 NC_4 |
+đóm	DI ON2_5 MC_5 |
+phúng	PHI UN_5 NGC_5 |
+mút	MI UN_5 TC_5 |
+tè	TI EN_4 |
+dim	ZI IN_0 MC_0 |
+deo	ZI EN_0 UC_0 |
+goa	GI WO_0 AN2_0 |
+tợ	TI ƠC_1 |
+xoong	XI WO_0 ON1_0 NGC_0 |
+hợt	HI ƠN_1 TC_1 |
+dề	ZI ÊN_4 |
+luồn	LI UÔN_4 NC_4 |
+mả	MI AN2_2 |
+bấp	BI ÂN_5 PC_5 |
+khoét	KHI WO_5 EN_5 TC_5 |
+nhó	NHI ON2_5 |
+quạ	KI UÔN_1 |
+ất	ÂN_5 TC_5 |
+tíc	TI IN_5 KC_5 |
+ne	NI EN_0 |
+thỏm	THI ON2_2 MC_2 |
+nốc	NI ÔN_5 KC_5 |
+ng	NGI |
+miện	MI IÊN_1 NC_1 |
+nập	NI ÂN_1 PC_1 |
+biếu	BI IÊN_5 UC_5 |
+giậm	ZI ÂN_1 MC_1 |
+lố	LI ÔN_5 |
+choi	CHI ON2_0 IC_0 |
+gắm	GI AN3_5 MC_5 |
+mè	MI EN_4 |
+giựt	ZI ƯN_1 TC_1 |
+mồng	MI ÔN_4 NGC_4 |
+lòa	LI WO_4 AN2_4 |
+chẵn	CHI AN3_3 NC_3 |
+hới	HI ƠN_5 IC_5 |
+nhác	NHI AN1_5 KC_5 |
+ăng	AN3_0 NGC_0 |
+òa	WO_4 AN2_4 |
+lùa	LI UÔN_4 |
+sỡ	SI ƠC_3 |
+gẫy	GI ÂN_3 YC_3 |
+dát	ZI AN2_5 TC_5 |
+ngắc	NGI AN3_5 KC_5 |
+nom	NI ON2_0 MC_0 |
+râm	RI ÂN_0 MC_0 |
+tắp	TI AN3_5 PC_5 |
+phới	PHI ƠN_5 IC_5 |
+bếch	BI ÊN_5 KC_5 |
+bở	BI ƠC_2 |
+tăn	TI AN3_0 NC_0 |
+bộn	BI ÔN_1 NC_1 |
+nhơ	NHI ƠC_0 |
+vỹ	VI IN_3 |
+gừng	GI ƯN_4 NGC_4 |
+bẹp	BI EN_1 PC_1 |
+tì	TI IN_4 |
+tiệt	TI IÊN_1 TC_1 |
+đọ	DI ON2_1 |
+xan	XI AN2_0 NC_0 |
+rờn	RI ƠN_4 NC_4 |
+ngoắc	NGI WO_5 AN3_5 KC_5 |
+loi	LI ON2_0 IC_0 |
+toạ	TI WO_1 AN2_1 |
+kông	KI ÔN_0 NGC_0 |
+giồi	ZI ÔN_4 IC_4 |
+duoc	ZI WO_0 ON1_0 KC_0 |
+trét	TRI EN_5 TC_5 |
+dợ	ZI ƠC_1 |
+quyệt	KI WO_1 YÊN_1 TC_1 |
+chòm	CHI ON2_4 MC_4 |
+ngóc	NGI ON1_5 KC_5 |
+sắng	SI AN3_5 NGC_5 |
+tuông	TI UÔN_0 NGC_0 |
+xói	XI ON2_5 IC_5 |
+nắn	NI AN3_5 NC_5 |
+ghẹo	GI EN_1 UC_1 |
+hòi	HI ON2_4 IC_4 |
+un	UN_0 NC_0 |
+quàng	KI UÔN_4 NGC_4 |
+siêng	SI IÊN_0 NGC_0 |
+khay	KHI AN3_0 YC_0 |
+bặm	BI AN3_1 MC_1 |
+xốp	XI ÔN_5 PC_5 |
+xó	XI ON2_5 |
+xiêm	XI IÊN_0 MC_0 |
+ọp	ON2_1 PC_1 |
+rìa	RI IAN_4 |
+liệp	LI IÊN_1 PC_1 |
+lìm	LI IN_4 MC_4 |
+nẩy	NI ÂN_2 YC_2 |
+phụt	PHI UN_1 TC_1 |
+chổ	CHI ÔN_2 |
+up	UN_0 PC_0 |
+tủa	TI UÔN_2 |
+phèn	PHI EN_4 NC_4 |
+sẫm	SI ÂN_3 MC_3 |
+ngải	NGI AN2_2 IC_2 |
+bợ	BI ƠC_1 |
+nịu	NI IN_1 UC_1 |
+múi	MI UN_5 IC_5 |
+chuốc	CHI UÔN_5 KC_5 |
+liệng	LI IÊN_1 NGC_1 |
+rôn	RI ÔN_0 NC_0 |
+nhậm	NHI ÂN_1 MC_1 |
+láy	LI AN3_5 YC_5 |
+bùm	BI UN_4 MC_4 |
+dích	ZI IN_5 KC_5 |
+hon	HI ON2_0 NC_0 |
+nghen	NGI EN_0 NC_0 |
+chẻ	CHI EN_2 |
+suôn	SI UÔN_0 NC_0 |
+lem	LI EN_0 MC_0 |
+xạo	XI AN2_1 UC_1 |
+nghén	NGI EN_5 NC_5 |
+đán	DI AN2_5 NC_5 |
+ghềnh	GI ÊN_4 NGC_4 |
+lẩy	LI ÂN_2 YC_2 |
+tã	TI AN2_3 |
+vẹt	VI EN_1 TC_1 |
+giũ	ZI UN_3 |
+nin	NI IN_0 NC_0 |
+lững	LI ƯN_3 NGC_3 |
+lòe	LI WO_4 EN_4 |
+xỏ	XI ON2_2 |
+muống	MI UÔN_5 NGC_5 |
+lạp	LI AN2_1 PC_1 |
+quây	KI WO_0 ÂN_0 YC_0 |
+chịt	CHI IN_1 TC_1 |
+áng	AN1_5 NGC_5 |
+toản	TI WO_2 AN2_2 NC_2 |
+lải	LI AN2_2 IC_2 |
+hẻo	HI EN_2 UC_2 |
+chường	CHI ƯƠN_4 NGC_4 |
+nực	NI ƯN_1 KC_1 |
+vịn	VI IN_1 NC_1 |
+miết	MI IÊN_5 TC_5 |
+ưỡn	ƯƠN_3 NC_3 |
+rỗ	RI ÔN_3 |
+típ	TI IN_5 PC_5 |
+goép	GI WO_5 EN_5 PC_5 |
+ố	ÔN_5 |
+nguoi	NGI WO_0 ON2_0 IC_0 |
+sun	SI UN_0 NC_0 |
+chồi	CHI ÔN_4 IC_4 |
+ẵm	AN3_3 MC_3 |
+trặc	TRI AN3_1 KC_1 |
+sá	SI AN2_5 |
+mẩu	MI ÂN_2 UC_2 |
+hẫng	HI ÂN_3 NGC_3 |
+bỡ	BI ƠC_3 |
+khế	KHI ÊN_5 |
+rôm	RI ÔN_0 MC_0 |
+phình	PHI IN_4 NGC_4 |
+buồm	BI UÔN_4 MC_4 |
+giũa	ZI UÔN_3 |
+ria	RI IAN_0 |
+dũ	ZI UN_3 |
+bống	BI ÔN_5 NGC_5 |
+kèo	KI EN_4 UC_4 |
+chầu	CHI ÂN_4 UC_4 |
+xoát	XI WO_5 AN2_5 TC_5 |
+quýnh	KI WO_5 IN_5 NGC_5 |
+chòng	CHI ON1_4 NGC_4 |
+lênh	LI ÊN_0 NGC_0 |
+rinh	RI IN_0 NGC_0 |
+bót	BI ON2_5 TC_5 |
+sà	SI AN2_4 |
+thừ	THI ƯC_4 |
+khuỷu	KHI WO_2 IN_2 UC_2 |
+vờn	VI ƠN_4 NC_4 |
+thé	THI EN_5 |
+sấn	SI ÂN_5 NC_5 |
+xoá	XI WO_5 AN2_5 |
+q	KI |
+muoi	MI WO_0 ON2_0 IC_0 |
+xỉn	XI IN_2 NC_2 |
+gán	GI AN2_5 NC_5 |
+giỗ	ZI ÔN_3 |
+lủng	LI UN_2 NGC_2 |
+hụi	HI UN_1 IC_1 |
+thía	THI IAN_5 |
+rốn	RI ÔN_5 NC_5 |
+bềnh	BI ÊN_4 NGC_4 |
+đểu	DI ÊN_2 UC_2 |
+lết	LI ÊN_5 TC_5 |
+hớt	HI ƠN_5 TC_5 |
+dằng	ZI AN3_4 NGC_4 |
+dụi	ZI UN_1 IC_1 |
+tót	TI ON2_5 TC_5 |
+hây	HI ÂN_0 YC_0 |
+goát	GI WO_5 AN2_5 TC_5 |
+hóan	HI WO_5 AN2_5 NC_5 |
+dạc	ZI AN1_1 KC_1 |
+biu	BI IN_0 UC_0 |
+phít	PHI IN_5 TC_5 |
+lẩu	LI ÂN_2 UC_2 |
+mướt	MI ƯƠN_5 TC_5 |
+nhoi	NHI ON2_0 IC_0 |
+von	VI ON2_0 NC_0 |
+mẹo	MI EN_1 UC_1 |
+gỏi	GI ON2_2 IC_2 |
+vn	VI NC_0 |
+lảng	LI AN1_2 NGC_2 |
+trỗi	TRI ÔN_3 IC_3 |
+thoang	THI WO_0 AN1_0 NGC_0 |
+nệm	NI ÊN_1 MC_1 |
+nhừ	NHI ƯC_4 |
+hổi	HI ÔN_2 IC_2 |
+kẻo	KI EN_2 UC_2 |
+tằng	TI AN3_4 NGC_4 |
+khuâng	KHI WO_0 ÂN_0 NGC_0 |
+mủ	MI UN_2 |
+dột	ZI ÔN_1 TC_1 |
+trề	TRI ÊN_4 |
+hên	HI ÊN_0 NC_0 |
+giụa	ZI UÔN_1 |
+hươu	HI ƯƠN_0 UC_0 |
+xịn	XI IN_1 NC_1 |
+nhũ	NHI UN_3 |
+tày	TI AN3_4 YC_4 |
+gội	GI ÔN_1 IC_1 |
+phiếm	PHI IÊN_5 MC_5 |
+nháp	NHI AN2_5 PC_5 |
+bờm	BI ƠN_4 MC_4 |
+lự	LI ƯC_1 |
+đom	DI ON2_0 MC_0 |
+lù	LI UN_4 |
+khuyển	KHI WO_2 YÊN_2 NC_2 |
+ngoác	NGI WO_5 AN1_5 KC_5 |
+xoảng	XI WO_2 AN1_2 NGC_2 |
+chuy	CHI UN_0 YC_0 |
+tran	TRI AN2_0 NC_0 |
+bính	BI IN_5 NGC_5 |
+quẹt	KI WO_1 EN_1 TC_1 |
+suông	SI UÔN_0 NGC_0 |
+sình	SI IN_4 NGC_4 |
+thới	THI ƠN_5 IC_5 |
+xy	XI IN_0 |
+thặng	THI AN3_1 NGC_1 |
+mậu	MI ÂN_1 UC_1 |
+dan	ZI AN2_0 NC_0 |
+tành	TI AN1_4 NGC_4 |
+au	AN3_0 UC_0 |
+cạch	KI AN1_1 KC_1 |
+đay	DI AN3_0 YC_0 |
+vỏn	VI ON2_2 NC_2 |
+phò	PHI ON2_4 |
+vát	VI AN2_5 TC_5 |
+nặn	NI AN3_1 NC_1 |
+khì	KHI IN_4 |
+r	RI |
+dõng	ZI ON1_3 NGC_3 |
+doi	ZI ON2_0 IC_0 |
+dau	ZI AN3_0 UC_0 |
+nhưỡng	NHI ƯƠN_3 NGC_3 |
+đùm	DI UN_4 MC_4 |
+hot	HI ON2_0 TC_0 |
+viền	VI IÊN_4 NC_4 |
+truồng	TRI UÔN_4 NGC_4 |
+bướu	BI ƯƠN_5 UC_5 |
+sứt	SI ƯN_5 TC_5 |
+phích	PHI IN_5 KC_5 |
+mầu	MI ÂN_4 UC_4 |
+rán	RI AN2_5 NC_5 |
+trụi	TRI UN_1 IC_1 |
+sẩy	SI ÂN_2 YC_2 |
+ngùi	NGI UN_4 IC_4 |
+đúp	DI UN_5 PC_5 |
+hác	HI AN1_5 KC_5 |
+rêu	RI ÊN_0 UC_0 |
+quạnh	KI UÔN_1 NGC_1 |
+lợp	LI ƠN_1 PC_1 |
+vao	VI AN2_0 UC_0 |
+quải	KI UÔN_2 IC_2 |
+lổ	LI ÔN_2 |
+inh	IN_0 NGC_0 |
+lợt	LI ƠN_1 TC_1 |
+líc	LI IN_5 KC_5 |
+loanh	LI WO_0 AN1_0 NGC_0 |
+kiết	KI IÊN_5 TC_5 |
+nôm	NI ÔN_0 MC_0 |
+xiên	XI IÊN_0 NC_0 |
+réo	RI EN_5 UC_5 |
+ray	RI AN3_0 YC_0 |
+rứt	RI ƯN_5 TC_5 |
+loét	LI WO_5 EN_5 TC_5 |
+nhẽo	NHI EN_3 UC_3 |
+lơi	LI ƠN_0 IC_0 |
+rum	RI UN_0 MC_0 |
+cộc	KI ÔN_1 KC_1 |
+xối	XI ÔN_5 IC_5 |
+sảy	SI AN3_2 YC_2 |
+boong	BI WO_0 ON1_0 NGC_0 |
+dặng	ZI AN3_1 NGC_1 |
+ghim	GI IN_0 MC_0 |
+khấp	KHI ÂN_5 PC_5 |
+khản	KHI AN2_2 NC_2 |
+vót	VI ON2_5 TC_5 |
+quít	KI WO_5 IN_5 TC_5 |
+rượi	RI ƯƠN_1 IC_1 |
+nậm	NI ÂN_1 MC_1 |
+nần	NI ÂN_4 NC_4 |
+ỉ	IN_2 |
+sảo	SI AN2_2 UC_2 |
+hớ	HI ƠC_5 |
+trãi	TRI AN2_3 IC_3 |
+nhối	NHI ÔN_5 IC_5 |
+nhím	NHI IN_5 MC_5 |
+tép	TI EN_5 PC_5 |
+thòng	THI ON1_4 NGC_4 |
+hấn	HI ÂN_5 NC_5 |
+ngai	NGI AN2_0 IC_0 |
+hấu	HI ÂN_5 UC_5 |
+núng	NI UN_5 NGC_5 |
+hau	HI AN3_0 UC_0 |
+toé	TI WO_5 EN_5 |
+gianh	ZI AN1_0 NGC_0 |
+gát	GI AN2_5 TC_5 |
+cm	KI MC_0 |
+bửu	BI ƯN_2 UC_2 |
+bộp	BI ÔN_1 PC_1 |
+sưởi	SI ƯƠN_2 IC_2 |
+nạo	NI AN2_1 UC_1 |
+bịu	BI IN_1 UC_1 |
+mạp	MI AN2_1 PC_1 |
+cựa	KI ƯƠN_1 |
+ngỗng	NGI ÔN_3 NGC_3 |
+chổi	CHI ÔN_2 IC_2 |
+mói	MI ON2_5 IC_5 |
+toang	TI WO_0 AN1_0 NGC_0 |
+beo	BI EN_0 UC_0 |
+bẽn	BI EN_3 NC_3 |
+chặp	CHI AN3_1 PC_1 |
+bết	BI ÊN_5 TC_5 |
+diễu	ZI IÊN_3 UC_3 |
+báng	BI AN1_5 NGC_5 |
+chươ	CHI ƯN_0 ƠC_0 |
+rúm	RI UN_5 MC_5 |
+ngươn	NGI ƯƠN_0 NC_0 |
+rùn	RI UN_4 NC_4 |
+thuý	THI UN_5 YC_5 |
+rưới	RI ƯƠN_5 IC_5 |
+lơn	LI ƠN_0 NC_0 |
+môt	MI ÔN_0 TC_0 |
+ổi	ÔN_2 IC_2 |
+phui	PHI UN_0 IC_0 |
+xạc	XI AN1_1 KC_1 |
+yểm	YÊN_2 MC_2 |
+ngáp	NGI AN2_5 PC_5 |
+chạnh	CHI AN1_1 NGC_1 |
+sán	SI AN2_5 NC_5 |
+mọng	MI ON1_1 NGC_1 |
+thướt	THI ƯƠN_5 TC_5 |
+nhờn	NHI ƠN_4 NC_4 |
+thiêm	THI IÊN_0 MC_0 |
+cứt	KI ƯN_5 TC_5 |
+quắp	KI WO_5 AN3_5 PC_5 |
+rả	RI AN2_2 |
+chĩa	CHI IAN_3 |
+giấm	ZI ÂN_5 MC_5 |
+teo	TI EN_0 UC_0 |
+lẽn	LI EN_3 NC_3 |
+xuýt	XI WO_5 IN_5 TC_5 |
+mân	MI ÂN_0 NC_0 |
+nẻ	NI EN_2 |
+rằm	RI AN3_4 MC_4 |
+xổm	XI ÔN_2 MC_2 |
+roai	RI WO_0 AN2_0 IC_0 |
+dắc	ZI AN3_5 KC_5 |
+víu	VI IN_5 UC_5 |
+luẩn	LI WO_2 ÂN_2 NC_2 |
+máng	MI AN1_5 NGC_5 |
+vôn	VI ÔN_0 NC_0 |
+cộp	KI ÔN_1 PC_1 |
+khè	KHI EN_4 |
+rặng	RI AN3_1 NGC_1 |
+chàm	CHI AN2_4 MC_4 |
+đéc	DI EN_5 KC_5 |
+vừng	VI ƯN_4 NGC_4 |
+cảu	KI AN3_2 UC_2 |
+oăn	WO_0 AN3_0 NC_0 |
+đởm	DI ƠN_2 MC_2 |
+quì	KI UN_4 IC_4 |
+diệm	ZI IÊN_1 MC_1 |
+huýt	HI WO_5 IN_5 TC_5 |
+guyn	GI WO_0 IN_0 NC_0 |
+thìa	THI IAN_4 |
+thẫn	THI ÂN_3 NC_3 |
+ngợm	NGI ƠN_1 MC_1 |
+găng	GI AN3_0 NGC_0 |
+trồ	TRI ÔN_4 |
+sụn	SI UN_1 NC_1 |
+chơ	CHI ƠC_0 |
+lẻo	LI EN_2 UC_2 |
+niệu	NI IÊN_1 UC_1 |
+giu	ZI UN_0 |
+dít	ZI IN_5 TC_5 |
+tuế	TI WO_5 ÊN_5 |
+vấy	VI ÂN_5 YC_5 |
+bập	BI ÂN_1 PC_1 |
+bot	BI ON2_0 TC_0 |
+hòe	HI WO_4 EN_4 |
+cỡi	KI ƠN_3 IC_3 |
+phừng	PHI ƯN_4 NGC_4 |
+phịch	PHI IN_1 KC_1 |
+gảy	GI AN3_2 YC_2 |
+béc	BI EN_5 KC_5 |
+hỷ	HI IN_2 |
+trầy	TRI ÂN_4 YC_4 |
+cùi	KI UN_4 IC_4 |
+chột	CHI ÔN_1 TC_1 |
+vằn	VI AN3_4 NC_4 |
+dợm	ZI ƠN_1 MC_1 |
+chuốt	CHI UÔN_5 TC_5 |
+ná	NI AN2_5 |
+nhòa	NHI WO_4 AN2_4 |
+rốc	RI ÔN_5 KC_5 |
+chong	CHI ON1_0 NGC_0 |
+huơ	HI UN_0 ƠC_0 |
+eu	EN_0 UC_0 |
+róc	RI ON1_5 KC_5 |
+hến	HI ÊN_5 NC_5 |
+mừn	MI ƯN_4 NC_4 |
+nài	NI AN2_4 IC_4 |
+thoăn	THI WO_0 AN3_0 NC_0 |
+xán	XI AN2_5 NC_5 |
+phiá	PHI IAN_5 |
+găm	GI AN3_0 MC_0 |
+xẩy	XI ÂN_2 YC_2 |
+mết	MI ÊN_5 TC_5 |
+ceo	KI EN_0 UC_0 |
+lủi	LI UN_2 IC_2 |
+dùi	ZI UN_4 IC_4 |
+nhặn	NHI AN3_1 NC_1 |
+đác	DI AN1_5 KC_5 |
+xém	XI EN_5 MC_5 |
+phượt	PHI ƯƠN_1 TC_1 |
+ngăm	NGI AN3_0 MC_0 |
+mền	MI ÊN_4 NC_4 |
+cót	KI ON2_5 TC_5 |
+mào	MI AN2_4 UC_4 |
+sớt	SI ƠN_5 TC_5 |
+dà	ZI AN2_4 |
+phắc	PHI AN3_5 KC_5 |
+don	ZI ON2_0 NC_0 |
+nghía	NGI IAN_5 |
+nệ	NI ÊN_1 |
+súa	SI UÔN_5 |
+ry	RI IN_0 |
+mc	MI KC_0 |
+rục	RI UN_1 KC_1 |
+luông	LI UÔN_0 NGC_0 |
+nhẹt	NHI EN_1 TC_1 |
+mọt	MI ON2_1 TC_1 |
+sum	SI UN_0 MC_0 |
+ốp	ÔN_5 PC_5 |
+chặc	CHI AN3_1 KC_1 |
+chin	CHI IN_0 NC_0 |
+sám	SI AN2_5 MC_5 |
+ngậy	NGI ÂN_1 YC_1 |
+nuông	NI UÔN_0 NGC_0 |
+biền	BI IÊN_4 NC_4 |
+cói	KI ON2_5 IC_5 |
+chùn	CHI UN_4 NC_4 |
+rưởi	RI ƯƠN_2 IC_2 |
+lởm	LI ƠN_2 MC_2 |
+đung	DI UN_0 NGC_0 |
+nhuốm	NHI UÔN_5 MC_5 |
+hia	HI IAN_0 |
+tầu	TI ÂN_4 UC_4 |
+hec	HI EN_0 KC_0 |
+giéc	ZI EN_5 KC_5 |
+nhen	NHI EN_0 NC_0 |
+biếm	BI IÊN_5 MC_5 |
+cuốc	KI UÔN_5 KC_5 |
+xiếc	XI IÊN_5 KC_5 |
+phin	PHI IN_0 NC_0 |
+ngấn	NGI ÂN_5 NC_5 |
+lừ	LI ƯC_4 |
+phèo	PHI EN_4 UC_4 |
+nọc	NI ON1_1 KC_1 |
+bục	BI UN_1 KC_1 |
+ngót	NGI ON2_5 TC_5 |
+mẩn	MI ÂN_2 NC_2 |
+trớ	TRI ƠC_5 |
+nghé	NGI EN_5 |
+cộm	KI ÔN_1 MC_1 |
+chùng	CHI UN_4 NGC_4 |
+khảnh	KHI AN1_2 NGC_2 |
+xẹo	XI EN_1 UC_1 |
+hinh	HI IN_0 NGC_0 |
+gừ	GI ƯC_4 |
+từn	TI ƯN_4 NC_4 |
+trìu	TRI IN_4 UC_4 |
+ngoắt	NGI WO_5 AN3_5 TC_5 |
+phiu	PHI IN_0 UC_0 |
+ting	TI IN_0 NGC_0 |
+đẽo	DI EN_3 UC_3 |
+hường	HI ƯƠN_4 NGC_4 |
+lêu	LI ÊN_0 UC_0 |
+thiển	THI IÊN_2 NC_2 |
+giềng	ZI ÊN_4 NGC_4 |
+nhề	NHI ÊN_4 |
+trắm	TRI AN3_5 MC_5 |
+toét	TI WO_5 EN_5 TC_5 |
+cưu	KI ƯN_0 UC_0 |
+rúc	RI UN_5 KC_5 |
+khước	KHI ƯƠN_5 KC_5 |
+bum	BI UN_0 MC_0 |
+trầu	TRI ÂN_4 UC_4 |
+cáng	KI AN1_5 NGC_5 |
+chổng	CHI ÔN_2 NGC_2 |
+đềm	DI ÊN_4 MC_4 |
+hiết	HI IÊN_5 TC_5 |
+ùng	UN_4 NGC_4 |
+chỏ	CHI ON2_2 |
+thứu	THI ƯN_5 UC_5 |
+sốp	SI ÔN_5 PC_5 |
+bấu	BI ÂN_5 UC_5 |
+úa	UÔN_5 |
+thẩn	THI ÂN_2 NC_2 |
+mận	MI ÂN_1 NC_1 |
+cộ	KI ÔN_1 |
+nhoài	NHI WO_4 AN2_4 IC_4 |
+thơi	THI ƠN_0 IC_0 |
+đấng	DI ÂN_5 NGC_5 |
+trĩ	TRI IN_3 |
+mõm	MI ON2_3 MC_3 |
+nhăng	NHI AN3_0 NGC_0 |
+đọa	DI WO_1 AN2_1 |
+giô	ZI ÔN_0 |
+lằn	LI AN3_4 NC_4 |
+ngoi	NGI ON2_0 IC_0 |
+bảnh	BI AN1_2 NGC_2 |
+sùi	SI UN_4 IC_4 |
+tạnh	TI AN1_1 NGC_1 |
+cheo	CHI EN_0 UC_0 |
+ắc	AN3_5 KC_5 |
+hỡi	HI ƠN_3 IC_3 |
+thảng	THI AN1_2 NGC_2 |
+tồ	TI ÔN_4 |
+rim	RI IN_0 MC_0 |
+mỵ	MI IN_1 |
+kiu	KI IN_0 UC_0 |
+hoe	HI WO_0 EN_0 |
+còm	KI ON2_4 MC_4 |
+chởm	CHI ƠN_2 MC_2 |
+xiềng	XI IÊN_4 NGC_4 |
+chúi	CHI UN_5 IC_5 |
+vạc	VI AN1_1 KC_1 |
+khư	KHI ƯC_0 |
+cồ	KI ÔN_4 |
+mem	MI EN_0 MC_0 |
+xước	XI ƯƠN_5 KC_5 |
+loát	LI WO_5 AN2_5 TC_5 |
+gáo	GI AN2_5 UC_5 |
+rườm	RI ƯƠN_4 MC_4 |
+nghiễm	NGI IÊN_3 MC_3 |
+chội	CHI ÔN_1 IC_1 |
+nhút	NHI UN_5 TC_5 |
+hóng	HI ON1_5 NGC_5 |
+bệt	BI ÊN_1 TC_1 |
+bấn	BI ÂN_5 NC_5 |
+thỉ	THI IN_2 |
+giắt	ZI AN3_5 TC_5 |
+ruổi	RI UÔN_2 IC_2 |
+dộng	ZI ÔN_1 NGC_1 |
+dặc	ZI AN3_1 KC_1 |
+váo	VI AN2_5 UC_5 |
+tram	TRI AN2_0 MC_0 |
+xẽ	XI EN_3 |
+nếch	NI ÊN_5 KC_5 |
+gua	GI UÔN_0 |
+phăn	PHI AN3_0 NC_0 |
+xùm	XI UN_4 MC_4 |
+quẹo	KI WO_1 EN_1 UC_1 |
+khít	KHI IN_5 TC_5 |
+doãn	ZI WO_3 AN2_3 NC_3 |
+xới	XI ƠN_5 IC_5 |
+rua	RI UÔN_0 |
+chiêng	CHI IÊN_0 NGC_0 |
+bịp	BI IN_1 PC_1 |
+khóm	KHI ON2_5 MC_5 |
+lán	LI AN2_5 NC_5 |
+giẻ	ZI EN_2 |
+dứa	ZI ƯƠN_5 |
+ròi	RI ON2_4 IC_4 |
+chiền	CHI IÊN_4 NC_4 |
+cầy	KI ÂN_4 YC_4 |
+chỉa	CHI IAN_2 |
+nót	NI ON2_5 TC_5 |
+giãi	ZI AN2_3 IC_3 |
+kham	KHI AN2_0 MC_0 |
+phốt	PHI ÔN_5 TC_5 |
+rón	RI ON2_5 NC_5 |
+láp	LI AN2_5 PC_5 |
+thệ	THI ÊN_1 |
+kềnh	KI ÊN_4 NGC_4 |
+dúi	ZI UN_5 IC_5 |
+giòng	ZI ON1_4 NGC_4 |
+ngòm	NGI ON2_4 MC_4 |
+xằng	XI AN3_4 NGC_4 |
+uế	WO_5 ÊN_5 |
+lịm	LI IN_1 MC_1 |
+hoc	HI ON1_0 KC_0 |
+rốp	RI ÔN_5 PC_5 |
+dừn	ZI ƯN_4 NC_4 |
+trọi	TRI ON2_1 IC_1 |
+săm	SI AN3_0 MC_0 |
+gin	ZI NC_0 |
+mành	MI AN1_4 NGC_4 |
+nhải	NHI AN2_2 IC_2 |
+dụm	ZI UN_1 MC_1 |
+nhòm	NHI ON2_4 MC_4 |
+thỉu	THI IN_2 UC_2 |
+nhử	NHI ƯC_2 |
+nhằng	NHI AN3_4 NGC_4 |
+quẩy	KI WO_2 ÂN_2 YC_2 |
+đượm	DI ƯƠN_1 MC_1 |
+thuồng	THI UÔN_4 NGC_4 |
+lẹt	LI EN_1 TC_1 |
+cồng	KI ÔN_4 NGC_4 |
+đóc	DI ON1_5 KC_5 |
+mẩy	MI ÂN_2 YC_2 |
+mui	MI UN_0 IC_0 |
+tâng	TI ÂN_0 NGC_0 |
+thõng	THI ON1_3 NGC_3 |
+ríu	RI IN_5 UC_5 |
+dờn	ZI ƠN_4 NC_4 |
+quỉ	KI UN_2 IC_2 |
+bỡn	BI ƠN_3 NC_3 |
+mat	MI AN2_0 TC_0 |
+soong	SI WO_0 ON1_0 NGC_0 |
+húp	HI UN_5 PC_5 |
+trịa	TRI IAN_1 |
+sọc	SI ON1_1 KC_1 |
+xuể	XI WO_2 ÊN_2 |
+lỳ	LI IN_4 |
+rạc	RI AN1_1 KC_1 |
+hám	HI AN2_5 MC_5 |
+thau	THI AN3_0 UC_0 |
+diên	ZI IÊN_0 NC_0 |
+hự	HI ƯC_1 |
+trờ	TRI ƠC_4 |
+tẹo	TI EN_1 UC_1 |
+nhọ	NHI ON2_1 |
+nong	NI ON1_0 NGC_0 |
+giầy	ZI ÂN_4 YC_4 |
+khấn	KHI ÂN_5 NC_5 |
+bủa	BI UÔN_2 |
+tịt	TI IN_1 TC_1 |
+chat	CHI AN2_0 TC_0 |
+nhầy	NHI ÂN_4 YC_4 |
+lóp	LI ON2_5 PC_5 |
+nhéo	NHI EN_5 UC_5 |
+giôn	ZI ÔN_0 NC_0 |
+ừn	ƯN_4 NC_4 |
+nghịu	NGI IN_1 UC_1 |
+thộn	THI ÔN_1 NC_1 |
+lạn	LI AN2_1 NC_1 |
+xếch	XI ÊN_5 KC_5 |
+ần	ÂN_4 NC_4 |
+loảng	LI WO_2 AN1_2 NGC_2 |
+toạc	TI WO_1 AN1_1 KC_1 |
+rem	RI EN_0 MC_0 |
+hẵng	HI AN3_3 NGC_3 |
+lèo	LI EN_4 UC_4 |
+hói	HI ON2_5 IC_5 |
+phũ	PHI UN_3 |
+quài	KI UÔN_4 IC_4 |
+lợm	LI ƠN_1 MC_1 |
+hử	HI ƯC_2 |
+thảnh	THI AN1_2 NGC_2 |
+phộng	PHI ÔN_1 NGC_1 |
+nem	NI EN_0 MC_0 |
+nạc	NI AN1_1 KC_1 |
+sởi	SI ƠN_2 IC_2 |
+rén	RI EN_5 NC_5 |
+xắc	XI AN3_5 KC_5 |
+quặc	KI WO_1 AN3_1 KC_1 |
+sởn	SI ƠN_2 NC_2 |
+dăng	ZI AN3_0 NGC_0 |
+địt	DI IN_1 TC_1 |
+ghết	GI ÊN_5 TC_5 |
+mưới	MI ƯƠN_5 IC_5 |
+goắt	GI WO_5 AN3_5 TC_5 |
+săng	SI AN3_0 NGC_0 |
+mánh	MI AN1_5 NGC_5 |
+lặt	LI AN3_1 TC_1 |
+thọc	THI ON1_1 KC_1 |
+rò	RI ON2_4 |
+sượng	SI ƯƠN_1 NGC_1 |
+thổn	THI ÔN_2 NC_2 |
+xúm	XI UN_5 MC_5 |
+bằm	BI AN3_4 MC_4 |
+tắn	TI AN3_5 NC_5 |
+thỏi	THI ON2_2 IC_2 |
+thun	THI UN_0 NC_0 |
+mm	MI MC_0 |
+sòm	SI ON2_4 MC_4 |
+lom	LI ON2_0 MC_0 |
+chác	CHI AN1_5 KC_5 |
+khơ	KHI ƠC_0 |
+noãn	NI WO_3 AN2_3 NC_3 |
+mếu	MI ÊN_5 UC_5 |
+kiền	KI IÊN_4 NC_4 |
+ắng	AN3_5 NGC_5 |
+hụp	HI UN_1 PC_1 |
+rạ	RI AN2_1 |
+xóc	XI ON1_5 KC_5 |
+thúng	THI UN_5 NGC_5 |
+chửa	CHI ƯƠN_2 |
+xơi	XI ƠN_0 IC_0 |
+hão	HI AN2_3 UC_3 |
+đờn	DI ƠN_4 NC_4 |
+gông	GI ÔN_0 NGC_0 |
+nhám	NHI AN2_5 MC_5 |
+net	NI EN_0 TC_0 |
+phóc	PHI ON1_5 KC_5 |
+dọ	ZI ON2_1 |
+dác	ZI AN1_5 KC_5 |
+sồ	SI ÔN_4 |
+húc	HI UN_5 KC_5 |
+xép	XI EN_5 PC_5 |
+kin	KI IN_0 NC_0 |
+muông	MI UÔN_0 NGC_0 |
+cen	KI EN_0 NC_0 |
+cớt	KI ƠN_5 TC_5 |
+mèng	MI EN_4 NGC_4 |
+gừn	GI ƯN_4 NC_4 |
+ny	NI IN_0 |
+thuc	THI UN_0 KC_0 |
+chày	CHI AN3_4 YC_4 |
+xị	XI IN_1 |
+mầy	MI ÂN_4 YC_4 |
+mỳ	MI IN_4 |
+dượng	ZI ƯƠN_1 NGC_1 |
+mẫm	MI ÂN_3 MC_3 |
+chóp	CHI ON2_5 PC_5 |
+phàng	PHI AN1_4 NGC_4 |
+giêng	ZI ÊN_0 NGC_0 |
+khỉnh	KHI IN_2 NGC_2 |
+ghẻ	GI EN_2 |
+dẳng	ZI AN3_2 NGC_2 |
+đày	DI AN3_4 YC_4 |
+thít	THI IN_5 TC_5 |
+lất	LI ÂN_5 TC_5 |
+rạo	RI AN2_1 UC_1 |
+sọt	SI ON2_1 TC_1 |
+xộc	XI ÔN_1 KC_1 |
+đủi	DI UN_2 IC_2 |
+ục	UN_1 KC_1 |
+rợp	RI ƠN_1 PC_1 |
+ngợ	NGI ƠC_1 |
+chới	CHI ƠN_5 IC_5 |
+uây	WO_0 ÂN_0 YC_0 |
+vuột	VI UÔN_1 TC_1 |
+nhành	NHI AN1_4 NGC_4 |
+bâu	BI ÂN_0 UC_0 |
+nghiêu	NGI IÊN_0 UC_0 |
+ực	ƯN_1 KC_1 |
+đui	DI UN_0 IC_0 |
+rùi	RI UN_4 IC_4 |
+dóc	ZI ON1_5 KC_5 |
+sây	SI ÂN_0 YC_0 |
+rếch	RI ÊN_5 KC_5 |
+níc	NI IN_5 KC_5 |
+quắt	KI WO_5 AN3_5 TC_5 |
+ùm	UN_4 MC_4 |
+giẫy	ZI ÂN_3 YC_3 |
+nhép	NHI EN_5 PC_5 |
+tuýp	TI WO_5 IN_5 PC_5 |
+chãi	CHI AN2_3 IC_3 |
+nhột	NHI ÔN_1 TC_1 |
+tươm	TI ƯƠN_0 MC_0 |
+nhại	NHI AN2_1 IC_1 |
+thiu	THI IN_0 UC_0 |
+khò	KHI ON2_4 |
+quặn	KI WO_1 AN3_1 NC_1 |
+gạc	GI AN1_1 KC_1 |
+muồi	MI UÔN_4 IC_4 |
+tễnh	TI ÊN_3 NGC_3 |
+choang	CHI WO_0 AN1_0 NGC_0 |
+thè	THI EN_4 |
+nhít	NHI IN_5 TC_5 |
+mửa	MI ƯƠN_2 |
+thốc	THI ÔN_5 KC_5 |
+thững	THI ƯN_3 NGC_3 |
+trĩu	TRI IN_3 UC_3 |
+măn	MI AN3_0 NC_0 |
+phang	PHI AN1_0 NGC_0 |
+chip	CHI IN_0 PC_0 |
+ngận	NGI ÂN_1 NC_1 |
+gio	ZI ON2_0 |
+rừn	RI ƯN_4 NC_4 |
+boi	BI ON2_0 IC_0 |
+ồm	ÔN_4 MC_4 |
+thủi	THI UN_2 IC_2 |
+cừ	KI ƯC_4 |
+bển	BI ÊN_2 NC_2 |
+ngoằn	NGI WO_4 AN3_4 NC_4 |
+mèn	MI EN_4 NC_4 |
+bụt	BI UN_1 TC_1 |
+liếng	LI IÊN_5 NGC_5 |
+kheo	KHI EN_0 UC_0 |
+phẩn	PHI ÂN_2 NC_2 |
+nghêu	NGI ÊN_0 UC_0 |
+thóa	THI WO_5 AN2_5 |
+nán	NI AN2_5 NC_5 |
+mún	MI UN_5 NC_5 |
+chiu	CHI IN_0 UC_0 |
+miều	MI IÊN_4 UC_4 |
+đẫn	DI ÂN_3 NC_3 |
+ngoéo	NGI WO_5 EN_5 UC_5 |
+nhem	NHI EN_0 MC_0 |
+truong	TRI WO_0 ON1_0 NGC_0 |
+hừm	HI ƯN_4 MC_4 |
+nguỵ	NGI UN_1 YC_1 |
+ngùn	NGI UN_4 NC_4 |
+ghìm	GI IN_4 MC_4 |
+phỗng	PHI ÔN_3 NGC_3 |
+nhẵn	NHI AN3_3 NC_3 |
+cóng	KI ON1_5 NGC_5 |
+chìu	CHI IN_4 UC_4 |
+chình	CHI IN_4 NGC_4 |
+chằn	CHI AN3_4 NC_4 |
+đia	DI IAN_0 |
+hép	HI EN_5 PC_5 |
+kạn	KI AN2_1 NC_1 |
+phay	PHI AN3_0 YC_0 |
+xáp	XI AN2_5 PC_5 |
+phom	PHI ON2_0 MC_0 |
+nấng	NI ÂN_5 NGC_5 |
+ghề	GI ÊN_4 |
+cật	KI ÂN_1 TC_1 |
+rề	RI ÊN_4 |
+xồm	XI ÔN_4 MC_4 |
+nhốn	NHI ÔN_5 NC_5 |
+ỉa	IAN_2 |
+vục	VI UN_1 KC_1 |
+lặc	LI AN3_1 KC_1 |
+bẵng	BI AN3_3 NGC_3 |
+nhẩy	NHI ÂN_2 YC_2 |
+nhấm	NHI ÂN_5 MC_5 |
+ngáo	NGI AN2_5 UC_5 |
+ngộp	NGI ÔN_1 PC_1 |
+nhụy	NHI UN_1 YC_1 |
+nhõng	NHI ON1_3 NGC_3 |
+sỏ	SI ON2_2 |
+hợi	HI ƠN_1 IC_1 |
+gờm	GI ƠN_4 MC_4 |
+dìm	ZI IN_4 MC_4 |
+xoạc	XI WO_1 AN1_1 KC_1 |
+sạp	SI AN2_1 PC_1 |
+mồn	MI ÔN_4 NC_4 |
+quẳng	KI WO_2 AN3_2 NGC_2 |
+vại	VI AN2_1 IC_1 |
+riu	RI IN_0 UC_0 |
+rụi	RI UN_1 IC_1 |
+oắt	WO_5 AN3_5 TC_5 |
+ẹo	EN_1 UC_1 |
+xéc	XI EN_5 KC_5 |
+hý	HI IN_5 |
+đên	DI ÊN_0 NC_0 |
+sũng	SI UN_3 NGC_3 |
+vùn	VI UN_4 NC_4 |
+đươc	DI ƯƠN_0 KC_0 |
+hằm	HI AN3_4 MC_4 |
+tiển	TI IÊN_2 NC_2 |
+búi	BI UN_5 IC_5 |
+xơn	XI ƠN_0 NC_0 |
+nghin	NGI IN_0 NC_0 |
+réc	RI EN_5 KC_5 |
+cach	KI AN1_0 KC_0 |
+moang	MI WO_0 AN1_0 NGC_0 |
+cặm	KI AN3_1 MC_1 |
+st	SI TC_0 |
+rịch	RI IN_1 KC_1 |
+khăm	KHI AN3_0 MC_0 |
+chây	CHI ÂN_0 YC_0 |
+ang	AN1_0 NGC_0 |
+đước	DI ƯƠN_5 KC_5 |
+khuy	KHI UN_0 YC_0 |
+vợt	VI ƠN_1 TC_1 |
+phung	PHI UN_0 NGC_0 |
+dửng	ZI ƯN_2 NGC_2 |
+nhố	NHI ÔN_5 |
+ngấu	NGI ÂN_5 UC_5 |
+cữ	KI ƯC_3 |
+thẹo	THI EN_1 UC_1 |
+bua	BI UÔN_0 |
+vói	VI ON2_5 IC_5 |
+cạc	KI AN1_1 KC_1 |
+tưởi	TI ƯƠN_2 IC_2 |
+rệp	RI ÊN_1 PC_1 |
+xoang	XI WO_0 AN1_0 NGC_0 |
+rói	RI ON2_5 IC_5 |
+vắn	VI AN3_5 NC_5 |
+tron	TRI ON2_0 NC_0 |
+khịt	KHI IN_1 TC_1 |
+thụp	THI UN_1 PC_1 |
+ngoạm	NGI WO_1 AN2_1 MC_1 |
+ngụt	NGI UN_1 TC_1 |
+nãi	NI AN2_3 IC_3 |
+vố	VI ÔN_5 |
+tráp	TRI AN2_5 PC_5 |
+giậu	ZI ÂN_1 UC_1 |
+lộp	LI ÔN_1 PC_1 |
+chợp	CHI ƠN_1 PC_1 |
+tiu	TI IN_0 UC_0 |
+é	EN_5 |
+kên	KI ÊN_0 NC_0 |
+gióc	ZI ON1_5 KC_5 |
+ruýt	RI WO_5 IN_5 TC_5 |
+nghành	NGI AN1_4 NGC_4 |
+êu	ÊN_0 UC_0 |
+lip	LI IN_0 PC_0 |
+dớt	ZI ƠN_5 TC_5 |
+bĩnh	BI IN_3 NGC_3 |
+sò	SI ON2_4 |
+cụi	KI UN_1 IC_1 |
+đáu	DI AN3_5 UC_5 |
+sạm	SI AN2_1 MC_1 |
+lậy	LI ÂN_1 YC_1 |
+lọng	LI ON1_1 NGC_1 |
+nhão	NHI AN2_3 UC_3 |
+nghếch	NGI ÊN_5 KC_5 |
+lảm	LI AN2_2 MC_2 |
+đon	DI ON2_0 NC_0 |
+gột	GI ÔN_1 TC_1 |
+tuất	TI WO_5 ÂN_5 TC_5 |
+bòng	BI ON1_4 NGC_4 |
+thóp	THI ON2_5 PC_5 |
+én	EN_5 NC_5 |
+thớ	THI ƠC_5 |
+sượt	SI ƯƠN_1 TC_1 |
+đênh	DI ÊN_0 NGC_0 |
+kiểng	KI IÊN_2 NGC_2 |
+phầm	PHI ÂN_4 MC_4 |
+rìu	RI IN_4 UC_4 |
+mõ	MI ON2_3 |
+soạng	SI WO_1 AN1_1 NGC_1 |
+chò	CHI ON2_4 |
+ạch	AN1_1 KC_1 |
+xia	XI IAN_0 |
+phếch	PHI ÊN_5 KC_5 |
+liềm	LI IÊN_4 MC_4 |
+hựu	HI ƯN_1 UC_1 |
+khoé	KHI WO_5 EN_5 |
+ngọa	NGI WO_1 AN2_1 |
+chon	CHI ON2_0 NC_0 |
+nạnh	NI AN1_1 NGC_1 |
+huỵch	HI WO_1 IN_1 KC_1 |
+hăn	HI AN3_0 NC_0 |
+khuông	KHI UÔN_0 NGC_0 |
+nhụt	NHI UN_1 TC_1 |
+rướm	RI ƯƠN_5 MC_5 |
+hích	HI IN_5 KC_5 |
+thều	THI ÊN_4 UC_4 |
+tuý	TI UN_5 YC_5 |
+rắt	RI AN3_5 TC_5 |
+dó	ZI ON2_5 |
+thuỵ	THI UN_1 YC_1 |
+thíp	THI IN_5 PC_5 |
+guốt	GI UÔN_5 TC_5 |
+roát	RI WO_5 AN2_5 TC_5 |
+què	KI WO_4 EN_4 |
+hởi	HI ƠN_2 IC_2 |
+đùn	DI UN_4 NC_4 |
+ỳ	IN_4 |
+huề	HI WO_4 ÊN_4 |
+tẹt	TI EN_1 TC_1 |
+bẽ	BI EN_3 |
+vữa	VI ƯƠN_3 |
+chệch	CHI ÊN_1 KC_1 |
+dôi	ZI ÔN_0 IC_0 |
+chiểu	CHI IÊN_2 UC_2 |
+trịch	TRI IN_1 KC_1 |
+nựng	NI ƯN_1 NGC_1 |
+hục	HI UN_1 KC_1 |
+phia	PHI IAN_0 |
+mĩm	MI IN_3 MC_3 |
+xắt	XI AN3_5 TC_5 |
+kẽm	KI EN_3 MC_3 |
+nhúm	NHI UN_5 MC_5 |
+lằng	LI AN3_4 NGC_4 |
+xén	XI EN_5 NC_5 |
+mơi	MI ƠN_0 IC_0 |
+queo	KI WO_0 EN_0 UC_0 |
+oái	WO_5 AN2_5 IC_5 |
+cạy	KI AN3_1 YC_1 |
+ngoai	NGI WO_0 AN2_0 IC_0 |
+núm	NI UN_5 MC_5 |
+ton	TI ON2_0 NC_0 |
+đẵng	DI AN3_3 NGC_3 |
+đờm	DI ƠN_4 MC_4 |
+doan	ZI WO_0 AN2_0 NC_0 |
+tong	TI ON1_0 NGC_0 |
+truym	TRI WO_0 IN_0 MC_0 |
+náu	NI AN3_5 UC_5 |
+téc	TI EN_5 KC_5 |
+ngủn	NGI UN_2 NC_2 |
+rôi	RI ÔN_0 IC_0 |
+trườn	TRI ƯƠN_4 NC_4 |
+xùy	XI UN_4 YC_4 |
+ngòai	NGI WO_4 AN2_4 IC_4 |
+vông	VI ÔN_0 NGC_0 |
+rẹt	RI EN_1 TC_1 |
+bàu	BI AN3_4 UC_4 |
+uý	UN_5 YC_5 |
+sích	SI IN_5 KC_5 |
+sù	SI UN_4 |
+xuy	XI UN_0 YC_0 |
+trám	TRI AN2_5 MC_5 |
+thó	THI ON2_5 |
+lúp	LI UN_5 PC_5 |
+cơi	KI ƠN_0 IC_0 |
+thèn	THI EN_4 NC_4 |
+siu	SI IN_0 UC_0 |
+hua	HI UÔN_0 |
+nơm	NI ƠN_0 MC_0 |
+nớp	NI ƠN_5 PC_5 |
+dượt	ZI ƯƠN_1 TC_1 |
+ò	ON2_4 |
+khuân	KHI WO_0 ÂN_0 NC_0 |
+nhớt	NHI ƠN_5 TC_5 |
+hùa	HI UÔN_4 |
+ké	KI EN_5 |
+gióng	ZI ON1_5 NGC_5 |
+lắt	LI AN3_5 TC_5 |
+nhắt	NHI AN3_5 TC_5 |
+cồm	KI ÔN_4 MC_4 |
+bỉm	BI IN_2 MC_2 |
+trừu	TRI ƯN_4 UC_4 |
+quở	KI UN_2 ƠC_2 |
+khêu	KHI ÊN_0 UC_0 |
+vánh	VI AN1_5 NGC_5 |
+xoan	XI WO_0 AN2_0 NC_0 |
+mống	MI ÔN_5 NGC_5 |
+ới	ƠN_5 IC_5 |
+xầm	XI ÂN_4 MC_4 |
+tễ	TI ÊN_3 |
+lạo	LI AN2_1 UC_1 |
+nhong	NHI ON1_0 NGC_0 |
+xẹp	XI EN_1 PC_1 |
+thênh	THI ÊN_0 NGC_0 |
+nịch	NI IN_1 KC_1 |
+cữu	KI ƯN_3 UC_3 |
+nòi	NI ON2_4 IC_4 |
+lòn	LI ON2_4 NC_4 |
+nguậy	NGI WO_1 ÂN_1 YC_1 |
+vểnh	VI ÊN_2 NGC_2 |
+chệ	CHI ÊN_1 |
+phệt	PHI ÊN_1 TC_1 |
+tiễu	TI IÊN_3 UC_3 |
+nhón	NHI ON2_5 NC_5 |
+lị	LI IN_1 |
+rat	RI AN2_0 TC_0 |
+luỵ	LI UN_1 YC_1 |
+kền	KI ÊN_4 NC_4 |
+ợp	ƠN_1 PC_1 |
+ghờ	GI ƠC_4 |
+thia	THI IAN_0 |
+gơn	GI ƠN_0 NC_0 |
+xòa	XI WO_4 AN2_4 |
+hóm	HI ON2_5 MC_5 |
+kệch	KI ÊN_1 KC_1 |
+toáng	TI WO_5 AN1_5 NGC_5 |
+đớp	DI ƠN_5 PC_5 |
+mơn	MI ƠN_0 NC_0 |
+gon	GI ON2_0 NC_0 |
+lũi	LI UN_3 IC_3 |
+núc	NI UN_5 KC_5 |
+lụi	LI UN_1 IC_1 |
+tửng	TI ƯN_2 NGC_2 |
+nhỉnh	NHI IN_2 NGC_2 |
+cốm	KI ÔN_5 MC_5 |
+chọt	CHI ON2_1 TC_1 |
+nành	NI AN1_4 NGC_4 |
+luyên	LI WO_0 YÊN_0 NC_0 |
+chụm	CHI UN_1 MC_1 |
+xệ	XI ÊN_1 |
+sứa	SI ƯƠN_5 |
+dẫy	ZI ÂN_3 YC_3 |
+dấm	ZI ÂN_5 MC_5 |
+sướt	SI ƯƠN_5 TC_5 |
+chớm	CHI ƠN_5 MC_5 |
+bấc	BI ÂN_5 KC_5 |
+lể	LI ÊN_2 |
+chấu	CHI ÂN_5 UC_5 |
+đỉa	DI IAN_2 |
+thộp	THI ÔN_1 PC_1 |
+sờn	SI ƠN_4 NC_4 |
+vè	VI EN_4 |
+toẹt	TI WO_1 EN_1 TC_1 |
+chễm	CHI ÊN_3 MC_3 |
+sột	SI ÔN_1 TC_1 |
+dáo	ZI AN2_5 UC_5 |
+nhữ	NHI ƯC_3 |
+điếng	DI IÊN_5 NGC_5 |
+coong	KI WO_0 ON1_0 NGC_0 |
+ón	ON2_5 NC_5 |
+dứ	ZI ƯC_5 |
+nùng	NI UN_4 NGC_4 |
+túa	TI UÔN_5 |
+độp	DI ÔN_1 PC_1 |
+quặng	KI WO_1 AN3_1 NGC_1 |
+dẹt	ZI EN_1 TC_1 |
+dua	ZI UÔN_0 |
+ngạ	NGI AN2_1 |
+khun	KHI UN_0 NC_0 |
+ac	AN1_0 KC_0 |
+ku	KI UN_0 |
+góep	GI WO_5 EN_5 PC_5 |
+míc	MI IN_5 KC_5 |
+toóc	TI WO_5 ON1_5 KC_5 |
+víc	VI IN_5 KC_5 |
+rép	RI EN_5 PC_5 |
+uôn	UÔN_0 NC_0 |
+ket	KI EN_0 TC_0 |
+ich	IN_0 KC_0 |
+giàng	ZI AN1_4 NGC_4 |
+sùm	SI UN_4 MC_4 |
+rứa	RI ƯƠN_5 |
+xở	XI ƠC_2 |
+kháo	KHI AN2_5 UC_5 |
+hỉnh	HI IN_2 NGC_2 |
+sến	SI ÊN_5 NC_5 |
+pham	PHI AN2_0 MC_0 |
+doc	ZI ON1_0 KC_0 |
+chỉn	CHI IN_2 NC_2 |
+gym	GI IN_0 MC_0 |
+khoắn	KHI WO_5 AN3_5 NC_5 |
+mứt	MI ƯN_5 TC_5 |
+nái	NI AN2_5 IC_5 |
+làu	LI AN3_4 UC_4 |
+sên	SI ÊN_0 NC_0 |
+kếch	KI ÊN_5 KC_5 |
+ghiền	GI IÊN_4 NC_4 |
+tuồn	TI UÔN_4 NC_4 |
+vựa	VI ƯƠN_1 |
+trảng	TRI AN1_2 NGC_2 |
+khuây	KHI WO_0 ÂN_0 YC_0 |
+ừng	ƯN_4 NGC_4 |
+ồi	ÔN_4 IC_4 |
+thìn	THI IN_4 NC_4 |
+nhom	NHI ON2_0 MC_0 |
+thượt	THI ƯƠN_1 TC_1 |
+sỗ	SI ÔN_3 |
+bễ	BI ÊN_3 |
+lớt	LI ƠN_5 TC_5 |
+bện	BI ÊN_1 NC_1 |
+ràn	RI AN2_4 NC_4 |
+rọ	RI ON2_1 |
+dể	ZI ÊN_2 |
+toác	TI WO_5 AN1_5 KC_5 |
+nhỏm	NHI ON2_2 MC_2 |
+giắc	ZI AN3_5 KC_5 |
+thồ	THI ÔN_4 |
+luy	LI UN_0 YC_0 |
+duẩn	ZI WO_2 ÂN_2 NC_2 |
+gét	GI EN_5 TC_5 |
+hop	HI ON2_0 PC_0 |
+ngợp	NGI ƠN_1 PC_1 |
+thá	THI AN2_5 |
+ngoáy	NGI WO_5 AN3_5 YC_5 |
+đằm	DI AN3_4 MC_4 |
+răm	RI AN3_0 MC_0 |
+trớn	TRI ƠN_5 NC_5 |
+diết	ZI IÊN_5 TC_5 |
+xum	XI UN_0 MC_0 |
+trằn	TRI AN3_4 NC_4 |
+xìu	XI IN_4 UC_4 |
+đốp	DI ÔN_5 PC_5 |
+thọt	THI ON2_1 TC_1 |
+lõa	LI WO_3 AN2_3 |
+gỉ	ZI |
+tọt	TI ON2_1 TC_1 |
+mic	MI IN_0 KC_0 |
+nhèm	NHI EN_4 MC_4 |
+sịt	SI IN_1 TC_1 |
+nhãng	NHI AN1_3 NGC_3 |
+côm	KI ÔN_0 MC_0 |
+gạn	GI AN2_1 NC_1 |
+cuông	KI UÔN_0 NGC_0 |
+phiện	PHI IÊN_1 NC_1 |
+rữa	RI ƯƠN_3 |
+quăn	KI WO_0 AN3_0 NC_0 |
+dũa	ZI UÔN_3 |
+nhộng	NHI ÔN_1 NGC_1 |
+mỏm	MI ON2_2 MC_2 |
+ết	ÊN_5 TC_5 |
+th	THI |
+liệm	LI IÊN_1 MC_1 |
+dĩnh	ZI IN_3 NGC_3 |
+trư	TRI ƯC_0 |
+tòan	TI WO_4 AN2_4 NC_4 |
+cun	KI UN_0 NC_0 |
+chỏi	CHI ON2_2 IC_2 |
+vằng	VI AN3_4 NGC_4 |
+vợi	VI ƠN_1 IC_1 |
+loá	LI WO_5 AN2_5 |
+cuội	KI UÔN_1 IC_1 |
+đoá	DI WO_5 AN2_5 |
+bụp	BI UN_1 PC_1 |
+lốm	LI ÔN_5 MC_5 |
+viển	VI IÊN_2 NC_2 |
+cùm	KI UN_4 MC_4 |
+lềnh	LI ÊN_4 NGC_4 |
+nhat	NHI AN2_0 TC_0 |
+khứu	KHI ƯN_5 UC_5 |
+tụm	TI UN_1 MC_1 |
+xeo	XI EN_0 UC_0 |
+duong	ZI WO_0 ON1_0 NGC_0 |
+tạch	TI AN1_1 KC_1 |
+goi	GI ON2_0 IC_0 |
+gép	GI EN_5 PC_5 |
+dia	ZI IAN_0 |
+sua	SI UÔN_0 |
+rươi	RI ƯƠN_0 IC_0 |
+léc	LI EN_5 KC_5 |
+phuong	PHI WO_0 ON1_0 NGC_0 |
+khac	KHI AN1_0 KC_0 |
+xoăn	XI WO_0 AN3_0 NC_0 |
+khứa	KHI ƯƠN_5 |
+ruốc	RI UÔN_5 KC_5 |
+ém	EN_5 MC_5 |
+chôm	CHI ÔN_0 MC_0 |
+nhây	NHI ÂN_0 YC_0 |
+nhòe	NHI WO_4 EN_4 |
+đớt	DI ƠN_5 TC_5 |
+cỏn	KI ON2_2 NC_2 |
+háng	HI AN1_5 NGC_5 |
+ngò	NGI ON2_4 |
+chun	CHI UN_0 NC_0 |
+đận	DI ÂN_1 NC_1 |
+trụy	TRI UN_1 YC_1 |
+thút	THI UN_5 TC_5 |
+xửa	XI ƯƠN_2 |
+nhễ	NHI ÊN_3 |
+cắc	KI AN3_5 KC_5 |
+rắp	RI AN3_5 PC_5 |
+xẩm	XI ÂN_2 MC_2 |
+chơn	CHI ƠN_0 NC_0 |
+láu	LI AN3_5 UC_5 |
+toe	TI WO_0 EN_0 |
+thiến	THI IÊN_5 NC_5 |
+hóp	HI ON2_5 PC_5 |
+khều	KHI ÊN_4 UC_4 |
+cứa	KI ƯƠN_5 |
+trứ	TRI ƯC_5 |
+nhổm	NHI ÔN_2 MC_2 |
+trập	TRI ÂN_1 PC_1 |
+trôn	TRI ÔN_0 NC_0 |
+ghịt	GI IN_1 TC_1 |
+thườn	THI ƯƠN_4 NC_4 |
+sè	SI EN_4 |
+sằng	SI AN3_4 NGC_4 |
+mủi	MI UN_2 IC_2 |
+cạ	KI AN2_1 |
+gành	GI AN1_4 NGC_4 |
+triện	TRI IÊN_1 NC_1 |
+thết	THI ÊN_5 TC_5 |
+tời	TI ƠN_4 IC_4 |
+luỹ	LI UN_3 YC_3 |
+hong	HI ON1_0 NGC_0 |
+hể	HI ÊN_2 |
+vựng	VI ƯN_1 NGC_1 |
+bat	BI AN2_0 TC_0 |
+lym	LI IN_0 MC_0 |
+ruy	RI UN_0 YC_0 |
+éc	EN_5 KC_5 |
+ring	RI IN_0 NGC_0 |
+xit	XI IN_0 TC_0 |
+giêm	ZI ÊN_0 MC_0 |
+ngoe	NGI WO_0 EN_0 |
+hổm	HI ÔN_2 MC_2 |
+tâu	TI ÂN_0 UC_0 |
+kiếng	KI IÊN_5 NGC_5 |
+mũm	MI UN_3 MC_3 |
+trui	TRI UN_0 IC_0 |
+dả	ZI AN2_2 |
+tộ	TI ÔN_1 |
+gỏng	GI ON1_2 NGC_2 |
+khập	KHI ÂN_1 PC_1 |
+sủi	SI UN_2 IC_2 |
+hàu	HI AN3_4 UC_4 |
+ghì	GI IN_4 |
+trê	TRI ÊN_0 |
+lưa	LI ƯƠN_0 |
+bớp	BI ƠN_5 PC_5 |
+bươm	BI ƯƠN_0 MC_0 |
+nằng	NI AN3_4 NGC_4 |
+sạo	SI AN2_1 UC_1 |
+khạc	KHI AN1_1 KC_1 |
+cũi	KI UN_3 IC_3 |
+sụa	SI UÔN_1 |
+chum	CHI UN_0 MC_0 |
+ươn	ƯƠN_0 NC_0 |
+tun	TI UN_0 NC_0 |
+hoắt	HI WO_5 AN3_5 TC_5 |
+nhiếc	NHI IÊN_5 KC_5 |
+ré	RI EN_5 |
+trủy	TRI UN_2 YC_2 |
+nhuốc	NHI UÔN_5 KC_5 |
+khoeo	KHI WO_0 EN_0 UC_0 |
+giội	ZI ÔN_1 IC_1 |
+thểu	THI ÊN_2 UC_2 |
+dỏng	ZI ON1_2 NGC_2 |
+rụa	RI UÔN_1 |
+rịn	RI IN_1 NC_1 |
+phạc	PHI AN1_1 KC_1 |
+ngỗ	NGI ÔN_3 |
+khặc	KHI AN3_1 KC_1 |
+soảng	SI WO_2 AN1_2 NGC_2 |
+ngưởng	NGI ƯƠN_2 NGC_2 |
+rún	RI UN_5 NC_5 |
+nhướn	NHI ƯƠN_5 NC_5 |
+gườm	GI ƯƠN_4 MC_4 |
+gọng	GI ON1_1 NGC_1 |
+xoè	XI WO_4 EN_4 |
+ài	AN2_4 IC_4 |
+bụm	BI UN_1 MC_1 |
+chạng	CHI AN1_1 NGC_1 |
+bủn	BI UN_2 NC_2 |
+lỵ	LI IN_1 |
+sậy	SI ÂN_1 YC_1 |
+mia	MI IAN_0 |
+niết	NI IÊN_5 TC_5 |
+đết	DI ÊN_5 TC_5 |
+giầu	ZI ÂN_4 UC_4 |
+dêm	ZI ÊN_0 MC_0 |
+bũng	BI UN_3 NGC_3 |
+guýt	GI WO_5 IN_5 TC_5 |
+uôi	UÔN_0 IC_0 |
+bam	BI AN2_0 MC_0 |
+cừn	KI ƯN_4 NC_4 |
+ríc	RI IN_5 KC_5 |
+tựt	TI ƯN_1 TC_1 |
+vit	VI IN_0 TC_0 |
+sat	SI AN2_0 TC_0 |
+sìn	SI IN_4 NC_4 |
+huyn	HI WO_0 IN_0 NC_0 |
+huong	HI WO_0 ON1_0 NGC_0 |
+truoc	TRI WO_0 ON1_0 KC_0 |
+ợ	ƠC_1 |
+nải	NI AN2_2 IC_2 |
+ron	RI ON2_0 NC_0 |
+mùn	MI UN_4 NC_4 |
+lú	LI UN_5 |
+nhởn	NHI ƠN_2 NC_2 |
+lụng	LI UN_1 NGC_1 |
+nhản	NHI AN2_2 NC_2 |
+sàm	SI AN2_4 MC_4 |
+quẻ	KI WO_2 EN_2 |
+thằn	THI AN3_4 NC_4 |
+cún	KI UN_5 NC_5 |
+tuộc	TI UÔN_1 KC_1 |
+lòm	LI ON2_4 MC_4 |
+mớm	MI ƠN_5 MC_5 |
+mão	MI AN2_3 UC_3 |
+gấc	GI ÂN_5 KC_5 |
+gẩy	GI ÂN_2 YC_2 |
+sợt	SI ƠN_1 TC_1 |
+hẹ	HI EN_1 |
+loăng	LI WO_0 AN3_0 NGC_0 |
+phơn	PHI ƠN_0 NC_0 |
+hòang	HI WO_4 AN1_4 NGC_4 |
+đễnh	DI ÊN_3 NGC_3 |
+trùn	TRI UN_4 NC_4 |
+lúm	LI UN_5 MC_5 |
+nư	NI ƯC_0 |
+rảng	RI AN1_2 NGC_2 |
+chóe	CHI WO_5 EN_5 |
+hn	HI NC_0 |
+thếch	THI ÊN_5 KC_5 |
+rơn	RI ƠN_0 NC_0 |
+thin	THI IN_0 NC_0 |
+rỏ	RI ON2_2 |
+oằn	WO_4 AN3_4 NC_4 |
+khoải	KHI WO_2 AN2_2 IC_2 |
+ình	IN_4 NGC_4 |
+rủn	RI UN_2 NC_2 |
+điạ	DI IAN_1 |
+rọc	RI ON1_1 KC_1 |
+vỉ	VI IN_2 |
+nứa	NI ƯƠN_5 |
+tuong	TI WO_0 ON1_0 NGC_0 |
+hập	HI ÂN_1 PC_1 |
+tom	TI ON2_0 MC_0 |
+diếc	ZI IÊN_5 KC_5 |
+cap	KI AN2_0 PC_0 |
+khèn	KHI EN_4 NC_4 |
+bim	BI IN_0 MC_0 |
+lợ	LI ƠC_1 |
+cham	CHI AN2_0 MC_0 |
+gioóc	ZI WO_5 ON1_5 KC_5 |
+goep	GI WO_0 EN_0 PC_0 |
+gióp	ZI ON2_5 PC_5 |
+him	HI IN_0 MC_0 |
+goan	GI WO_0 AN2_0 NC_0 |
+ề	ÊN_4 |
+nh	NHI |
+đoái	DI WO_5 AN2_5 IC_5 |
+bòn	BI ON2_4 NC_4 |
+trẽn	TRI EN_3 NC_3 |
+sú	SI UN_5 |
+quánh	KI UÔN_5 NGC_5 |
+thy	THI IN_0 |
+nhảnh	NHI AN1_2 NGC_2 |
+sẩm	SI ÂN_2 MC_2 |
+gàn	GI AN2_4 NC_4 |
+phùn	PHI UN_4 NC_4 |
+beng	BI EN_0 NGC_0 |
+đừ	DI ƯC_4 |
+xàm	XI AN2_4 MC_4 |
+cụng	KI UN_1 NGC_1 |
+chểnh	CHI ÊN_2 NGC_2 |
+nịt	NI IN_1 TC_1 |
+nạng	NI AN1_1 NGC_1 |
+khoằm	KHI WO_4 AN3_4 MC_4 |
+nhổn	NHI ÔN_2 NC_2 |
+phấp	PHI ÂN_5 PC_5 |
+ẻo	EN_2 UC_2 |
+quẫy	KI WO_3 ÂN_3 YC_3 |
+nhạ	NHI AN2_1 |
+dỏm	ZI ON2_2 MC_2 |
+guồng	GI UÔN_4 NGC_4 |
+rợ	RI ƠC_1 |
+vàm	VI AN2_4 MC_4 |
+phau	PHI AN3_0 UC_0 |
+mèm	MI EN_4 MC_4 |
+lém	LI EN_5 MC_5 |
+xuê	XI WO_0 ÊN_0 |
+rớm	RI ƠN_5 MC_5 |
+ử	ƯC_2 |
+xoẹt	XI WO_1 EN_1 TC_1 |
+rạt	RI AN2_1 TC_1 |
+quờ	KI UN_4 ƠC_4 |
+dến	ZI ÊN_5 NC_5 |
+đọan	DI WO_1 AN2_1 NC_1 |
+khạo	KHI AN2_1 UC_1 |
+sụ	SI UN_1 |
+xụp	XI UN_1 PC_1 |
+lồm	LI ÔN_4 MC_4 |
+dúm	ZI UN_5 MC_5 |
+qủy	KI UN_2 YC_2 |
+nghểnh	NGI ÊN_2 NGC_2 |
+thủa	THI UÔN_2 |
+bôm	BI ÔN_0 MC_0 |
+doa	ZI WO_0 AN2_0 |
+sất	SI ÂN_5 TC_5 |
+hươ	HI ƯN_0 ƠC_0 |
+oà	WO_4 AN2_4 |
+chã	CHI AN2_3 |
+vốc	VI ÔN_5 KC_5 |
+teng	TI EN_0 NGC_0 |
+quệt	KI WO_1 ÊN_1 TC_1 |
+rướn	RI ƯƠN_5 NC_5 |
+ngấp	NGI ÂN_5 PC_5 |
+ụ	UN_1 |
+quào	KI UÔN_4 UC_4 |
+sửu	SI ƯN_2 UC_2 |
+bõ	BI ON2_3 |
+từm	TI ƯN_4 MC_4 |
+chên	CHI ÊN_0 NC_0 |
+met	MI EN_0 TC_0 |
+đót	DI ON2_5 TC_5 |
+dếch	ZI ÊN_5 KC_5 |
+khoi	KHI ON2_0 IC_0 |
+đén	DI EN_5 NC_5 |
+giẽ	ZI EN_3 |
+nuoc	NI WO_0 ON1_0 KC_0 |
+sui	SI UN_0 IC_0 |
+ậm	ÂN_1 MC_1 |
+dền	ZI ÊN_4 NC_4 |
+ỉu	IN_2 UC_2 |
+cườm	KI ƯƠN_4 MC_4 |
+chúm	CHI UN_5 MC_5 |
+tẩn	TI ÂN_2 NC_2 |
+ngẩm	NGI ÂN_2 MC_2 |
+lài	LI AN2_4 IC_4 |
+khoắt	KHI WO_5 AN3_5 TC_5 |
+bõm	BI ON2_3 MC_3 |
+oách	WO_5 AN1_5 KC_5 |
+nhặng	NHI AN3_1 NGC_1 |
+gổ	GI ÔN_2 |
+lức	LI ƯN_5 KC_5 |
+nạm	NI AN2_1 MC_1 |
+xuyết	XI WO_5 YÊN_5 TC_5 |
+xốn	XI ÔN_5 NC_5 |
+mướp	MI ƯƠN_5 PC_5 |
+nguýt	NGI WO_5 IN_5 TC_5 |
+thùa	THI UÔN_4 |
+thoai	THI WO_0 AN2_0 IC_0 |
+chườm	CHI ƯƠN_4 MC_4 |
+vối	VI ÔN_5 IC_5 |
+xoàn	XI WO_4 AN2_4 NC_4 |
+guộc	GI UÔN_1 KC_1 |
+lé	LI EN_5 |
+xoi	XI ON2_0 IC_0 |
+tray	TRI AN3_0 YC_0 |
+gẫu	GI ÂN_3 UC_3 |
+quỵt	KI WO_1 IN_1 TC_1 |
+gùi	GI UN_4 IC_4 |
+chẹt	CHI EN_1 TC_1 |
+đở	DI ƠC_2 |
+choắt	CHI WO_5 AN3_5 TC_5 |
+mư	MI ƯC_0 |
+giực	ZI ƯN_1 KC_1 |
+muốt	MI UÔN_5 TC_5 |
+nhiêm	NHI IÊN_0 MC_0 |
+vẻo	VI EN_2 UC_2 |
+rày	RI AN3_4 YC_4 |
+dun	ZI UN_0 NC_0 |
+rí	RI IN_5 |
+ngỏm	NGI ON2_2 MC_2 |
+nấn	NI ÂN_5 NC_5 |
+bải	BI AN2_2 IC_2 |
+đễ	DI ÊN_3 |
+đệt	DI ÊN_1 TC_1 |
+tiêng	TI IÊN_0 NGC_0 |
+chuỷ	CHI UN_2 YC_2 |
+khúm	KHI UN_5 MC_5 |
+lới	LI ƠN_5 IC_5 |
+xẵng	XI AN3_3 NGC_3 |
+muon	MI WO_0 ON2_0 NC_0 |
+xè	XI EN_4 |
+ay	AN3_0 YC_0 |
+đũng	DI UN_3 NGC_3 |
+chiện	CHI IÊN_1 NC_1 |
+tuếch	TI WO_5 ÊN_5 KC_5 |
+bủng	BI UN_2 NGC_2 |
+phat	PHI AN2_0 TC_0 |
+lọai	LI WO_1 AN2_1 IC_1 |
+kai	KI AN2_0 IC_0 |
+ngoèo	NGI WO_4 EN_4 UC_4 |
+hịch	HI IN_1 KC_1 |
+đù	DI UN_4 |
+gá	GI AN2_5 |
+giớ	ZI ƠC_5 |
+by	BI IN_0 |
+cíu	KI IN_5 UC_5 |
+èn	EN_4 NC_4 |
+sựt	SI ƯN_1 TC_1 |
+bíc	BI IN_5 KC_5 |
+dóp	ZI ON2_5 PC_5 |
+díc	ZI IN_5 KC_5 |
+uyn	WO_0 IN_0 NC_0 |
+gíc	ZI KC_5 |
+bơn	BI ƠN_0 NC_0 |
+goăn	GI WO_0 AN3_0 NC_0 |
+truây	TRI WO_0 ÂN_0 YC_0 |
+háp	HI AN2_5 PC_5 |
+roét	RI WO_5 EN_5 TC_5 |
+luc	LI UN_0 KC_0 |
+tich	TI IN_0 KC_0 |
+gết	GI ÊN_5 TC_5 |
+moong	MI WO_0 ON1_0 NGC_0 |
+luong	LI WO_0 ON1_0 NGC_0 |
+đồm	DI ÔN_4 MC_4 |
+ráy	RI AN3_5 YC_5 |
+tíu	TI IN_5 UC_5 |
+tệp	TI ÊN_1 PC_1 |
+ngụp	NGI UN_1 PC_1 |
+mề	MI ÊN_4 |
+phạch	PHI AN1_1 KC_1 |
+lúi	LI UN_5 IC_5 |
+húi	HI UN_5 IC_5 |
+nhàu	NHI AN3_4 UC_4 |
+xắp	XI AN3_5 PC_5 |
+chũng	CHI UN_3 NGC_3 |
+quẫn	KI WO_3 ÂN_3 NC_3 |
+khiễng	KHI IÊN_3 NGC_3 |
+cui	KI UN_0 IC_0 |
+cùn	KI UN_4 NC_4 |
+suyễn	SI WO_3 YÊN_3 NC_3 |
+bươn	BI ƯƠN_0 NC_0 |
+vảng	VI AN1_2 NGC_2 |
+kẻng	KI EN_2 NGC_2 |
+oăm	WO_0 AN3_0 MC_0 |
+ruồng	RI UÔN_4 NGC_4 |
+heng	HI EN_0 NGC_0 |
+bửa	BI ƯƠN_2 |
+rám	RI AN2_5 MC_5 |
+xốt	XI ÔN_5 TC_5 |
+nậu	NI ÂN_1 UC_1 |
+xăn	XI AN3_0 NC_0 |
+xúy	XI UN_5 YC_5 |
+hõm	HI ON2_3 MC_3 |
+dem	ZI EN_0 MC_0 |
+háu	HI AN3_5 UC_5 |
+chời	CHI ƠN_4 IC_4 |
+dá	ZI AN2_5 |
+gằng	GI AN3_4 NGC_4 |
+trơi	TRI ƠN_0 IC_0 |
+rười	RI ƯƠN_4 IC_4 |
+cụp	KI UN_1 PC_1 |
+vức	VI ƯN_5 KC_5 |
+mọp	MI ON2_1 PC_1 |
+cảo	KI AN2_2 UC_2 |
+ngaỵ	NGI AN3_1 YC_1 |
+gằm	GI AN3_4 MC_4 |
+chom	CHI ON2_0 MC_0 |
+cức	KI ƯN_5 KC_5 |
+nhóng	NHI ON1_5 NGC_5 |
+ụp	UN_1 PC_1 |
+oẹ	WO_1 EN_1 |
+tuỷ	TI UN_2 YC_2 |
+xiểng	XI IÊN_2 NGC_2 |
+nhay	NHI AN3_0 YC_0 |
+múp	MI UN_5 PC_5 |
+loè	LI WO_4 EN_4 |
+ngáng	NGI AN1_5 NGC_5 |
+coóc	KI WO_5 ON1_5 KC_5 |
+tréo	TRI EN_5 UC_5 |
+qúa	KI UÔN_5 |
+xời	XI ƠN_4 IC_4 |
+cỗi	KI ÔN_3 IC_3 |
+cửi	KI ƯN_2 IC_2 |
+lọat	LI WO_1 AN2_1 TC_1 |
+hoắm	HI WO_5 AN3_5 MC_5 |
+nọng	NI ON1_1 NGC_1 |
+sớ	SI ƠC_5 |
+eng	EN_0 NGC_0 |
+chiển	CHI IÊN_2 NC_2 |
+dớn	ZI ƠN_5 NC_5 |
+nột	NI ÔN_1 TC_1 |
+phum	PHI UN_0 MC_0 |
+nớ	NI ƠC_5 |
+gic	ZI KC_0 |
+sy	SI IN_0 |
+gít	ZI TC_5 |
+mợt	MI ƠN_1 TC_1 |
+goe	GI WO_0 EN_0 |
+sép	SI EN_5 PC_5 |
+đíp	DI IN_5 PC_5 |
+nầm	NI ÂN_4 MC_4 |
+dới	ZI ƠN_5 IC_5 |
+ing	IN_0 NGC_0 |
+dat	ZI AN2_0 TC_0 |
+nhum	NHI UN_0 MC_0 |
+thuong	THI WO_0 ON1_0 NGC_0 |
+tap	TI AN2_0 PC_0 |
+bc	BI KC_0 |
+giạng	ZI AN1_1 NGC_1 |
+riềng	RI IÊN_4 NGC_4 |
+cọt	KI ON2_1 TC_1 |
+viêng	VI IÊN_0 NGC_0 |
+xức	XI ƯN_5 KC_5 |
+trẹo	TRI EN_1 UC_1 |
+hầy	HI ÂN_4 YC_4 |
+bọng	BI ON1_1 NGC_1 |
+kiềng	KI IÊN_4 NGC_4 |
+xồ	XI ÔN_4 |
+ầy	ÂN_4 YC_4 |
+cón	KI ON2_5 NC_5 |
+ghém	GI EN_5 MC_5 |
+nẹp	NI EN_1 PC_1 |
+ngan	NGI AN2_0 NC_0 |
+ngái	NGI AN2_5 IC_5 |
+nhách	NHI AN1_5 KC_5 |
+ọe	WO_1 EN_1 |
+khù	KHI UN_4 |
+ngấy	NGI ÂN_5 YC_5 |
+mú	MI UN_5 |
+tèo	TI EN_4 UC_4 |
+ghẹ	GI EN_1 |
+tĩu	TI IN_3 UC_3 |
+mac	MI AN1_0 KC_0 |
+kháu	KHI AN3_5 UC_5 |
+góa	GI WO_5 AN2_5 |
+dồ	ZI ÔN_4 |
+rộp	RI ÔN_1 PC_1 |
+ngóp	NGI ON2_5 PC_5 |
+chêm	CHI ÊN_0 MC_0 |
+bẹ	BI EN_1 |
+diếp	ZI IÊN_5 PC_5 |
+dận	ZI ÂN_1 NC_1 |
+dềnh	ZI ÊN_4 NGC_4 |
+nghĩnh	NGI IN_3 NGC_3 |
+quệ	KI WO_1 ÊN_1 |
+xính	XI IN_5 NGC_5 |
+khui	KHI UN_0 IC_0 |
+doóc	ZI WO_5 ON1_5 KC_5 |
+hòan	HI WO_4 AN2_4 NC_4 |
+xỉnh	XI IN_2 NGC_2 |
+húy	HI UN_5 YC_5 |
+ya	YAN_0 |
+khảng	KHI AN1_2 NGC_2 |
+sền	SI ÊN_4 NC_4 |
+hỏang	HI WO_2 AN1_2 NGC_2 |
+triêu	TRI IÊN_0 UC_0 |
+tợp	TI ƠN_1 PC_1 |
+phưởng	PHI ƯƠN_2 NGC_2 |
+ròn	RI ON2_4 NC_4 |
+lựng	LI ƯN_1 NGC_1 |
+rận	RI ÂN_1 NC_1 |
+chím	CHI IN_5 MC_5 |
+thiềm	THI IÊN_4 MC_4 |
+ọc	ON1_1 KC_1 |
+huênh	HI WO_0 ÊN_0 NGC_0 |
+choảng	CHI WO_2 AN1_2 NGC_2 |
+nhảu	NHI AN3_2 UC_2 |
+đạ	DI AN2_1 |
+ngọai	NGI WO_1 AN2_1 IC_1 |
+lỏm	LI ON2_2 MC_2 |
+thuỳ	THI UN_4 YC_4 |
+lọn	LI ON2_1 NC_1 |
+vạng	VI AN1_1 NGC_1 |
+bép	BI EN_5 PC_5 |
+phụp	PHI UN_1 PC_1 |
+thẻo	THI EN_2 UC_2 |
+xuông	XI UÔN_0 NGC_0 |
+cáy	KI AN3_5 YC_5 |
+dúng	ZI UN_5 NGC_5 |
+đc	DI KC_0 |
+táy	TI AN3_5 YC_5 |
+ngoét	NGI WO_5 EN_5 TC_5 |
+diểm	ZI IÊN_2 MC_2 |
+tực	TI ƯN_1 KC_1 |
+gía	ZI AN2_5 |
+duật	ZI WO_1 ÂN_1 TC_1 |
+trĩnh	TRI IN_3 NGC_3 |
+nuột	NI UÔN_1 TC_1 |
+xúp	XI UN_5 PC_5 |
+thày	THI AN3_4 YC_4 |
+bac	BI AN1_0 KC_0 |
+set	SI EN_0 TC_0 |
+nic	NI IN_0 KC_0 |
+uầy	WO_4 ÂN_4 YC_4 |
+lìn	LI IN_4 NC_4 |
+trym	TRI IN_0 MC_0 |
+rap	RI AN2_0 PC_0 |
+gap	GI AN2_0 PC_0 |
+ghem	GI EN_0 MC_0 |
+nghàn	NGI AN2_4 NC_4 |
+quép	KI WO_5 EN_5 PC_5 |
+vừn	VI ƯN_4 NC_4 |
+vơn	VI ƠN_0 NC_0 |
+dam	ZI AN2_0 MC_0 |
+troét	TRI WO_5 EN_5 TC_5 |
+vat	VI AN2_0 TC_0 |
+tớt	TI ƠN_5 TC_5 |
+doong	ZI WO_0 ON1_0 NGC_0 |
+duê	ZI WO_0 ÊN_0 |
+dich	ZI IN_0 KC_0 |
+mém	MI EN_5 MC_5 |
+luon	LI WO_0 ON2_0 NC_0 |
+ghoép	GI WO_5 EN_5 PC_5 |
+ghia	GI IAN_0 |
+hĩu	HI IN_3 UC_3 |
+ngiệp	NGI IÊN_1 PC_1 |
+tac	TI AN1_0 KC_0 |
+tit	TI IN_0 TC_0 |
+truân	TRI WO_0 ÂN_0 NC_0 |
+nguẩy	NGI WO_2 ÂN_2 YC_2 |
+trển	TRI ÊN_2 NC_2 |
+ừa	ƯƠN_4 |
+khênh	KHI ÊN_0 NGC_0 |
+quằn	KI WO_4 AN3_4 NC_4 |
+mẹt	MI EN_1 TC_1 |
+đủng	DI UN_2 NGC_2 |
+àm	AN2_4 MC_4 |
+đơm	DI ƠN_0 MC_0 |
+nghệch	NGI ÊN_1 KC_1 |
+đọt	DI ON2_1 TC_1 |
+váp	VI AN2_5 PC_5 |
+hẩm	HI ÂN_2 MC_2 |
+hĩnh	HI IN_3 NGC_3 |
+càu	KI AN3_4 UC_4 |
+khểnh	KHI ÊN_2 NGC_2 |
+tuýt	TI WO_5 IN_5 TC_5 |
+mót	MI ON2_5 TC_5 |
+chành	CHI AN1_4 NGC_4 |
+phịu	PHI IN_1 UC_1 |
+thát	THI AN2_5 TC_5 |
+móm	MI ON2_5 MC_5 |
+lụp	LI UN_1 PC_1 |
+đĩ	DI IN_3 |
+xẩu	XI ÂN_2 UC_2 |
+đẹt	DI EN_1 TC_1 |
+tấy	TI ÂN_5 YC_5 |
+chếnh	CHI ÊN_5 NGC_5 |
+dởm	ZI ƠN_2 MC_2 |
+chỏng	CHI ON1_2 NGC_2 |
+bẵm	BI AN3_3 MC_3 |
+chề	CHI ÊN_4 |
+quạng	KI UÔN_1 NGC_1 |
+khiu	KHI IN_0 UC_0 |
+rỡn	RI ƠN_3 NC_3 |
+quèn	KI WO_4 EN_4 NC_4 |
+rụp	RI UN_1 PC_1 |
+niêu	NI IÊN_0 UC_0 |
+xừ	XI ƯC_4 |
+sếc	SI ÊN_5 KC_5 |
+xụ	XI UN_1 |
+thòm	THI ON2_4 MC_4 |
+tọng	TI ON1_1 NGC_1 |
+mởn	MI ƠN_2 NC_2 |
+khành	KHI AN1_4 NGC_4 |
+khạch	KHI AN1_1 KC_1 |
+đượ	DI ƯN_1 ƠC_1 |
+nghèn	NGI EN_4 NC_4 |
+ghiếc	GI IÊN_5 KC_5 |
+rắng	RI AN3_5 NGC_5 |
+dáy	ZI AN3_5 YC_5 |
+ngâu	NGI ÂN_0 UC_0 |
+khướt	KHI ƯƠN_5 TC_5 |
+xang	XI AN1_0 NGC_0 |
+mòng	MI ON1_4 NGC_4 |
+nhủi	NHI UN_2 IC_2 |
+nhụi	NHI UN_1 IC_1 |
+hỏn	HI ON2_2 NC_2 |
+dc	ZI KC_0 |
+đúa	DI UÔN_5 |
+lói	LI ON2_5 IC_5 |
+ướm	ƯƠN_5 MC_5 |
+huých	HI WO_5 IN_5 KC_5 |
+xịu	XI IN_1 UC_1 |
+hỡm	HI ƠN_3 MC_3 |
+phỉnh	PHI IN_2 NGC_2 |
+nhẹm	NHI EN_1 MC_1 |
+ăm	AN3_0 MC_0 |
+khụ	KHI UN_1 |
+trốt	TRI ÔN_5 TC_5 |
+chớn	CHI ƠN_5 NC_5 |
+máo	MI AN2_5 UC_5 |
+bậm	BI ÂN_1 MC_1 |
+vồn	VI ÔN_4 NC_4 |
+nhỡn	NHI ƠN_3 NC_3 |
+kiếu	KI IÊN_5 UC_5 |
+són	SI ON2_5 NC_5 |
+phưng	PHI ƯN_0 NGC_0 |
+sơm	SI ƠN_0 MC_0 |
+nhình	NHI IN_4 NGC_4 |
+óm	ON2_5 MC_5 |
+rường	RI ƯƠN_4 NGC_4 |
+liễn	LI IÊN_3 NC_3 |
+ngo	NGI ON2_0 |
+toạt	TI WO_1 AN2_1 TC_1 |
+tênh	TI ÊN_0 NGC_0 |
+trốc	TRI ÔN_5 KC_5 |
+thãi	THI AN2_3 IC_3 |
+choẹt	CHI WO_1 EN_1 TC_1 |
+khuỵu	KHI WO_1 IN_1 UC_1 |
+nhin	NHI IN_0 NC_0 |
+phủng	PHI UN_2 NGC_2 |
+vêu	VI ÊN_0 UC_0 |
+húng	HI UN_5 NGC_5 |
+chách	CHI AN1_5 KC_5 |
+díp	ZI IN_5 PC_5 |
+phè	PHI EN_4 |
+đàu	DI AN3_4 UC_4 |
+tt	TI TC_0 |
+dac	ZI AN1_0 KC_0 |
+let	LI EN_0 TC_0 |
+king	KI IN_0 NGC_0 |
+đòng	DI ON1_4 NGC_4 |
+dót	ZI ON2_5 TC_5 |
+phêu	PHI ÊN_0 UC_0 |
+sếch	SI ÊN_5 KC_5 |
+dáp	ZI AN2_5 PC_5 |
+ding	ZI IN_0 NGC_0 |
+xêu	XI ÊN_0 UC_0 |
+tn	TI NC_0 |
+khon	KHI ON2_0 NC_0 |
+dách	ZI AN1_5 KC_5 |
+neu	NI EN_0 UC_0 |
+phấy	PHI ÂN_5 YC_5 |
+lèng	LI EN_4 NGC_4 |
+quyn	KI WO_0 IN_0 NC_0 |
+phìn	PHI IN_4 NC_4 |
+goeo	GI WO_0 EN_0 UC_0 |
+mẹc	MI EN_1 KC_1 |
+gheo	GI EN_0 UC_0 |
+troe	TRI WO_0 EN_0 |
+huan	HI UÔN_0 NC_0 |
+xút	XI UN_5 TC_5 |
+đum	DI UN_0 MC_0 |
+chuc	CHI UN_0 KC_0 |
+nghia	NGI IAN_0 |
+ep	EN_0 PC_0 |
+chún	CHI UN_5 NC_5 |
+xuề	XI WO_4 ÊN_4 |
+lua	LI UÔN_0 |
+rỉnh	RI IN_2 NGC_2 |
+bẹt	BI EN_1 TC_1 |
+thùi	THI UN_4 IC_4 |
+khum	KHI UN_0 MC_0 |
+nghè	NGI EN_4 |
+đợ	DI ƠC_1 |
+thuộm	THI UÔN_1 MC_1 |
+gẫm	GI ÂN_3 MC_3 |
+ùi	UN_4 IC_4 |
+tèm	TI EN_4 MC_4 |
+tếu	TI ÊN_5 UC_5 |
+mọ	MI ON2_1 |
+xấc	XI ÂN_5 KC_5 |
+rùm	RI UN_4 MC_4 |
+gạ	GI AN2_1 |
+ngọng	NGI ON1_1 NGC_1 |
+lỉnh	LI IN_2 NGC_2 |
+khấm	KHI ÂN_5 MC_5 |
+sãi	SI AN2_3 IC_3 |
+hênh	HI ÊN_0 NGC_0 |
+nhẹp	NHI EN_1 PC_1 |
+voan	VI WO_0 AN2_0 NC_0 |
+xoàng	XI WO_4 AN1_4 NGC_4 |
+sồi	SI ÔN_4 IC_4 |
+it	IN_0 TC_0 |
+móp	MI ON2_5 PC_5 |
+sổng	SI ÔN_2 NGC_2 |
+vip	VI IN_0 PC_0 |
+lèm	LI EN_4 MC_4 |
+ịch	IN_1 KC_1 |
+soán	SI WO_5 AN2_5 NC_5 |
+xoàm	XI WO_4 AN2_4 MC_4 |
+chõng	CHI ON1_3 NGC_3 |
+trợt	TRI ƠN_1 TC_1 |
+háy	HI AN3_5 YC_5 |
+hoen	HI WO_0 EN_0 NC_0 |
+soài	SI WO_4 AN2_4 IC_4 |
+vặc	VI AN3_1 KC_1 |
+soẹt	SI WO_1 EN_1 TC_1 |
+ụa	UÔN_1 |
+đóan	DI WO_5 AN2_5 NC_5 |
+tháy	THI AN3_5 YC_5 |
+hợm	HI ƠN_1 MC_1 |
+tỏng	TI ON1_2 NGC_2 |
+rât	RI ÂN_0 TC_0 |
+nghì	NGI IN_4 |
+hó	HI ON2_5 |
+bìm	BI IN_4 MC_4 |
+chóa	CHI WO_5 AN2_5 |
+giong	ZI ON1_0 NGC_0 |
+rức	RI ƯN_5 KC_5 |
+phún	PHI UN_5 NC_5 |
+ỉm	IN_2 MC_2 |
+quày	KI UÔN_4 YC_4 |
+rột	RI ÔN_1 TC_1 |
+cở	KI ƠC_2 |
+xớt	XI ƠN_5 TC_5 |
+đòan	DI WO_4 AN2_4 NC_4 |
+lọan	LI WO_1 AN2_1 NC_1 |
+loe	LI WO_0 EN_0 |
+liểng	LI IÊN_2 NGC_2 |
+sựng	SI ƯN_1 NGC_1 |
+hom	HI ON2_0 MC_0 |
+uân	WO_0 ÂN_0 NC_0 |
+càm	KI AN2_4 MC_4 |
+loong	LI WO_0 ON1_0 NGC_0 |
+nhụa	NHI UÔN_1 |
+hiều	HI IÊN_4 UC_4 |
+dòn	ZI ON2_4 NC_4 |
+õng	ON1_3 NGC_3 |
+cũn	KI UN_3 NC_3 |
+hem	HI EN_0 MC_0 |
+tiêp	TI IÊN_0 PC_0 |
+lac	LI AN1_0 KC_0 |
+vâỵ	VI ÂN_1 YC_1 |
+nhưu	NHI ƯN_0 UC_0 |
+phọt	PHI ON2_1 TC_1 |
+đụn	DI UN_1 NC_1 |
+dọng	ZI ON1_1 NGC_1 |
+quạo	KI UÔN_1 UC_1 |
+giót	ZI ON2_5 TC_5 |
+thóoc	THI WO_5 ON1_5 KC_5 |
+trươc	TRI ƯƠN_0 KC_0 |
+đy	DI IN_0 |
+gioi	ZI ON2_0 IC_0 |
+guých	GI WO_5 IN_5 KC_5 |
+xing	XI IN_0 NGC_0 |
+thàng	THI AN1_4 NGC_4 |
+nhíp	NHI IN_5 PC_5 |
+ríp	RI IN_5 PC_5 |
+gem	GI EN_0 MC_0 |
+gê	GI ÊN_0 |
+ngiệm	NGI IÊN_1 MC_1 |
+tat	TI AN2_0 TC_0 |
+sưn	SI ƯN_0 NC_0 |
+phua	PHI UÔN_0 |
+ge	GI EN_0 |
+goay	GI WO_0 AN3_0 YC_0 |
+địu	DI IN_1 UC_1 |
+at	AN2_0 TC_0 |
+phuc	PHI UN_0 KC_0 |
+cía	KI IAN_5 |
+lich	LI IN_0 KC_0 |
+tot	TI ON2_0 TC_0 |
+luan	LI UÔN_0 NC_0 |
+goc	GI ON1_0 KC_0 |
+deu	ZI EN_0 UC_0 |
+duoi	ZI WO_0 ON2_0 IC_0 |
+lop	LI ON2_0 PC_0 |
+cuoi	KI WO_0 ON2_0 IC_0 |
+giõi	ZI ON2_3 IC_3 |
+uýnh	WO_5 IN_5 NGC_5 |
+chử	CHI ƯC_2 |
+rủng	RI UN_2 NGC_2 |
+giồng	ZI ÔN_4 NGC_4 |
+trỏng	TRI ON1_2 NGC_2 |
+luộm	LI UÔN_1 MC_1 |
+dúa	ZI UÔN_5 |
+bt	BI TC_0 |
+xệch	XI ÊN_1 KC_1 |
+tậu	TI ÂN_1 UC_1 |
+trạo	TRI AN2_1 UC_1 |
+dựt	ZI ƯN_1 TC_1 |
+nườm	NI ƯƠN_4 MC_4 |
+nượp	NI ƯƠN_1 PC_1 |
+liến	LI IÊN_5 NC_5 |
+tèn	TI EN_4 NC_4 |
+lớ	LI ƠC_5 |
+nẫu	NI ÂN_3 UC_3 |
+xập	XI ÂN_1 PC_1 |
+nhẻm	NHI EN_2 MC_2 |
+vạy	VI AN3_1 YC_1 |
+đỏng	DI ON1_2 NGC_2 |
+tìn	TI IN_4 NC_4 |
+tp	TI PC_0 |
+sia	SI IAN_0 |
+ghít	GI IN_5 TC_5 |
+gim	ZI MC_0 |
+măt	MI AN3_0 TC_0 |
+cẫng	KI ÂN_3 NGC_3 |
+oong	WO_0 ON1_0 NGC_0 |
+phướn	PHI ƯƠN_5 NC_5 |
+rấm	RI ÂN_5 MC_5 |
+nhiện	NHI IÊN_1 NC_1 |
+nhợ	NHI ƠC_1 |
+xụi	XI UN_1 IC_1 |
+sẵng	SI AN3_3 NGC_3 |
+khoả	KHI WO_2 AN2_2 |
+nạy	NI AN3_1 YC_1 |
+nhũi	NHI UN_3 IC_3 |
+khọm	KHI ON2_1 MC_1 |
+nhớp	NHI ƠN_5 PC_5 |
+rân	RI ÂN_0 NC_0 |
+lếu	LI ÊN_5 UC_5 |
+lởn	LI ƠN_2 NC_2 |
+loã	LI WO_3 AN2_3 |
+bắng	BI AN3_5 NGC_5 |
+gí	ZI |
+lóm	LI ON2_5 MC_5 |
+truỵ	TRI UN_1 YC_1 |
+sữ	SI ƯC_3 |
+hếu	HI ÊN_5 UC_5 |
+cheng	CHI EN_0 NGC_0 |
+ặc	AN3_1 KC_1 |
+đìu	DI IN_4 UC_4 |
+choà	CHI WO_4 AN2_4 |
+phược	PHI ƯƠN_1 KC_1 |
+trể	TRI ÊN_2 |
+mìm	MI IN_4 MC_4 |
+ngật	NGI ÂN_1 TC_1 |
+ẹp	EN_1 PC_1 |
+trành	TRI AN1_4 NGC_4 |
+vanh	VI AN1_0 NGC_0 |
+chòang	CHI WO_4 AN1_4 NGC_4 |
+ngoẹo	NGI WO_1 EN_1 UC_1 |
+thóang	THI WO_5 AN1_5 NGC_5 |
+mội	MI ÔN_1 IC_1 |
+hoạc	HI WO_1 AN1_1 KC_1 |
+loàn	LI WO_4 AN2_4 NC_4 |
+rổn	RI ÔN_2 NC_2 |
+đạch	DI AN1_1 KC_1 |
+đôc	DI ÔN_0 KC_0 |
+hế	HI ÊN_5 |
+cùa	KI UÔN_4 |
+dử	ZI ƯC_2 |
+reng	RI EN_0 NGC_0 |
+chắm	CHI AN3_5 MC_5 |
+dồng	ZI ÔN_4 NGC_4 |
+sem	SI EN_0 MC_0 |
+rù	RI UN_4 |
+xạm	XI AN2_1 MC_1 |
+khàng	KHI AN1_4 NGC_4 |
+lèn	LI EN_4 NC_4 |
+chồ	CHI ÔN_4 |
+them	THI EN_0 MC_0 |
+vừ	VI ƯC_4 |
+nưa	NI ƯƠN_0 |
+lởi	LI ƠN_2 IC_2 |
+gúp	GI UN_5 PC_5 |
+rỏi	RI ON2_2 IC_2 |
+ia	IAN_0 |
+nhủn	NHI UN_2 NC_2 |
+xình	XI IN_4 NGC_4 |
+xược	XI ƯƠN_1 KC_1 |
+nuôn	NI UÔN_0 NC_0 |
+huyến	HI WO_5 YÊN_5 NC_5 |
+dèm	ZI EN_4 MC_4 |
+hoóc	HI WO_5 ON1_5 KC_5 |
+ngưởi	NGI ƯƠN_2 IC_2 |
+ngườ	NGI ƯN_4 ƠC_4 |
+ngoằng	NGI WO_4 AN3_4 NGC_4 |
+et	EN_0 TC_0 |
+cp	KI PC_0 |
+gốt	GI ÔN_5 TC_5 |
+mum	MI UN_0 MC_0 |
+đếc	DI ÊN_5 KC_5 |
+hốp	HI ÔN_5 PC_5 |
+chừn	CHI ƯN_4 NC_4 |
+đân	DI ÂN_0 NC_0 |
+dui	ZI UN_0 IC_0 |
+nếc	NI ÊN_5 KC_5 |
+tôt	TI ÔN_0 TC_0 |
+xín	XI IN_5 NC_5 |
+oóc	WO_5 ON1_5 KC_5 |
+lôm	LI ÔN_0 MC_0 |
+ciu	KI IN_0 UC_0 |
+khộp	KHI ÔN_1 PC_1 |
+veng	VI EN_0 NGC_0 |
+phẩu	PHI ÂN_2 UC_2 |
+nì	NI IN_4 |
+hin	HI IN_0 NC_0 |
+dooc	ZI WO_0 ON1_0 KC_0 |
+muời	MI WO_4 ƠN_4 IC_4 |
+trin	TRI IN_0 NC_0 |
+goen	GI WO_0 EN_0 NC_0 |
+víp	VI IN_5 PC_5 |
+phéc	PHI EN_5 KC_5 |
+goao	GI WO_0 AN2_0 UC_0 |
+lía	LI IAN_5 |
+sôn	SI ÔN_0 NC_0 |
+guê	GI WO_0 ÊN_0 |
+rit	RI IN_0 TC_0 |
+muong	MI WO_0 ON1_0 NGC_0 |
+chet	CHI EN_0 TC_0 |
+trũi	TRI UN_3 IC_3 |
+sach	SI AN1_0 KC_0 |
+cuoc	KI WO_0 ON1_0 KC_0 |
+giua	ZI UÔN_0 |
+tuc	TI UN_0 KC_0 |
+sạ	SI AN2_1 |
+chạ	CHI AN2_1 |
+hủi	HI UN_2 IC_2 |
+rá	RI AN2_5 |
+tõm	TI ON2_3 MC_3 |
+lổng	LI ÔN_2 NGC_2 |
+nục	NI UN_1 KC_1 |
+rom	RI ON2_0 MC_0 |
+nhoẹt	NHI WO_1 EN_1 TC_1 |
+gui	GI UN_0 IC_0 |
+quành	KI UÔN_4 NGC_4 |
+xề	XI ÊN_4 |
+bỉu	BI IN_2 UC_2 |
+rớ	RI ƠC_5 |
+chảng	CHI AN1_2 NGC_2 |
+khạng	KHI AN1_1 NGC_1 |
+yu	IN_0 UC_0 |
+mên	MI ÊN_0 NC_0 |
+xẻng	XI EN_2 NGC_2 |
+ươi	ƯƠN_0 IC_0 |
+rọt	RI ON2_1 TC_1 |
+cét	KI EN_5 TC_5 |
+nhìu	NHI IN_4 UC_4 |
+uýt	WO_5 IN_5 TC_5 |
+phiệt	PHI IÊN_1 TC_1 |
+tói	TI ON2_5 IC_5 |
+ngừơi	NGI ƯƠN_4 IC_4 |
+móa	MI WO_5 AN2_5 |
+niền	NI IÊN_4 NC_4 |
+đuọc	DI WO_1 ON1_1 KC_1 |
+bợt	BI ƠN_1 TC_1 |
+lọm	LI ON2_1 MC_1 |
+bỗ	BI ÔN_3 |
+nghịt	NGI IN_1 TC_1 |
+vởn	VI ƠN_2 NC_2 |
+thếp	THI ÊN_5 PC_5 |
+thài	THI AN2_4 IC_4 |
+rịp	RI IN_1 PC_1 |
+lẹm	LI EN_1 MC_1 |
+chuỳ	CHI UN_4 YC_4 |
+phều	PHI ÊN_4 UC_4 |
+lưc	LI ƯN_0 KC_0 |
+siểm	SI IÊN_2 MC_2 |
+soang	SI WO_0 AN1_0 NGC_0 |
+khảy	KHI AN3_2 YC_2 |
+dợt	ZI ƠN_1 TC_1 |
+chịch	CHI IN_1 KC_1 |
+dều	ZI ÊN_4 UC_4 |
+quẽ	KI WO_3 EN_3 |
+xôm	XI ÔN_0 MC_0 |
+dánh	ZI AN1_5 NGC_5 |
+quặp	KI WO_1 AN3_1 PC_1 |
+quắn	KI WO_5 AN3_5 NC_5 |
+bẫng	BI ÂN_3 NGC_3 |
+nghỉu	NGI IN_2 UC_2 |
+bẽo	BI EN_3 UC_3 |
+ậy	ÂN_1 YC_1 |
+đị	DI IN_1 |
+díu	ZI IN_5 UC_5 |
+bạnh	BI AN1_1 NGC_1 |
+khắn	KHI AN3_5 NC_5 |
+giỡ	ZI ƠC_3 |
+chụt	CHI UN_1 TC_1 |
+liện	LI IÊN_1 NC_1 |
+niếp	NI IÊN_5 PC_5 |
+nhắp	NHI AN3_5 PC_5 |
+ỵ	IN_1 |
+kỉnh	KI IN_2 NGC_2 |
+hếch	HI ÊN_5 KC_5 |
+chộn	CHI ÔN_1 NC_1 |
+qúi	KI UN_5 IC_5 |
+rật	RI ÂN_1 TC_1 |
+ầu	ÂN_4 UC_4 |
+ộc	ÔN_1 KC_1 |
+qủa	KI UÔN_2 |
+chẽn	CHI EN_3 NC_3 |
+hơp	HI ƠN_0 PC_0 |
+thât	THI ÂN_0 TC_0 |
+nhương	NHI ƯƠN_0 NGC_0 |
+loẹt	LI WO_1 EN_1 TC_1 |
+dỏ	ZI ON2_2 |
+gặng	GI AN3_1 NGC_1 |
+dảm	ZI AN2_2 MC_2 |
+rởm	RI ƠN_2 MC_2 |
+thuy	THI UN_0 YC_0 |
+họn	HI ON2_1 NC_1 |
+toong	TI WO_0 ON1_0 NGC_0 |
+soa	SI WO_0 AN2_0 |
+thồi	THI ÔN_4 IC_4 |
+bỏi	BI ON2_2 IC_2 |
+xuong	XI WO_0 ON1_0 NGC_0 |
+ọ	ON2_1 |
+ạp	AN2_1 PC_1 |
+ản	AN2_2 NC_2 |
+lướn	LI ƯƠN_5 NC_5 |
+ràm	RI AN2_4 MC_4 |
+tip	TI IN_0 PC_0 |
+via	VI IAN_0 |
+choe	CHI WO_0 EN_0 |
+viếc	VI IÊN_5 KC_5 |
+giề	ZI ÊN_4 |
+dú	ZI UN_5 |
+lit	LI IN_0 TC_0 |
+loai	LI WO_0 AN2_0 IC_0 |
+nừn	NI ƯN_4 NC_4 |
+vếch	VI ÊN_5 KC_5 |
+tóoc	TI WO_5 ON1_5 KC_5 |
+gie	ZI EN_0 |
+thạp	THI AN2_1 PC_1 |
+thoóc	THI WO_5 ON1_5 KC_5 |
+bui	BI UN_0 IC_0 |
+meng	MI EN_0 NGC_0 |
+tưc	TI ƯN_0 KC_0 |
+ret	RI EN_0 TC_0 |
+ghoét	GI WO_5 EN_5 TC_5 |
+phồ	PHI ÔN_4 |
+giét	ZI EN_5 TC_5 |
+lic	LI IN_0 KC_0 |
+thuân	THI WO_0 ÂN_0 NC_0 |
+bem	BI EN_0 MC_0 |
+lat	LI AN2_0 TC_0 |
+mom	MI ON2_0 MC_0 |
+cot	KI ON2_0 TC_0 |
+hủa	HI UÔN_2 |
+xìn	XI IN_4 NC_4 |
+roa	RI WO_0 AN2_0 |
+déc	ZI EN_5 KC_5 |
+bẹn	BI EN_1 NC_1 |
+nuy	NI UN_0 YC_0 |
+lậm	LI ÂN_1 MC_1 |
+xim	XI IN_0 MC_0 |
+cum	KI UN_0 MC_0 |
+cóoc	KI WO_5 ON1_5 KC_5 |
+geo	GI EN_0 UC_0 |
+guất	GI WO_5 ÂN_5 TC_5 |
+goắc	GI WO_5 AN3_5 KC_5 |
+oy	ON2_0 YC_0 |
+phap	PHI AN2_0 PC_0 |
+cuu	KI UN_0 UC_0 |
+quoc	KI WO_0 ON1_0 KC_0 |
+nguon	NGI WO_0 ON2_0 NC_0 |
+tuan	TI UÔN_0 NC_0 |
+hoac	HI WO_0 AN1_0 KC_0 |
+đooc	DI WO_0 ON1_0 KC_0 |
+cio	KI IN_0 UC_0 |
+khụy	KHI UN_1 YC_1 |
+diềm	ZI IÊN_4 MC_4 |
+loằng	LI WO_4 AN3_4 NGC_4 |
+bứng	BI ƯN_5 NGC_5 |
+toanh	TI WO_0 AN1_0 NGC_0 |
+tằn	TI AN3_4 NC_4 |
+chọe	CHI WO_1 EN_1 |
+hùn	HI UN_4 NC_4 |
+è	EN_4 |
+gích	ZI KC_5 |
+sã	SI AN2_3 |
+ị	IN_1 |
+nộm	NI ÔN_1 MC_1 |
+xổng	XI ÔN_2 NGC_2 |
+bím	BI IN_5 MC_5 |
+khệnh	KHI ÊN_1 NGC_1 |
+bựa	BI ƯƠN_1 |
+quại	KI UÔN_1 IC_1 |
+giuộc	ZI UÔN_1 KC_1 |
+bớ	BI ƠC_5 |
+phên	PHI ÊN_0 NC_0 |
+rợi	RI ƠN_1 IC_1 |
+bìu	BI IN_4 UC_4 |
+ngốn	NGI ÔN_5 NC_5 |
+bụ	BI UN_1 |
+chòe	CHI WO_4 EN_4 |
+đảnh	DI AN1_2 NGC_2 |
+rái	RI AN2_5 IC_5 |
+ct	KI TC_0 |
+mưn	MI ƯN_0 NC_0 |
+gièm	ZI EN_4 MC_4 |
+khú	KHI UN_5 |
+nghễnh	NGI ÊN_3 NGC_3 |
+tâp	TI ÂN_0 PC_0 |
+lúy	LI UN_5 YC_5 |
+chơm	CHI ƠN_0 MC_0 |
+oặt	WO_1 AN3_1 TC_1 |
+thùm	THI UN_4 MC_4 |
+chõ	CHI ON2_3 |
+phực	PHI ƯN_1 KC_1 |
+trệch	TRI ÊN_1 KC_1 |
+nắc	NI AN3_5 KC_5 |
+nhãm	NHI AN2_3 MC_3 |
+hoác	HI WO_5 AN1_5 KC_5 |
+dứng	ZI ƯN_5 NGC_5 |
+yù	IN_4 UC_4 |
+cõ	KI ON2_3 |
+vọc	VI ON1_1 KC_1 |
+giừo	ZI ƯN_4 UC_4 |
+â	ÂN_0 |
+bằn	BI AN3_4 NC_4 |
+phếu	PHI ÊN_5 UC_5 |
+dủi	ZI UN_2 IC_2 |
+đoàng	DI WO_4 AN1_4 NGC_4 |
+đọat	DI WO_1 AN2_1 TC_1 |
+biệc	BI IÊN_1 KC_1 |
+xèng	XI EN_4 NGC_4 |
+nhèo	NHI EN_4 UC_4 |
+hoat	HI WO_0 AN2_0 TC_0 |
+trỗ	TRI ÔN_3 |
+ngố	NGI ÔN_5 |
+nhiểm	NHI IÊN_2 MC_2 |
+khòm	KHI ON2_4 MC_4 |
+chái	CHI AN2_5 IC_5 |
+hườm	HI ƯƠN_4 MC_4 |
+rỉa	RI IAN_2 |
+dộ	ZI ÔN_1 |
+bẻm	BI EN_2 MC_2 |
+nghển	NGI ÊN_2 NC_2 |
+chẩu	CHI ÂN_2 UC_2 |
+lờn	LI ƠN_4 NC_4 |
+chỏm	CHI ON2_2 MC_2 |
+ngóm	NGI ON2_5 MC_5 |
+lày	LI AN3_4 YC_4 |
+chặm	CHI AN3_1 MC_1 |
+ằng	AN3_4 NGC_4 |
+trạnh	TRI AN1_1 NGC_1 |
+thóat	THI WO_5 AN2_5 TC_5 |
+uu	UN_0 UC_0 |
+nẹt	NI EN_1 TC_1 |
+goá	GI WO_5 AN2_5 |
+tòn	TI ON2_4 NC_4 |
+tở	TI ƠC_2 |
+nhò	NHI ON2_4 |
+thỏng	THI ON1_2 NGC_2 |
+gấy	GI ÂN_5 YC_5 |
+cắng	KI AN3_5 NGC_5 |
+ày	AN3_4 YC_4 |
+thưở	THI ƯN_2 ƠC_2 |
+trính	TRI IN_5 NGC_5 |
+dèn	ZI EN_4 NC_4 |
+giát	ZI AN2_5 TC_5 |
+nghỉm	NGI IN_2 MC_2 |
+khẩm	KHI ÂN_2 MC_2 |
+tẫn	TI ÂN_3 NC_3 |
+nả	NI AN2_2 |
+chẹn	CHI EN_1 NC_1 |
+chẫm	CHI ÂN_3 MC_3 |
+oại	WO_1 AN2_1 IC_1 |
+lụ	LI UN_1 |
+suỵt	SI WO_1 IN_1 TC_1 |
+luốc	LI UÔN_5 KC_5 |
+kẽo	KI EN_3 UC_3 |
+phỉa	PHI IAN_2 |
+hùi	HI UN_4 IC_4 |
+ạc	AN1_1 KC_1 |
+muôi	MI UÔN_0 IC_0 |
+nộn	NI ÔN_1 NC_1 |
+ỏ	ON2_2 |
+triêm	TRI IÊN_0 MC_0 |
+dap	ZI AN2_0 PC_0 |
+khỏang	KHI WO_2 AN1_2 NGC_2 |
+vẩu	VI ÂN_2 UC_2 |
+oẳng	WO_2 AN3_2 NGC_2 |
+trắn	TRI AN3_5 NC_5 |
+chìn	CHI IN_4 NC_4 |
+nganh	NGI AN1_0 NGC_0 |
+buốn	BI UÔN_5 NC_5 |
+ột	ÔN_1 TC_1 |
+vùa	VI UÔN_4 |
+rụm	RI UN_1 MC_1 |
+chạch	CHI AN1_1 KC_1 |
+nhậ	NHI ÂN_1 |
+sật	SI ÂN_1 TC_1 |
+ngèo	NGI EN_4 UC_4 |
+suyển	SI WO_2 YÊN_2 NC_2 |
+khụt	KHI UN_1 TC_1 |
+sém	SI EN_5 MC_5 |
+lãn	LI AN2_3 NC_3 |
+phễu	PHI ÊN_3 UC_3 |
+dủ	ZI UN_2 |
+quéo	KI WO_5 EN_5 UC_5 |
+trức	TRI ƯN_5 KC_5 |
+xiêng	XI IÊN_0 NGC_0 |
+taị	TI AN2_1 IC_1 |
+trum	TRI UN_0 MC_0 |
+nhât	NHI ÂN_0 TC_0 |
+trớt	TRI ƠN_5 TC_5 |
+room	RI WO_0 ON2_0 MC_0 |
+lầ	LI ÂN_4 |
+sới	SI ƠN_5 IC_5 |
+ua	UÔN_0 |
+tròi	TRI ON2_4 IC_4 |
+dm	ZI MC_0 |
+rich	RI IN_0 KC_0 |
+ên	ÊN_0 NC_0 |
+viêt	VI IÊN_0 TC_0 |
+out	WO_0 UN_0 TC_0 |
+têm	TI ÊN_0 MC_0 |
+nia	NI IAN_0 |
+dỉ	ZI IN_2 |
+lằm	LI AN3_4 MC_4 |
+nươc	NI ƯƠN_0 KC_0 |
+ec	EN_0 KC_0 |
+muơi	MI WO_0 ƠN_0 IC_0 |
+chiềng	CHI IÊN_4 NGC_4 |
+nặm	NI AN3_1 MC_1 |
+nác	NI AN1_5 KC_5 |
+ìn	IN_4 NC_4 |
+quin	KI WO_0 IN_0 NC_0 |
+lun	LI UN_0 NC_0 |
+vưới	VI ƯƠN_5 IC_5 |
+cép	KI EN_5 PC_5 |
+trít	TRI IN_5 TC_5 |
+tic	TI IN_0 KC_0 |
+toc	TI ON1_0 KC_0 |
+vốt	VI ÔN_5 TC_5 |
+xần	XI ÂN_4 NC_4 |
+nhậy	NHI ÂN_1 YC_1 |
+try	TRI IN_0 |
+róp	RI ON2_5 PC_5 |
+som	SI ON2_0 MC_0 |
+nhòng	NHI ON1_4 NGC_4 |
+tră	TRI AN3_0 |
+mớt	MI ƠN_5 TC_5 |
+ning	NI IN_0 NGC_0 |
+dảnh	ZI AN1_2 NGC_2 |
+sủ	SI UN_2 |
+ghồ	GI ÔN_4 |
+duc	ZI UN_0 KC_0 |
+sac	SI AN1_0 KC_0 |
+nghười	NGI ƯƠN_4 IC_4 |
+xênh	XI ÊN_0 NGC_0 |
+dình	ZI IN_4 NGC_4 |
+đép	DI EN_5 PC_5 |
+ín	IN_5 NC_5 |
+suê	SI WO_0 ÊN_0 |
+vic	VI IN_0 KC_0 |
+nình	NI IN_4 NGC_4 |
+xân	XI ÂN_0 NC_0 |
+chá	CHI AN2_5 |
+hat	HI AN2_0 TC_0 |
+det	ZI EN_0 TC_0 |
+miếc	MI IÊN_5 KC_5 |
+rêm	RI ÊN_0 MC_0 |
+gềnh	GI ÊN_4 NGC_4 |
+oét	WO_5 EN_5 TC_5 |
+dốn	ZI ÔN_5 NC_5 |
+xai	XI AN2_0 IC_0 |
+dừ	ZI ƯC_4 |
+băc	BI AN3_0 KC_0 |
+đuống	DI UÔN_5 NGC_5 |
+hoặ	HI WO_1 AN3_1 |
+thẻn	THI EN_2 NC_2 |
+troai	TRI WO_0 AN2_0 IC_0 |
+xiển	XI IÊN_2 NC_2 |
+nhữn	NHI ƯN_3 NC_3 |
+xon	XI ON2_0 NC_0 |
+noo	NI ON2_0 UC_0 |
+rạm	RI AN2_1 MC_1 |
+vình	VI IN_4 NGC_4 |
+gioong	ZI WO_0 ON1_0 NGC_0 |
+tríc	TRI IN_5 KC_5 |
+ruynh	RI WO_0 IN_0 NGC_0 |
+guát	GI UÔN_5 TC_5 |
+dản	ZI AN2_2 NC_2 |
+chuan	CHI UÔN_0 NC_0 |
+suc	SI UN_0 KC_0 |
+luat	LI UÔN_0 TC_0 |
+phut	PHI UN_0 TC_0 |
+khach	KHI AN1_0 KC_0 |
+xac	XI AN1_0 KC_0 |
+ýt	IN_5 TC_5 |
+xau	XI AN3_0 UC_0 |
+dữa	ZI ƯƠN_3 |
+giup	ZI UN_0 PC_0 |
+np	NI PC_0 |
+thich	THI IN_0 KC_0 |
+mản	MI AN2_2 NC_2 |
+xự	XI ƯC_1 |
+kiễng	KI IÊN_3 NGC_3 |
+hợ	HI ƠC_1 |
+gàu	GI AN3_4 UC_4 |
+ẫm	ÂN_3 MC_3 |
+ẹc	EN_1 KC_1 |
+giái	ZI AN2_5 IC_5 |
+gú	GI UN_5 |
+tược	TI ƯƠN_1 KC_1 |
+ã	AN2_3 |
+khem	KHI EN_0 MC_0 |
+lõ	LI ON2_3 |
+thụi	THI UN_1 IC_1 |
+từa	TI ƯƠN_4 |
+dọi	ZI ON2_1 IC_1 |
+chầy	CHI ÂN_4 YC_4 |
+ời	ƠN_4 IC_4 |
+xoành	XI WO_4 AN1_4 NGC_4 |
+xoạch	XI WO_1 AN1_1 KC_1 |
+sõi	SI ON2_3 IC_3 |
+hèo	HI EN_4 UC_4 |
+thoắng	THI WO_5 AN3_5 NGC_5 |
+mòi	MI ON2_4 IC_4 |
+sệ	SI ÊN_1 |
+đười	DI ƯƠN_4 IC_4 |
+giừ	ZI ƯC_4 |
+nhời	NHI ƠN_4 IC_4 |
+riếc	RI IÊN_5 KC_5 |
+tọc	TI ON1_1 KC_1 |
+hặc	HI AN3_1 KC_1 |
+róm	RI ON2_5 MC_5 |
+nhài	NHI AN2_4 IC_4 |
+bèm	BI EN_4 MC_4 |
+íc	IN_5 KC_5 |
+dất	ZI ÂN_5 TC_5 |
+bec	BI EN_0 KC_0 |
+đừm	DI ƯN_4 MC_4 |
+vưởng	VI ƯƠN_2 NGC_2 |
+uồi	UÔN_4 IC_4 |
+moon	MI WO_0 ON2_0 NC_0 |
+mệ	MI ÊN_1 |
+vãnh	VI AN1_3 NGC_3 |
+gặc	GI AN3_1 KC_1 |
+gâm	GI ÂN_0 MC_0 |
+sơi	SI ƠN_0 IC_0 |
+tủng	TI UN_2 NGC_2 |
+vạnh	VI AN1_1 NGC_1 |
+bach	BI AN1_0 KC_0 |
+riệt	RI IÊN_1 TC_1 |
+gười	GI ƯƠN_4 IC_4 |
+đuột	DI UÔN_1 TC_1 |
+kháy	KHI AN3_5 YC_5 |
+loắt	LI WO_5 AN3_5 TC_5 |
+bịn	BI IN_1 NC_1 |
+hêt	HI ÊN_0 TC_0 |
+hụ	HI UN_1 |
+xunh	XI UN_0 NGC_0 |
+trởi	TRI ƠN_2 IC_2 |
+vọ	VI ON2_1 |
+hiệt	HI IÊN_1 TC_1 |
+nghệt	NGI ÊN_1 TC_1 |
+bộng	BI ÔN_1 NGC_1 |
+múôn	MI UÔN_5 NC_5 |
+òng	ON1_4 NGC_4 |
+nũa	NI UÔN_3 |
+trêm	TRI ÊN_0 MC_0 |
+chỗng	CHI ÔN_3 NGC_3 |
+lền	LI ÊN_4 NC_4 |
+tỏm	TI ON2_2 MC_2 |
+xồng	XI ÔN_4 NGC_4 |
+ngứ	NGI ƯC_5 |
+trùy	TRI UN_4 YC_4 |
+chẩy	CHI ÂN_2 YC_2 |
+nhãy	NHI AN3_3 YC_3 |
+nhoạng	NHI WO_1 AN1_1 NGC_1 |
+chíu	CHI IN_5 UC_5 |
+dảo	ZI AN2_2 UC_2 |
+biêt	BI IÊN_0 TC_0 |
+rởn	RI ƠN_2 NC_2 |
+lỏn	LI ON2_2 NC_2 |
+soàn	SI WO_4 AN2_4 NC_4 |
+chấy	CHI ÂN_5 YC_5 |
+taỵ	TI AN3_1 YC_1 |
+khoắc	KHI WO_5 AN3_5 KC_5 |
+khào	KHI AN2_4 UC_4 |
+nhựng	NHI ƯN_1 NGC_1 |
+lẵng	LI AN3_3 NGC_3 |
+giệt	ZI ÊN_1 TC_1 |
+trửng	TRI ƯN_2 NGC_2 |
+nhựt	NHI ƯN_1 TC_1 |
+xoà	XI WO_4 AN2_4 |
+naỵ	NI AN3_1 YC_1 |
+khục	KHI UN_1 KC_1 |
+ỡm	ƠN_3 MC_3 |
+xĩnh	XI IN_3 NGC_3 |
+trụa	TRI UÔN_1 |
+mụi	MI UN_1 IC_1 |
+dợn	ZI ƠN_1 NC_1 |
+cừa	KI ƯƠN_4 |
+khắng	KHI AN3_5 NGC_5 |
+nghẽo	NGI EN_3 UC_3 |
+chệnh	CHI ÊN_1 NGC_1 |
+đưới	DI ƯƠN_5 IC_5 |
+khị	KHI IN_1 |
+lỏ	LI ON2_2 |
+ngưa	NGI ƯƠN_0 |
+chẹp	CHI EN_1 PC_1 |
+lổn	LI ÔN_2 NC_2 |
+bợm	BI ƠN_1 MC_1 |
+trổi	TRI ÔN_2 IC_2 |
+hấy	HI ÂN_5 YC_5 |
+hoảnh	HI WO_2 AN1_2 NGC_2 |
+rẫm	RI ÂN_3 MC_3 |
+nhồm	NHI ÔN_4 MC_4 |
+khụp	KHI UN_1 PC_1 |
+bẹo	BI EN_1 UC_1 |
+choét	CHI WO_5 EN_5 TC_5 |
+nhớn	NHI ƠN_5 NC_5 |
+chõi	CHI ON2_3 IC_3 |
+lườn	LI ƯƠN_4 NC_4 |
+ghẽ	GI EN_3 |
+cháng	CHI AN1_5 NGC_5 |
+xam	XI AN2_0 MC_0 |
+lữa	LI ƯƠN_3 |
+thoắc	THI WO_5 AN3_5 KC_5 |
+thủm	THI UN_2 MC_2 |
+gồi	GI ÔN_4 IC_4 |
+lóang	LI WO_5 AN1_5 NGC_5 |
+lẹn	LI EN_1 NC_1 |
+đoài	DI WO_4 AN2_4 IC_4 |
+giàm	ZI AN2_4 MC_4 |
+mio	MI IN_0 UC_0 |
+nghêng	NGI ÊN_0 NGC_0 |
+nướt	NI ƯƠN_5 TC_5 |
+đuợc	DI WO_1 ƠN_1 KC_1 |
+dọt	ZI ON2_1 TC_1 |
+rẻo	RI EN_2 UC_2 |
+gong	GI ON1_0 NGC_0 |
+xờm	XI ƠN_4 MC_4 |
+buốc	BI UÔN_5 KC_5 |
+dạm	ZI AN2_1 MC_1 |
+hốn	HI ÔN_5 NC_5 |
+hẵn	HI AN3_3 NC_3 |
+lụn	LI UN_1 NC_1 |
+xet	XI EN_0 TC_0 |
+nguời	NGI WO_4 ƠN_4 IC_4 |
+nhừa	NHI ƯƠN_4 |
+hiêu	HI IÊN_0 UC_0 |
+chọ	CHI ON2_1 |
+chap	CHI AN2_0 PC_0 |
+hệch	HI ÊN_1 KC_1 |
+cỡn	KI ƠN_3 NC_3 |
+chyện	CHI YÊN_1 NC_1 |
+nhừng	NHI ƯN_4 NGC_4 |
+nụy	NI UN_1 YC_1 |
+quện	KI WO_1 ÊN_1 NC_1 |
+bổi	BI ÔN_2 IC_2 |
+dổi	ZI ÔN_2 IC_2 |
+ghệ	GI ÊN_1 |
+xiu	XI IN_0 UC_0 |
+sồn	SI ÔN_4 NC_4 |
+nhỉên	NHI IÊN_2 NC_2 |
+ngóe	NGI WO_5 EN_5 |
+rằn	RI AN3_4 NC_4 |
+trủng	TRI UN_2 NGC_2 |
+thuyển	THI WO_2 YÊN_2 NC_2 |
+khằng	KHI AN3_4 NGC_4 |
+bửng	BI ƯN_2 NGC_2 |
+duối	ZI UÔN_5 IC_5 |
+vện	VI ÊN_1 NC_1 |
+nhẩu	NHI ÂN_2 UC_2 |
+thấn	THI ÂN_5 NC_5 |
+bíêt	BI IÊN_5 TC_5 |
+trach	TRI AN1_0 KC_0 |
+tặt	TI AN3_1 TC_1 |
+xái	XI AN2_5 IC_5 |
+đẫ	DI ÂN_3 |
+tuỵ	TI UN_1 YC_1 |
+mặ	MI AN3_1 |
+nưng	NI ƯN_0 NGC_0 |
+giần	ZI ÂN_4 NC_4 |
+tứa	TI ƯƠN_5 |
+truyển	TRI WO_2 YÊN_2 NC_2 |
+phốp	PHI ÔN_5 PC_5 |
+nhín	NHI IN_5 NC_5 |
+tầy	TI ÂN_4 YC_4 |
+súy	SI UN_5 YC_5 |
+mính	MI IN_5 NGC_5 |
+xư	XI ƯC_0 |
+bẳng	BI AN3_2 NGC_2 |
+ngững	NGI ƯN_3 NGC_3 |
+tróng	TRI ON1_5 NGC_5 |
+đưng	DI ƯN_0 NGC_0 |
+nhịu	NHI IN_1 UC_1 |
+bậu	BI ÂN_1 UC_1 |
+hặng	HI AN3_1 NGC_1 |
+gư	GI ƯC_0 |
+đăt	DI AN3_0 TC_0 |
+mam	MI AN2_0 MC_0 |
+bặc	BI AN3_1 KC_1 |
+choa	CHI WO_0 AN2_0 |
+rừ	RI ƯC_4 |
+mếm	MI ÊN_5 MC_5 |
+bìn	BI IN_4 NC_4 |
+sop	SI ON2_0 PC_0 |
+khén	KHI EN_5 NC_5 |
+ứm	ƯN_5 MC_5 |
+ẳng	AN3_2 NGC_2 |
+ip	IN_0 PC_0 |
+vên	VI ÊN_0 NC_0 |
+lap	LI AN2_0 PC_0 |
+bit	BI IN_0 TC_0 |
+lốn	LI ÔN_5 NC_5 |
+nống	NI ÔN_5 NGC_5 |
+đơt	DI ƠN_0 TC_0 |
+chuổi	CHI UÔN_2 IC_2 |
+bốm	BI ÔN_5 MC_5 |
+ợt	ƠN_1 TC_1 |
+kếp	KI ÊN_5 PC_5 |
+ghuyn	GI WO_0 IN_0 NC_0 |
+truýt	TRI WO_5 IN_5 TC_5 |
+vâu	VI ÂN_0 UC_0 |
+phâu	PHI ÂN_0 UC_0 |
+hoai	HI WO_0 AN2_0 IC_0 |
+sặp	SI AN3_1 PC_1 |
+đing	DI IN_0 NGC_0 |
+bừn	BI ƯN_4 NC_4 |
+ghíp	GI IN_5 PC_5 |
+cin	KI IN_0 NC_0 |
+dum	ZI UN_0 MC_0 |
+xên	XI ÊN_0 NC_0 |
+ía	IAN_5 |
+quấc	KI WO_5 ÂN_5 KC_5 |
+riệu	RI IÊN_1 UC_1 |
+bau	BI AN3_0 UC_0 |
+kờ	KI ƠC_4 |
+sùa	SI UÔN_4 |
+ớp	ƠN_5 PC_5 |
+sồng	SI ÔN_4 NGC_4 |
+ười	ƯƠN_4 IC_4 |
+cia	KI IAN_0 |
+phuông	PHI UÔN_0 NGC_0 |
+thâý	THI ÂN_5 YC_5 |
+gúc	GI UN_5 KC_5 |
+troi	TRI ON2_0 IC_0 |
+khây	KHI ÂN_0 YC_0 |
+ròm	RI ON2_4 MC_4 |
+bôt	BI ÔN_0 TC_0 |
+síc	SI IN_5 KC_5 |
+thuờng	THI WO_4 ƠN_4 NGC_4 |
+óoc	WO_5 ON1_5 KC_5 |
+cờn	KI ƠN_4 NC_4 |
+thuýt	THI WO_5 IN_5 TC_5 |
+sừ	SI ƯC_4 |
+phóoc	PHI WO_5 ON1_5 KC_5 |
+yo	IN_0 UC_0 |
+tờn	TI ƠN_4 NC_4 |
+ghuých	GI WO_5 IN_5 KC_5 |
+oc	ON1_0 KC_0 |
+ling	LI IN_0 NGC_0 |
+noong	NI WO_0 ON1_0 NGC_0 |
+hey	HI EN_0 YC_0 |
+phooc	PHI WO_0 ON1_0 KC_0 |
+sín	SI IN_5 NC_5 |
+hit	HI IN_0 TC_0 |
+guột	GI UÔN_1 TC_1 |
+giữu	ZI ƯN_3 UC_3 |
+đỳ	DI IN_4 |
+sỉn	SI IN_2 NC_2 |
+cí	KI IN_5 |
+giưới	ZI ƯƠN_5 IC_5 |
+dăn	ZI AN3_0 NC_0 |
+bẳm	BI AN3_2 MC_2 |
+ngéo	NGI EN_5 UC_5 |
+rều	RI ÊN_4 UC_4 |
+nhệ	NHI ÊN_1 |
+vựp	VI ƯN_1 PC_1 |
+ruây	RI WO_0 ÂN_0 YC_0 |
+nich	NI IN_0 KC_0 |
+truất	TRI WO_5 ÂN_5 TC_5 |
+ghoát	GI WO_5 AN2_5 TC_5 |
+giách	ZI AN1_5 KC_5 |
+nhắng	NHI AN3_5 NGC_5 |
+hữ	HI ƯC_3 |
+ruyn	RI WO_0 IN_0 NC_0 |
+đoóc	DI WO_5 ON1_5 KC_5 |
+boai	BI WO_0 AN2_0 IC_0 |
+cuc	KI UN_0 KC_0 |
+oen	WO_0 EN_0 NC_0 |
+thừn	THI ƯN_4 NC_4 |
+huu	HI UN_0 UC_0 |
+muc	MI UN_0 KC_0 |
+tut	TI UN_0 TC_0 |
+thuan	THI UÔN_0 NC_0 |
+chac	CHI AN1_0 KC_0 |
+tau	TI AN3_0 UC_0 |
+thuoc	THI WO_0 ON1_0 KC_0 |
+chuym	CHI WO_0 IN_0 MC_0 |
+lech	LI EN_0 KC_0 |
+luoc	LI WO_0 ON1_0 KC_0 |
+phep	PHI EN_0 PC_0 |
+mooc	MI WO_0 ON1_0 KC_0 |
+chot	CHI ON2_0 TC_0 |
+benh	BI EN_0 NGC_0 |
+soai	SI WO_0 AN2_0 IC_0 |
+buoi	BI WO_0 ON2_0 IC_0 |
+nhứng	NHI ƯN_5 NGC_5 |
+dt	ZI TC_0 |
+dơm	ZI ƠN_0 MC_0 |
+èng	EN_4 NGC_4 |
+nò	NI ON2_4 |
+trụng	TRI UN_1 NGC_1 |
+ngồng	NGI ÔN_4 NGC_4 |
+khễnh	KHI ÊN_3 NGC_3 |
+quới	KI WO_5 ƠN_5 IC_5 |
+trè	TRI EN_4 |
+nhú	NHI UN_5 |
+huê	HI WO_0 ÊN_0 |
+nguệch	NGI WO_1 ÊN_1 KC_1 |
+xòm	XI ON2_4 MC_4 |
+vược	VI ƯƠN_1 KC_1 |
+khủy	KHI UN_2 YC_2 |
+khoáy	KHI WO_5 AN3_5 YC_5 |
+giòi	ZI ON2_4 IC_4 |
+nui	NI UN_0 IC_0 |
+bẫm	BI ÂN_3 MC_3 |
+xúng	XI UN_5 NGC_5 |
+chịa	CHI IAN_1 |
+nhông	NHI ÔN_0 NGC_0 |
+ngoải	NGI WO_2 AN2_2 IC_2 |
+đỏm	DI ON2_2 MC_2 |
+phéng	PHI EN_5 NGC_5 |
+hèm	HI EN_4 MC_4 |
+xạch	XI AN1_1 KC_1 |
+loóc	LI WO_5 ON1_5 KC_5 |
+hiệm	HI IÊN_1 MC_1 |
+ơm	ƠN_0 MC_0 |
+phoóc	PHI WO_5 ON1_5 KC_5 |
+xíp	XI IN_5 PC_5 |
+gụ	GI UN_1 |
+dái	ZI AN2_5 IC_5 |
+đớ	DI ƠC_5 |
+rẻng	RI EN_2 NGC_2 |
+rửng	RI ƯN_2 NGC_2 |
+ghĩa	GI IAN_3 |
+ngãng	NGI AN1_3 NGC_3 |
+chộ	CHI ÔN_1 |
+hồm	HI ÔN_4 MC_4 |
+ngúng	NGI UN_5 NGC_5 |
+vổ	VI ÔN_2 |
+tòm	TI ON2_4 MC_4 |
+mõi	MI ON2_3 IC_3 |
+choé	CHI WO_5 EN_5 |
+khướu	KHI ƯƠN_5 UC_5 |
+ap	AN2_0 PC_0 |
+phành	PHI AN1_4 NGC_4 |
+vưà	VI ƯƠN_4 |
+hờm	HI ƠN_4 MC_4 |
+xạt	XI AN2_1 TC_1 |
+uương	WO_0 ƯƠN_0 NGC_0 |
+ngươì	NGI ƯƠN_4 IC_4 |
+vằm	VI AN3_4 MC_4 |
+óan	WO_5 AN2_5 NC_5 |
+uấn	WO_5 ÂN_5 NC_5 |
+hã	HI AN2_3 |
+thỏang	THI WO_2 AN1_2 NGC_2 |
+quị	KI UN_1 IC_1 |
+nghễu	NGI ÊN_3 UC_3 |
+mỉn	MI IN_2 NC_2 |
+ngẽo	NGI EN_3 UC_3 |
+xềnh	XI ÊN_4 NGC_4 |
+kich	KI IN_0 KC_0 |
+đoanh	DI WO_0 AN1_0 NGC_0 |
+đão	DI AN2_3 UC_3 |
+gịt	ZI TC_1 |
+phẫy	PHI ÂN_3 YC_3 |
+bă	BI AN3_0 |
+nhiểu	NHI IÊN_2 UC_2 |
+dàu	ZI AN3_4 UC_4 |
+đâủ	DI ÂN_2 UC_2 |
+tớn	TI ƠN_5 NC_5 |
+lâp	LI ÂN_0 PC_0 |
+hắm	HI AN3_5 MC_5 |
+hìn	HI IN_4 NC_4 |
+khạp	KHI AN2_1 PC_1 |
+hòai	HI WO_4 AN2_4 IC_4 |
+lỏang	LI WO_2 AN1_2 NGC_2 |
+xỏang	XI WO_2 AN1_2 NGC_2 |
+rựa	RI ƯƠN_1 |
+khoen	KHI WO_0 EN_0 NC_0 |
+mừ	MI ƯC_4 |
+giối	ZI ÔN_5 IC_5 |
+hoáy	HI WO_5 AN3_5 YC_5 |
+vười	VI ƯƠN_4 IC_4 |
+roẹt	RI WO_1 EN_1 TC_1 |
+kìn	KI IN_4 NC_4 |
+nguốn	NGI UÔN_5 NC_5 |
+xoã	XI WO_3 AN2_3 |
+ngổ	NGI ÔN_2 |
+đãm	DI AN2_3 MC_3 |
+súyt	SI WO_5 IN_5 TC_5 |
+nguyêt	NGI WO_0 YÊN_0 TC_0 |
+rồn	RI ÔN_4 NC_4 |
+sớn	SI ƠN_5 NC_5 |
+ngữa	NGI ƯƠN_3 |
+tóat	TI WO_5 AN2_5 TC_5 |
+ngịu	NGI IN_1 UC_1 |
+thếu	THI ÊN_5 UC_5 |
+nhê	NHI ÊN_0 |
+thởi	THI ƠN_2 IC_2 |
+trất	TRI ÂN_5 TC_5 |
+nhùn	NHI UN_4 NC_4 |
+phạ	PHI AN2_1 |
+lắn	LI AN3_5 NC_5 |
+quạc	KI UÔN_1 KC_1 |
+dắng	ZI AN3_5 NGC_5 |
+quặt	KI WO_1 AN3_1 TC_1 |
+quác	KI UÔN_5 KC_5 |
+biêng	BI IÊN_0 NGC_0 |
+nường	NI ƯƠN_4 NGC_4 |
+thuôn	THI UÔN_0 NC_0 |
+ộp	ÔN_1 PC_1 |
+tóan	TI WO_5 AN2_5 NC_5 |
+khỏng	KHI ON1_2 NGC_2 |
+nân	NI ÂN_0 NC_0 |
+nhịt	NHI IN_1 TC_1 |
+dươi	ZI ƯƠN_0 IC_0 |
+gỏ	GI ON2_2 |
+nhễu	NHI ÊN_3 UC_3 |
+ệ	ÊN_1 |
+nghiã	NGI IAN_3 |
+ráu	RI AN3_5 UC_5 |
+bẻo	BI EN_2 UC_2 |
+thiếc	THI IÊN_5 KC_5 |
+nhền	NHI ÊN_4 NC_4 |
+lẹo	LI EN_1 UC_1 |
+trệt	TRI ÊN_1 TC_1 |
+lấu	LI ÂN_5 UC_5 |
+ịt	IN_1 TC_1 |
+quết	KI WO_5 ÊN_5 TC_5 |
+nễ	NI ÊN_3 |
+naỳ	NI AN3_4 YC_4 |
+tuốc	TI UÔN_5 KC_5 |
+hâi	HI ÂN_0 IC_0 |
+nhoè	NHI WO_4 EN_4 |
+sụm	SI UN_1 MC_1 |
+thum	THI UN_0 MC_0 |
+đõ	DI ON2_3 |
+gày	GI AN3_4 YC_4 |
+luạn	LI UÔN_1 NC_1 |
+dóng	ZI ON1_5 NGC_5 |
+cươi	KI ƯƠN_0 IC_0 |
+hướm	HI ƯƠN_5 MC_5 |
+bứơc	BI ƯƠN_5 KC_5 |
+dụn	ZI UN_1 NC_1 |
+đú	DI UN_5 |
+đởn	DI ƠN_2 NC_2 |
+bựng	BI ƯN_1 NGC_1 |
+ơù	ƠN_4 UC_4 |
+haỵ	HI AN3_1 YC_1 |
+vậ	VI ÂN_1 |
+nguòi	NGI WO_4 ON2_4 IC_4 |
+théo	THI EN_5 UC_5 |
+ngam	NGI AN2_0 MC_0 |
+khệ	KHI ÊN_1 |
+oặc	WO_1 AN3_1 KC_1 |
+vửa	VI ƯƠN_2 |
+khuyếch	KHI WO_5 YÊN_5 KC_5 |
+nẫng	NI ÂN_3 NGC_3 |
+quảy	KI UÔN_2 YC_2 |
+hiêng	HI IÊN_0 NGC_0 |
+rịt	RI IN_1 TC_1 |
+nhứ	NHI ƯC_5 |
+sứng	SI ƯN_5 NGC_5 |
+thuẩn	THI WO_2 ÂN_2 NC_2 |
+nghiễn	NGI IÊN_3 NC_3 |
+tôị	TI ÔN_1 IC_1 |
+luýnh	LI WO_5 IN_5 NGC_5 |
+đếu	DI ÊN_5 UC_5 |
+ché	CHI EN_5 |
+giốc	ZI ÔN_5 KC_5 |
+giât	ZI ÂN_0 TC_0 |
+ẻn	EN_2 NC_2 |
+riếu	RI IÊN_5 UC_5 |
+dổ	ZI ÔN_2 |
+khóai	KHI WO_5 AN2_5 IC_5 |
+hềnh	HI ÊN_4 NGC_4 |
+giằn	ZI AN3_4 NC_4 |
+nhiệu	NHI IÊN_1 UC_1 |
+phứt	PHI ƯN_5 TC_5 |
+viêc	VI IÊN_0 KC_0 |
+ắm	AN3_5 MC_5 |
+xuât	XI WO_0 ÂN_0 TC_0 |
+sõng	SI ON1_3 NGC_3 |
+nốp	NI ÔN_5 PC_5 |
+truyên	TRI WO_0 YÊN_0 NC_0 |
+trơì	TRI ƠN_4 IC_4 |
+tuẫn	TI WO_3 ÂN_3 NC_3 |
+phài	PHI AN2_4 IC_4 |
+bươc	BI ƯƠN_0 KC_0 |
+nhoà	NHI WO_4 AN2_4 |
+coa	KI WO_0 AN2_0 |
+tĩng	TI IN_3 NGC_3 |
+dỉnh	ZI IN_2 NGC_2 |
+độnh	DI ÔN_1 NGC_1 |
+hều	HI ÊN_4 UC_4 |
+mán	MI AN2_5 NC_5 |
+lổm	LI ÔN_2 MC_2 |
+ngổm	NGI ÔN_2 MC_2 |
+dết	ZI ÊN_5 TC_5 |
+ngồm	NGI ÔN_4 MC_4 |
+ngoàm	NGI WO_4 AN2_4 MC_4 |
+măc	MI AN3_0 KC_0 |
+vập	VI ÂN_1 PC_1 |
+ngủm	NGI UN_2 MC_2 |
+ngòn	NGI ON2_4 NC_4 |
+quảnh	KI UÔN_2 NGC_2 |
+dướng	ZI ƯƠN_5 NGC_5 |
+hưa	HI ƯƠN_0 |
+ngồn	NGI ÔN_4 NC_4 |
+hỗng	HI ÔN_3 NGC_3 |
+thòn	THI ON2_4 NC_4 |
+ngẹn	NGI EN_1 NC_1 |
+sằn	SI AN3_4 NC_4 |
+tiếm	TI IÊN_5 MC_5 |
+ồng	ÔN_4 NGC_4 |
+trỉ	TRI IN_2 |
+bặn	BI AN3_1 NC_1 |
+hủng	HI UN_2 NGC_2 |
+hày	HI AN3_4 YC_4 |
+ành	AN1_4 NGC_4 |
+tât	TI ÂN_0 TC_0 |
+nghét	NGI EN_5 TC_5 |
+đat	DI AN2_0 TC_0 |
+vày	VI AN3_4 YC_4 |
+ắn	AN3_5 NC_5 |
+suôi	SI UÔN_0 IC_0 |
+kay	KI AN3_0 YC_0 |
+trược	TRI ƯƠN_1 KC_1 |
+xịch	XI IN_1 KC_1 |
+khóac	KHI WO_5 AN1_5 KC_5 |
+thàn	THI AN2_4 NC_4 |
+bươi	BI ƯƠN_0 IC_0 |
+oác	WO_5 AN1_5 KC_5 |
+xởi	XI ƠN_2 IC_2 |
+đoạ	DI WO_1 AN2_1 |
+đẫu	DI ÂN_3 UC_3 |
+thep	THI EN_0 PC_0 |
+rội	RI ÔN_1 IC_1 |
+xể	XI ÊN_2 |
+hẩu	HI ÂN_2 UC_2 |
+nùi	NI UN_4 IC_4 |
+ếm	ÊN_5 MC_5 |
+ỏng	ON1_2 NGC_2 |
+lồn	LI ÔN_4 NC_4 |
+đm	DI MC_0 |
+map	MI AN2_0 PC_0 |
+rip	RI IN_0 PC_0 |
+lủn	LI UN_2 NC_2 |
+bốnh	BI ÔN_5 NGC_5 |
+sâng	SI ÂN_0 NGC_0 |
+not	NI ON2_0 TC_0 |
+dôm	ZI ÔN_0 MC_0 |
+tơm	TI ƠN_0 MC_0 |
+gòi	GI ON2_4 IC_4 |
+xúa	XI UÔN_5 |
+phòi	PHI ON2_4 IC_4 |
+mởi	MI ƠN_2 IC_2 |
+gum	GI UN_0 MC_0 |
+gìa	ZI AN2_4 |
+mung	MI UN_0 NGC_0 |
+ún	UN_5 NC_5 |
+mec	MI EN_0 KC_0 |
+ei	EN_0 IC_0 |
+cuẩ	KI WO_2 ÂN_2 |
+xuyễn	XI WO_3 YÊN_3 NC_3 |
+nhâ	NHI ÂN_0 |
+bươu	BI ƯƠN_0 UC_0 |
+sé	SI EN_5 |
+cấc	KI ÂN_5 KC_5 |
+đăc	DI AN3_0 KC_0 |
+mếc	MI ÊN_5 KC_5 |
+êp	ÊN_0 PC_0 |
+cờm	KI ƠN_4 MC_4 |
+trom	TRI ON2_0 MC_0 |
+thíc	THI IN_5 KC_5 |
+troa	TRI WO_0 AN2_0 |
+lưn	LI ƯN_0 NC_0 |
+phơm	PHI ƠN_0 MC_0 |
+moc	MI ON1_0 KC_0 |
+ể	ÊN_2 |
+phíc	PHI IN_5 KC_5 |
+chứu	CHI ƯN_5 UC_5 |
+mit	MI IN_0 TC_0 |
+muồng	MI UÔN_4 NGC_4 |
+kây	KI ÂN_0 YC_0 |
+kang	KI AN1_0 NGC_0 |
+kip	KI IN_0 PC_0 |
+thàm	THI AN2_4 MC_4 |
+đí	DI IN_5 |
+chạn	CHI AN2_1 NC_1 |
+ic	IN_0 KC_0 |
+phóp	PHI ON2_5 PC_5 |
+luyn	LI WO_0 IN_0 NC_0 |
+guai	GI UÔN_0 IC_0 |
+phôm	PHI ÔN_0 MC_0 |
+seng	SI EN_0 NGC_0 |
+dằm	ZI AN3_4 MC_4 |
+phởn	PHI ƠN_2 NC_2 |
+xuây	XI WO_0 ÂN_0 YC_0 |
+guầy	GI WO_4 ÂN_4 YC_4 |
+rut	RI UN_0 TC_0 |
+ooc	WO_0 ON1_0 KC_0 |
+gôm	GI ÔN_0 MC_0 |
+só	SI ON2_5 |
+true	TRI WO_0 EN_0 |
+bõng	BI ON1_3 NGC_3 |
+âng	ÂN_0 NGC_0 |
+giớt	ZI ƠN_5 TC_5 |
+ric	RI IN_0 KC_0 |
+soóc	SI WO_5 ON1_5 KC_5 |
+gáng	GI AN1_5 NGC_5 |
+bếc	BI ÊN_5 KC_5 |
+dắp	ZI AN3_5 PC_5 |
+khân	KHI ÂN_0 NC_0 |
+chéc	CHI EN_5 KC_5 |
+mươ	MI ƯN_0 ƠC_0 |
+đứ	DI ƯC_5 |
+kô	KI ÔN_0 |
+roen	RI WO_0 EN_0 NC_0 |
+tưn	TI ƯN_0 NC_0 |
+nghạch	NGI AN1_1 KC_1 |
+dóoc	ZI WO_5 ON1_5 KC_5 |
+giooc	ZI WO_0 ON1_0 KC_0 |
+cóa	KI WO_5 AN2_5 |
+muòi	MI WO_4 ON2_4 IC_4 |
+diến	ZI IÊN_5 NC_5 |
+ruê	RI WO_0 ÊN_0 |
+nhều	NHI ÊN_4 UC_4 |
+nóp	NI ON2_5 PC_5 |
+báy	BI AN3_5 YC_5 |
+gốp	GI ÔN_5 PC_5 |
+lìu	LI IN_4 UC_4 |
+trìn	TRI IN_4 NC_4 |
+kệnh	KI ÊN_1 NGC_1 |
+lỹ	LI IN_3 |
+nghiêp	NGI IÊN_0 PC_0 |
+săc	SI AN3_0 KC_0 |
+nhim	NHI IN_0 MC_0 |
+mớn	MI ƠN_5 NC_5 |
+dệp	ZI ÊN_1 PC_1 |
+chàn	CHI AN2_4 NC_4 |
+đăn	DI AN3_0 NC_0 |
+môm	MI ÔN_0 MC_0 |
+phảm	PHI AN2_2 MC_2 |
+rec	RI EN_0 KC_0 |
+trươi	TRI ƯƠN_0 IC_0 |
+vot	VI ON2_0 TC_0 |
+quợt	KI WO_1 ƠN_1 TC_1 |
+cat	KI AN2_0 TC_0 |
+dỡn	ZI ƠN_3 NC_3 |
+oẳn	WO_2 AN3_2 NC_2 |
+rốm	RI ÔN_5 MC_5 |
+nhiếu	NHI IÊN_5 UC_5 |
+cựng	KI ƯN_1 NGC_1 |
+măm	MI AN3_0 MC_0 |
+huở	HI UN_2 ƠC_2 |
+khii	KHI IN_0 IC_0 |
+kăng	KI AN3_0 NGC_0 |
+chuyệ	CHI WO_1 YÊN_1 |
+nàm	NI AN2_4 MC_4 |
+sợp	SI ƠN_1 PC_1 |
+goác	GI WO_5 AN1_5 KC_5 |
+phớ	PHI ƠC_5 |
+chẻo	CHI EN_2 UC_2 |
+uai	UÔN_0 IC_0 |
+gióoc	ZI WO_5 ON1_5 KC_5 |
+găp	GI AN3_0 PC_0 |
+èo	EN_4 UC_4 |
+uột	UÔN_1 TC_1 |
+truốt	TRI UÔN_5 TC_5 |
+xọng	XI ON1_1 NGC_1 |
+nố	NI ÔN_5 |
+rấ	RI ÂN_5 |
+rẹc	RI EN_1 KC_1 |
+ce	KI EN_0 |
+ngĩ	NGI IN_3 |
+nhọt	NHI ON2_1 TC_1 |
+lấng	LI ÂN_5 NGC_5 |
+giự	ZI ƯC_1 |
+lịc	LI IN_1 KC_1 |
+guay	GI UÔN_0 YC_0 |
+dớp	ZI ƠN_5 PC_5 |
+suống	SI UÔN_5 NGC_5 |
+guen	GI WO_0 EN_0 NC_0 |
+nưn	NI ƯN_0 NC_0 |
+ue	WO_0 EN_0 |
+trem	TRI EN_0 MC_0 |
+riêm	RI IÊN_0 MC_0 |
+moóc	MI WO_5 ON1_5 KC_5 |
+ghô	GI ÔN_0 |
+loc	LI ON1_0 KC_0 |
+nhuong	NHI WO_0 ON1_0 NGC_0 |
+gop	GI ON2_0 PC_0 |
+het	HI EN_0 TC_0 |
+xuan	XI UÔN_0 NC_0 |
+vuc	VI UN_0 KC_0 |
+biêu	BI IÊN_0 UC_0 |
+xuat	XI UÔN_0 TC_0 |
+cuon	KI WO_0 ON2_0 NC_0 |
+iệt	IÊN_1 TC_1 |
+quíp	KI WO_5 IN_5 PC_5 |
+thơn	THI ƠN_0 NC_0 |
+vòa	VI WO_4 AN2_4 |
+xáu	XI AN3_5 UC_5 |
+xản	XI AN2_2 NC_2 |
+giac	ZI AN1_0 KC_0 |
+vủa	VI UÔN_2 |
+dep	ZI EN_0 PC_0 |
+phớn	PHI ƠN_5 NC_5 |
+chão	CHI AN2_3 UC_3 |
+gọ	GI ON2_1 |
+vống	VI ÔN_5 NGC_5 |
+quạch	KI UÔN_1 KC_1 |
+xọc	XI ON1_1 KC_1 |
+cỡm	KI ƠN_3 MC_3 |
+sộp	SI ÔN_1 PC_1 |
+nướu	NI ƯƠN_5 UC_5 |
+kiếc	KI IÊN_5 KC_5 |
+dớ	ZI ƠC_5 |
+sị	SI IN_1 |
+trệu	TRI ÊN_1 UC_1 |
+phuốc	PHI UÔN_5 KC_5 |
+chù	CHI UN_4 |
+suồng	SI UÔN_4 NGC_4 |
+choạc	CHI WO_1 AN1_1 KC_1 |
+nhẫy	NHI ÂN_3 YC_3 |
+ngoạc	NGI WO_1 AN1_1 KC_1 |
+trấu	TRI ÂN_5 UC_5 |
+đụ	DI UN_1 |
+xểnh	XI ÊN_2 NGC_2 |
+miễng	MI IÊN_3 NGC_3 |
+boa	BI WO_0 AN2_0 |
+chyển	CHI YÊN_2 NC_2 |
+dẹo	ZI EN_1 UC_1 |
+chêu	CHI ÊN_0 UC_0 |
+nhồng	NHI ÔN_4 NGC_4 |
+choán	CHI WO_5 AN2_5 NC_5 |
+nự	NI ƯC_1 |
+ii	IN_0 IC_0 |
+huồi	HI UÔN_4 IC_4 |
+nau	NI AN3_0 UC_0 |
+hic	HI IN_0 KC_0 |
+guô	GI UÔN_0 |
+thữa	THI ƯƠN_3 |
+trạn	TRI AN2_1 NC_1 |
+biễu	BI IÊN_3 UC_3 |
+phẹt	PHI EN_1 TC_1 |
+huý	HI UN_5 YC_5 |
+cưú	KI ƯN_5 UC_5 |
+hoằn	HI WO_4 AN3_4 NC_4 |
+chẳn	CHI AN3_2 NC_2 |
+kía	KI IAN_5 |
+trẩm	TRI ÂN_2 MC_2 |
+trưỡng	TRI ƯƠN_3 NGC_3 |
+phảt	PHI AN2_2 TC_2 |
+rõi	RI ON2_3 IC_3 |
+lẻm	LI EN_2 MC_2 |
+đẵn	DI AN3_3 NC_3 |
+vóng	VI ON1_5 NGC_5 |
+miễu	MI IÊN_3 UC_3 |
+tếng	TI ÊN_5 NGC_5 |
+hoàm	HI WO_4 AN2_4 MC_4 |
+tiế	TI IÊN_5 |
+mơí	MI ƠN_5 IC_5 |
+loà	LI WO_4 AN2_4 |
+ngía	NGI IAN_5 |
+bãn	BI AN2_3 NC_3 |
+vễnh	VI ÊN_3 NGC_3 |
+nguầy	NGI WO_4 ÂN_4 YC_4 |
+nãn	NI AN2_3 NC_3 |
+nghều	NGI ÊN_4 UC_4 |
+phuơng	PHI WO_0 ƠN_0 NGC_0 |
+nhẩn	NHI ÂN_2 NC_2 |
+luốt	LI UÔN_5 TC_5 |
+dòi	ZI ON2_4 IC_4 |
+léng	LI EN_5 NGC_5 |
+hoè	HI WO_4 EN_4 |
+ngoc	NGI ON1_0 KC_0 |
+giói	ZI ON2_5 IC_5 |
+tẻm	TI EN_2 MC_2 |
+thễnh	THI ÊN_3 NGC_3 |
+gữ	GI ƯC_3 |
+dói	ZI ON2_5 IC_5 |
+điệm	DI IÊN_1 MC_1 |
+coó	KI ON2_5 UC_5 |
+trậm	TRI ÂN_1 MC_1 |
+lọang	LI WO_1 AN1_1 NGC_1 |
+chọang	CHI WO_1 AN1_1 NGC_1 |
+bap	BI AN2_0 PC_0 |
+nhùng	NHI UN_4 NGC_4 |
+kím	KI IN_5 MC_5 |
+lặm	LI AN3_1 MC_1 |
+sỏng	SI ON1_2 NGC_2 |
+lẳn	LI AN3_2 NC_2 |
+ngênh	NGI ÊN_0 NGC_0 |
+ngặc	NGI AN3_1 KC_1 |
+sẹ	SI EN_1 |
+tửử	TI ƯN_2 ƯC_2 |
+quấu	KI WO_5 ÂN_5 UC_5 |
+luậ	LI WO_1 ÂN_1 |
+dững	ZI ƯN_3 NGC_3 |
+đêy	DI ÊN_0 YC_0 |
+dệ	ZI ÊN_1 |
+giấp	ZI ÂN_5 PC_5 |
+đià	DI IAN_4 |
+sóat	SI WO_5 AN2_5 TC_5 |
+mịa	MI IAN_1 |
+rựng	RI ƯN_1 NGC_1 |
+thũng	THI UN_3 NGC_3 |
+xía	XI IAN_5 |
+nhỉn	NHI IN_2 NC_2 |
+thín	THI IN_5 NC_5 |
+keó	KI EN_5 UC_5 |
+khến	KHI ÊN_5 NC_5 |
+gỉn	ZI NC_2 |
+nủa	NI UÔN_2 |
+nghơi	NGI ƠN_0 IC_0 |
+hĩ	HI IN_3 |
+trun	TRI UN_0 NC_0 |
+thôị	THI ÔN_1 IC_1 |
+vón	VI ON2_5 NC_5 |
+huýnh	HI WO_5 IN_5 NGC_5 |
+ngoẻo	NGI WO_2 EN_2 UC_2 |
+chưả	CHI ƯƠN_2 |
+chếp	CHI ÊN_5 PC_5 |
+chuồi	CHI UÔN_4 IC_4 |
+nhúch	NHI UN_5 KC_5 |
+nghiếng	NGI IÊN_5 NGC_5 |
+cết	KI ÊN_5 TC_5 |
+mưng	MI ƯN_0 NGC_0 |
+ngấc	NGI ÂN_5 KC_5 |
+lến	LI ÊN_5 NC_5 |
+thíêu	THI IÊN_5 UC_5 |
+đưỡng	DI ƯƠN_3 NGC_3 |
+bụa	BI UÔN_1 |
+rặn	RI AN3_1 NC_1 |
+nguơi	NGI WO_0 ƠN_0 IC_0 |
+nằn	NI AN3_4 NC_4 |
+nhày	NHI AN3_4 YC_4 |
+dóa	ZI WO_5 AN2_5 |
+sựu	SI ƯN_1 UC_1 |
+đng	DI NGC_0 |
+khuơ	KHI UN_0 ƠC_0 |
+mĩa	MI IAN_3 |
+lệt	LI ÊN_1 TC_1 |
+muồn	MI UÔN_4 NC_4 |
+mẩm	MI ÂN_2 MC_2 |
+sường	SI ƯƠN_4 NGC_4 |
+mãm	MI AN2_3 MC_3 |
+đoong	DI WO_0 ON1_0 NGC_0 |
+nhoàm	NHI WO_4 AN2_4 MC_4 |
+giào	ZI AN2_4 UC_4 |
+chp	CHI PC_0 |
+sểnh	SI ÊN_2 NGC_2 |
+nhiệp	NHI IÊN_1 PC_1 |
+ụt	UN_1 TC_1 |
+nhạp	NHI AN2_1 PC_1 |
+lòai	LI WO_4 AN2_4 IC_4 |
+chợi	CHI ƠN_1 IC_1 |
+giap	ZI AN2_0 PC_0 |
+trẻn	TRI EN_2 NC_2 |
+buội	BI UÔN_1 IC_1 |
+khình	KHI IN_4 NGC_4 |
+khịch	KHI IN_1 KC_1 |
+trừơng	TRI ƯƠN_4 NGC_4 |
+tẹ	TI EN_1 |
+rộm	RI ÔN_1 MC_1 |
+dùn	ZI UN_4 NC_4 |
+vởi	VI ƠN_2 IC_2 |
+phèng	PHI EN_4 NGC_4 |
+đấp	DI ÂN_5 PC_5 |
+aị	AN2_1 IC_1 |
+cọn	KI ON2_1 NC_1 |
+kiam	KI IAN_0 MC_0 |
+nghẻo	NGI EN_2 UC_2 |
+iến	IÊN_5 NC_5 |
+nhẻ	NHI EN_2 |
+khề	KHI ÊN_4 |
+mắ	MI AN3_5 |
+gạnh	GI AN1_1 NGC_1 |
+khau	KHI AN3_0 UC_0 |
+ghin	GI IN_0 NC_0 |
+hoải	HI WO_2 AN2_2 IC_2 |
+kíêm	KI IÊN_5 MC_5 |
+tó	TI ON2_5 |
+khẳn	KHI AN3_2 NC_2 |
+soe	SI WO_0 EN_0 |
+vểu	VI ÊN_2 UC_2 |
+choai	CHI WO_0 AN2_0 IC_0 |
+kệt	KI ÊN_1 TC_1 |
+béng	BI EN_5 NGC_5 |
+vơng	VI ƠN_0 NGC_0 |
+duôi	ZI UÔN_0 IC_0 |
+khừ	KHI ƯC_4 |
+nất	NI ÂN_5 TC_5 |
+toàng	TI WO_4 AN1_4 NGC_4 |
+thươc	THI ƯƠN_0 KC_0 |
+chễnh	CHI ÊN_3 NGC_3 |
+qay	KI AN3_0 YC_0 |
+nỏi	NI ON2_2 IC_2 |
+huớng	HI WO_5 ƠN_5 NGC_5 |
+liếp	LI IÊN_5 PC_5 |
+biểng	BI IÊN_2 NGC_2 |
+giạ	ZI AN2_1 |
+tọac	TI WO_1 AN1_1 KC_1 |
+bợn	BI ƠN_1 NC_1 |
+niểng	NI IÊN_2 NGC_2 |
+ngù	NGI UN_4 |
+saỵ	SI AN3_1 YC_1 |
+dước	ZI ƯƠN_5 KC_5 |
+giập	ZI ÂN_1 PC_1 |
+bứa	BI ƯƠN_5 |
+thânh	THI ÂN_0 NGC_0 |
+cuộng	KI UÔN_1 NGC_1 |
+cừơi	KI ƯƠN_4 IC_4 |
+đẩm	DI ÂN_2 MC_2 |
+mườn	MI ƯƠN_4 NC_4 |
+xeng	XI EN_0 NGC_0 |
+thạt	THI AN2_1 TC_1 |
+mòm	MI ON2_4 MC_4 |
+nhóang	NHI WO_5 AN1_5 NGC_5 |
+vộ	VI ÔN_1 |
+ểnh	ÊN_2 NGC_2 |
+khuỵ	KHI UN_1 YC_1 |
+ỹ	IN_3 |
+ngọan	NGI WO_1 AN2_1 NC_1 |
+rếu	RI ÊN_5 UC_5 |
+đoi	DI ON2_0 IC_0 |
+nhõ	NHI ON2_3 |
+nhìêu	NHI IÊN_4 UC_4 |
+nhỏng	NHI ON1_2 NGC_2 |
+ngúm	NGI UN_5 MC_5 |
+ỏn	ON2_2 NC_2 |
+hần	HI ÂN_4 NC_4 |
+choá	CHI WO_5 AN2_5 |
+míp	MI IN_5 PC_5 |
+nhểu	NHI ÊN_2 UC_2 |
+quền	KI WO_4 ÊN_4 NC_4 |
+khồn	KHI ÔN_4 NC_4 |
+cợm	KI ƠN_1 MC_1 |
+phìa	PHI IAN_4 |
+săp	SI AN3_0 PC_0 |
+hưỡn	HI ƯƠN_3 NC_3 |
+ngảy	NGI AN3_2 YC_2 |
+doang	ZI WO_0 AN1_0 NGC_0 |
+ệt	ÊN_1 TC_1 |
+xáng	XI AN1_5 NGC_5 |
+mei	MI EN_0 IC_0 |
+nhẹo	NHI EN_1 UC_1 |
+luu	LI UN_0 UC_0 |
+nèn	NI EN_4 NC_4 |
+mộp	MI ÔN_1 PC_1 |
+hẳng	HI AN3_2 NGC_2 |
+nghệu	NGI ÊN_1 UC_1 |
+nhúa	NHI UÔN_5 |
+khọt	KHI ON2_1 TC_1 |
+khẹt	KHI EN_1 TC_1 |
+quạn	KI UÔN_1 NC_1 |
+mằn	MI AN3_4 NC_4 |
+kịa	KI IAN_1 |
+kháp	KHI AN2_5 PC_5 |
+hưởn	HI ƯƠN_2 NC_2 |
+khỏ	KHI ON2_2 |
+dạnh	ZI AN1_1 NGC_1 |
+nược	NI ƯƠN_1 KC_1 |
+ghè	GI EN_4 |
+ró	RI ON2_5 |
+xọp	XI ON2_1 PC_1 |
+mảo	MI AN2_2 UC_2 |
+ọt	ON2_1 TC_1 |
+khoắng	KHI WO_5 AN3_5 NGC_5 |
+bỏm	BI ON2_2 MC_2 |
+oàn	WO_4 AN2_4 NC_4 |
+rược	RI ƯƠN_1 KC_1 |
+đơi	DI ƠN_0 IC_0 |
+nhầu	NHI ÂN_4 UC_4 |
+ngui	NGI UN_0 IC_0 |
+nghiá	NGI IAN_5 |
+đầt	DI ÂN_4 TC_4 |
+đich	DI IN_0 KC_0 |
+nời	NI ƠN_4 IC_4 |
+cuờng	KI WO_4 ƠN_4 NGC_4 |
+khia	KHI IAN_0 |
+đũi	DI UN_3 IC_3 |
+niệt	NI IÊN_1 TC_1 |
+ngẫy	NGI ÂN_3 YC_3 |
+chứt	CHI ƯN_5 TC_5 |
+nhuyên	NHI WO_0 YÊN_0 NC_0 |
+ngầy	NGI ÂN_4 YC_4 |
+ruộm	RI UÔN_1 MC_1 |
+ngường	NGI ƯƠN_4 NGC_4 |
+ngội	NGI ÔN_1 IC_1 |
+tiêy	TI IÊN_0 YC_0 |
+thim	THI IN_0 MC_0 |
+vẫ	VI ÂN_3 |
+ngẹo	NGI EN_1 UC_1 |
+triễn	TRI IÊN_3 NC_3 |
+rượm	RI ƯƠN_1 MC_1 |
+chuếnh	CHI WO_5 ÊN_5 NGC_5 |
+kiế	KI IÊN_5 |
+đt	DI TC_0 |
+đượng	DI ƯƠN_1 NGC_1 |
+kom	KI ON2_0 MC_0 |
+biễn	BI IÊN_3 NC_3 |
+duyến	ZI WO_5 YÊN_5 NC_5 |
+khật	KHI ÂN_1 TC_1 |
+dẽo	ZI EN_3 UC_3 |
+phỡn	PHI ƠN_3 NC_3 |
+thậ	THI ÂN_1 |
+ầng	ÂN_4 NGC_4 |
+duyện	ZI WO_1 YÊN_1 NC_1 |
+đụt	DI UN_1 TC_1 |
+ngổi	NGI ÔN_2 IC_2 |
+tặn	TI AN3_1 NC_1 |
+xuấ	XI WO_5 ÂN_5 |
+chut	CHI UN_0 TC_0 |
+giọi	ZI ON2_1 IC_1 |
+dp	ZI PC_0 |
+ươ	ƯN_0 ƠC_0 |
+gượm	GI ƯƠN_1 MC_1 |
+hâp	HI ÂN_0 PC_0 |
+ỡ	ƠC_3 |
+viềng	VI IÊN_4 NGC_4 |
+rảy	RI AN3_2 YC_2 |
+bủm	BI UN_2 MC_2 |
+nghện	NGI ÊN_1 NC_1 |
+đững	DI ƯN_3 NGC_3 |
+àng	AN1_4 NGC_4 |
+lón	LI ON2_5 NC_5 |
+nhoang	NHI WO_0 AN1_0 NGC_0 |
+đaọ	DI AN2_1 UC_1 |
+chũ	CHI UN_3 |
+khắ	KHI AN3_5 |
+khĩ	KHI IN_3 |
+tuối	TI UÔN_5 IC_5 |
+choẹ	CHI WO_1 EN_1 |
+thẩy	THI ÂN_2 YC_2 |
+xòn	XI ON2_4 NC_4 |
+hỗi	HI ÔN_3 IC_3 |
+thầnh	THI ÂN_4 NGC_4 |
+vường	VI ƯƠN_4 NGC_4 |
+tấ	TI ÂN_5 |
+tớp	TI ƠN_5 PC_5 |
+quíu	KI WO_5 IN_5 UC_5 |
+nghẹo	NGI EN_1 UC_1 |
+oo	ON2_0 UC_0 |
+ngi	NGI IN_0 |
+phắn	PHI AN3_5 NC_5 |
+phấm	PHI ÂN_5 MC_5 |
+vưc	VI ƯN_0 KC_0 |
+tuôi	TI UÔN_0 IC_0 |
+đãn	DI AN2_3 NC_3 |
+quàn	KI UÔN_4 NC_4 |
+chắng	CHI AN3_5 NGC_5 |
+ngưạ	NGI ƯƠN_1 |
+trện	TRI ÊN_1 NC_1 |
+dẵm	ZI AN3_3 MC_3 |
+giõng	ZI ON1_3 NGC_3 |
+trng	TRI NGC_0 |
+iên	IÊN_0 NC_0 |
+bưới	BI ƯƠN_5 IC_5 |
+phìu	PHI IN_4 UC_4 |
+ghai	GI AN2_0 IC_0 |
+dé	ZI EN_5 |
+òi	ON2_4 IC_4 |
+got	GI ON2_0 TC_0 |
+phéo	PHI EN_5 UC_5 |
+oe	WO_0 EN_0 |
+nghẻ	NGI EN_2 |
+dom	ZI ON2_0 MC_0 |
+khở	KHI ƠC_2 |
+sênh	SI ÊN_0 NGC_0 |
+dịnh	ZI IN_1 NGC_1 |
+lịt	LI IN_1 TC_1 |
+đêu	DI ÊN_0 UC_0 |
+muố	MI UÔN_5 |
+tech	TI EN_0 KC_0 |
+dec	ZI EN_0 KC_0 |
+quit	KI WO_0 IN_0 TC_0 |
+ey	EN_0 YC_0 |
+xò	XI ON2_4 |
+tén	TI EN_5 NC_5 |
+giếc	ZI ÊN_5 KC_5 |
+chàu	CHI AN3_4 UC_4 |
+duo	ZI UN_0 UC_0 |
+dên	ZI ÊN_0 NC_0 |
+tèng	TI EN_4 NGC_4 |
+êi	ÊN_0 IC_0 |
+giôm	ZI ÔN_0 MC_0 |
+hm	HI MC_0 |
+chậc	CHI ÂN_1 KC_1 |
+tưa	TI ƯƠN_0 |
+hị	HI IN_1 |
+trip	TRI IN_0 PC_0 |
+sụng	SI UN_1 NGC_1 |
+đé	DI EN_5 |
+máp	MI AN2_5 PC_5 |
+ngặn	NGI AN3_1 NC_1 |
+lờm	LI ƠN_4 MC_4 |
+truê	TRI WO_0 ÊN_0 |
+dọp	ZI ON2_1 PC_1 |
+rềnh	RI ÊN_4 NGC_4 |
+mế	MI ÊN_5 |
+dẩy	ZI ÂN_2 YC_2 |
+vc	VI KC_0 |
+dạch	ZI AN1_1 KC_1 |
+vìa	VI IAN_4 |
+gun	GI UN_0 NC_0 |
+ghuôn	GI UÔN_0 NC_0 |
+suộc	SI UÔN_1 KC_1 |
+đựt	DI ƯN_1 TC_1 |
+khoàng	KHI WO_4 AN1_4 NGC_4 |
+chớt	CHI ƠN_5 TC_5 |
+gion	ZI ON2_0 NC_0 |
+giớn	ZI ƠN_5 NC_5 |
+git	ZI TC_0 |
+gho	GI ON2_0 |
+ấ	ÂN_5 |
+nhiễn	NHI IÊN_3 NC_3 |
+khoẳng	KHI WO_2 AN3_2 NGC_2 |
+cợn	KI ƠN_1 NC_1 |
+hươn	HI ƯƠN_0 NC_0 |
+đạy	DI AN3_1 YC_1 |
+trép	TRI EN_5 PC_5 |
+phầ	PHI ÂN_4 |
+thưc	THI ƯN_0 KC_0 |
+họi	HI ON2_1 IC_1 |
+huổi	HI UÔN_2 IC_2 |
+nghí	NGI IN_5 |
+muổng	MI UÔN_2 NGC_2 |
+thing	THI IN_0 NGC_0 |
+qué	KI WO_5 EN_5 |
+xom	XI ON2_0 MC_0 |
+hooc	HI WO_0 ON1_0 KC_0 |
+bưn	BI ƯN_0 NC_0 |
+nghiếc	NGI IÊN_5 KC_5 |
+tríp	TRI IN_5 PC_5 |
+xêm	XI ÊN_0 MC_0 |
+bừ	BI ƯC_4 |
+ghoai	GI WO_0 AN2_0 IC_0 |
+rặt	RI AN3_1 TC_1 |
+ngoẹ	NGI WO_1 EN_1 |
+uốc	UÔN_5 KC_5 |
+nghọe	NGI WO_1 EN_1 |
+nghoèo	NGI WO_4 EN_4 UC_4 |
+lượi	LI ƯƠN_1 IC_1 |
+duân	ZI WO_0 ÂN_0 NC_0 |
+boom	BI WO_0 ON2_0 MC_0 |
+hoach	HI WO_0 AN1_0 KC_0 |
+vầ	VI ÂN_4 |
+muốc	MI UÔN_5 KC_5 |
+cẳn	KI AN3_2 NC_2 |
+día	ZI IAN_5 |
+trễm	TRI ÊN_3 MC_3 |
+xục	XI UN_1 KC_1 |
+lei	LI EN_0 IC_0 |
+đự	DI ƯC_1 |
+kp	KI PC_0 |
+truông	TRI UÔN_0 NGC_0 |
+dựu	ZI ƯN_1 UC_1 |
+riệp	RI IÊN_1 PC_1 |
+câp	KI ÂN_0 PC_0 |
+loy	LI ON2_0 YC_0 |
+phuy	PHI UN_0 YC_0 |
+vư	VI ƯC_0 |
+rính	RI IN_5 NGC_5 |
+phám	PHI AN2_5 MC_5 |
+thựt	THI ƯN_1 TC_1 |
+troong	TRI WO_0 ON1_0 NGC_0 |
+òn	ON2_4 NC_4 |
+khỏan	KHI WO_2 AN2_2 NC_2 |
+lứt	LI ƯN_5 TC_5 |
+gỉa	ZI AN2_2 |
+úm	UN_5 MC_5 |
+sec	SI EN_0 KC_0 |
+tạn	TI AN2_1 NC_1 |
+ngằn	NGI AN3_4 NC_4 |
+cop	KI ON2_0 PC_0 |
+sớp	SI ƠN_5 PC_5 |
+cãy	KI AN3_3 YC_3 |
+sễ	SI ÊN_3 |
+sêm	SI ÊN_0 MC_0 |
+vễ	VI ÊN_3 |
+caí	KI AN2_5 IC_5 |
+cháp	CHI AN2_5 PC_5 |
+niê	NI IÊN_0 |
+đưu	DI ƯN_0 UC_0 |
+gớp	GI ƠN_5 PC_5 |
+néo	NI EN_5 UC_5 |
+têch	TI ÊN_0 KC_0 |
+gau	GI AN3_0 UC_0 |
+chuôm	CHI UÔN_0 MC_0 |
+trich	TRI IN_0 KC_0 |
+thưng	THI ƯN_0 NGC_0 |
+kit	KI IN_0 TC_0 |
+coo	KI ON2_0 UC_0 |
+căt	KI AN3_0 TC_0 |
+hac	HI AN1_0 KC_0 |
+ộng	ÔN_1 NGC_1 |
+khuẩy	KHI WO_2 ÂN_2 YC_2 |
+mốn	MI ÔN_5 NC_5 |
+vịêt	VI IÊN_1 TC_1 |
+nhâp	NHI ÂN_0 PC_0 |
+vam	VI AN2_0 MC_0 |
+thàu	THI AN3_4 UC_4 |
+đứn	DI ƯN_5 NC_5 |
+sc	SI KC_0 |
+mườ	MI ƯN_4 ƠC_4 |
+lữu	LI ƯN_3 UC_3 |
+cc	KI KC_0 |
+hóoc	HI WO_5 ON1_5 KC_5 |
+èm	EN_4 MC_4 |
+thiệ	THI IÊN_1 |
+néc	NI EN_5 KC_5 |
+phem	PHI EN_0 MC_0 |
+chuýt	CHI WO_5 IN_5 TC_5 |
+nhếp	NHI ÊN_5 PC_5 |
+sãn	SI AN2_3 NC_3 |
+viến	VI IÊN_5 NC_5 |
+khóan	KHI WO_5 AN2_5 NC_5 |
+ghìn	GI IN_4 NC_4 |
+mât	MI ÂN_0 TC_0 |
+vấu	VI ÂN_5 UC_5 |
+lám	LI AN2_5 MC_5 |
+qùa	KI UÔN_4 |
+đoc	DI ON1_0 KC_0 |
+ngừi	NGI ƯN_4 IC_4 |
+tiê	TI IÊN_0 |
+giậy	ZI ÂN_1 YC_1 |
+chôi	CHI ÔN_0 IC_0 |
+lơp	LI ƠN_0 PC_0 |
+dut	ZI UN_0 TC_0 |
+quao	KI UÔN_0 UC_0 |
+ẳn	AN3_2 NC_2 |
+xoán	XI WO_5 AN2_5 NC_5 |
+hya	HI YAN_0 |
+gầu	GI ÂN_4 UC_4 |
+thooc	THI WO_0 ON1_0 KC_0 |
+nhiu	NHI IN_0 UC_0 |
+hap	HI AN2_0 PC_0 |
+tếc	TI ÊN_5 KC_5 |
+thoan	THI WO_0 AN2_0 NC_0 |
+trột	TRI ÔN_1 TC_1 |
+hữa	HI ƯƠN_3 |
+giẫu	ZI ÂN_3 UC_3 |
+trèn	TRI EN_4 NC_4 |
+sại	SI AN2_1 IC_1 |
+tổi	TI ÔN_2 IC_2 |
+tuê	TI WO_0 ÊN_0 |
+ạnh	AN1_1 NGC_1 |
+thoàng	THI WO_4 AN1_4 NGC_4 |
+goài	GI WO_4 AN2_4 IC_4 |
+nèo	NI EN_4 UC_4 |
+hue	HI WO_0 EN_0 |
+phỏm	PHI ON2_2 MC_2 |
+boy	BI ON2_0 YC_0 |
+dười	ZI ƯƠN_4 IC_4 |
+khộng	KHI ÔN_1 NGC_1 |
+giạy	ZI AN3_1 YC_1 |
+khự	KHI ƯC_1 |
+sế	SI ÊN_5 |
+ằn	AN3_4 NC_4 |
+phăm	PHI AN3_0 MC_0 |
+trộ	TRI ÔN_1 |
+dức	ZI ƯN_5 KC_5 |
+cuổi	KI UÔN_2 IC_2 |
+choạp	CHI WO_1 AN2_1 PC_1 |
+nhính	NHI IN_5 NGC_5 |
+gòao	GI WO_4 AN2_4 UC_4 |
+xệt	XI ÊN_1 TC_1 |
+ruỳ	RI UN_4 YC_4 |
+bing	BI IN_0 NGC_0 |
+bâm	BI ÂN_0 MC_0 |
+vim	VI IN_0 MC_0 |
+ghớm	GI ƠN_5 MC_5 |
+khính	KHI IN_5 NGC_5 |
+xực	XI ƯN_1 KC_1 |
+síu	SI IN_5 UC_5 |
+ngiên	NGI IÊN_0 NC_0 |
+thoóch	THI WO_5 ON1_5 KC_5 |
+bậnh	BI ÂN_1 NGC_1 |
+huẩn	HI WO_2 ÂN_2 NC_2 |
+goem	GI WO_0 EN_0 MC_0 |
+ghuýt	GI WO_5 IN_5 TC_5 |
+ghoen	GI WO_0 EN_0 NC_0 |
+lếc	LI ÊN_5 KC_5 |
+nị	NI IN_1 |
+béch	BI EN_5 KC_5 |
+rốch	RI ÔN_5 KC_5 |
+géc	GI EN_5 KC_5 |
+ghích	GI IN_5 KC_5 |
+đượt	DI ƯƠN_1 TC_1 |
+súi	SI UN_5 IC_5 |
+vầu	VI ÂN_4 UC_4 |
+qùy	KI UN_4 YC_4 |
+nou	NI ON2_0 UC_0 |
+uốt	UÔN_5 TC_5 |
+ghên	GI ÊN_0 NC_0 |
+giứt	ZI ƯN_5 TC_5 |
+qu	KI UN_0 |
+đoảng	DI WO_2 AN1_2 NGC_2 |
+niều	NI IÊN_4 UC_4 |
+kn	KI NC_0 |
+đóoc	DI WO_5 ON1_5 KC_5 |
+tẽn	TI EN_3 NC_3 |
+doe	ZI WO_0 EN_0 |
+hừn	HI ƯN_4 NC_4 |
+hượng	HI ƯƠN_1 NGC_1 |
+bíp	BI IN_5 PC_5 |
+ngĩa	NGI IAN_3 |
+hơm	HI ƠN_0 MC_0 |
+ghoeo	GI WO_0 EN_0 UC_0 |
+hoát	HI WO_5 AN2_5 TC_5 |
+trẽ	TRI EN_3 |
+gôu	GI ÔN_0 UC_0 |
+châp	CHI ÂN_0 PC_0 |
+găn	GI AN3_0 NC_0 |
+phot	PHI ON2_0 TC_0 |
+huận	HI WO_1 ÂN_1 NC_1 |
+ruyt	RI WO_0 IN_0 TC_0 |
+trat	TRI AN2_0 TC_0 |
+thiệm	THI IÊN_1 MC_1 |
+nhên	NHI ÊN_0 NC_0 |
+nhụ	NHI UN_1 |
+vuon	VI WO_0 ON2_0 NC_0 |
+giay	ZI AN3_0 YC_0 |
+ghoa	GI WO_0 AN2_0 |
+mừi	MI ƯN_4 IC_4 |
+côt	KI ÔN_0 TC_0 |
+cại	KI AN2_1 IC_1 |
+xuốt	XI UÔN_5 TC_5 |
+op	ON2_0 PC_0 |
+lenh	LI EN_0 NGC_0 |
+that	THI AN2_0 TC_0 |
+uoc	WO_0 ON1_0 KC_0 |
+ghuê	GI WO_0 ÊN_0 |
+chiệt	CHI IÊN_1 TC_1 |
+oay	WO_0 AN3_0 YC_0 |
+suat	SI UÔN_0 TC_0 |
+sut	SI UN_0 TC_0 |
+óep	WO_5 EN_5 PC_5 |
+buoc	BI WO_0 ON1_0 KC_0 |
+thip	THI IN_0 PC_0 |
+mach	MI AN1_0 KC_0 |
+dựn	ZI ƯN_1 NC_1 |
+xec	XI EN_0 KC_0 |
+bêch	BI ÊN_0 KC_0 |
+thâỳ	THI ÂN_4 YC_4 |
+liệc	LI IÊN_1 KC_1 |
+uých	WO_5 IN_5 KC_5 |
+bâ	BI ÂN_0 |
+boc	BI ON1_0 KC_0 |
+xep	XI EN_0 PC_0 |
+xệp	XI ÊN_1 PC_1 |
+dânh	ZI ÂN_0 NGC_0 |
+roe	RI WO_0 EN_0 |
+xii	XI IN_0 IC_0 |
+đâý	DI ÂN_5 YC_5 |
+giựa	ZI ƯƠN_1 |
+tắng	TI AN3_5 NGC_5 |
+noc	NI ON1_0 KC_0 |
+troen	TRI WO_0 EN_0 NC_0 |
+vuong	VI WO_0 ON1_0 NGC_0 |
+mt	MI TC_0 |
+nhưư	NHI ƯN_0 ƯC_0 |
+muăng	MI WO_0 AN3_0 NGC_0 |
+chợn	CHI ƠN_1 NC_1 |
+yy	IN_0 YC_0 |
+chĩnh	CHI IN_3 NGC_3 |
+quyay	KI WO_0 YAN_0 YC_0 |
+dõ	ZI ON2_3 |
+qoả	KI WO_2 AN2_2 |
+đêo	DI ÊN_0 UC_0 |
+truim	TRI WO_0 IN_0 MC_0 |
+nuoi	NI WO_0 ON2_0 IC_0 |
+seu	SI EN_0 UC_0 |
+sẵ	SI AN3_3 |
+ruoi	RI WO_0 ON2_0 IC_0 |
+hùynh	HI WO_4 IN_4 NGC_4 |
+thei	THI EN_0 IC_0 |
+buc	BI UN_0 KC_0 |
+uôm	UÔN_0 MC_0 |
+bớn	BI ƠN_5 NC_5 |
+rài	RI AN2_4 IC_4 |
+phến	PHI ÊN_5 NC_5 |
+giăm	ZI AN3_0 MC_0 |
+toài	TI WO_4 AN2_4 IC_4 |
+nọn	NI ON2_1 NC_1 |
+tẽ	TI EN_3 |
+nĩa	NI IAN_3 |
+phổng	PHI ÔN_2 NGC_2 |
+xuyệt	XI WO_1 YÊN_1 TC_1 |
+đúm	DI UN_5 MC_5 |
+xớ	XI ƠC_5 |
+xộp	XI ÔN_1 PC_1 |
+rộc	RI ÔN_1 KC_1 |
+chựng	CHI ƯN_1 NGC_1 |
+mứa	MI ƯƠN_5 |
+nâm	NI ÂN_0 MC_0 |
+ẹm	EN_1 MC_1 |
+phính	PHI IN_5 NGC_5 |
+bương	BI ƯƠN_0 NGC_0 |
+đoòng	DI WO_4 ON1_4 NGC_4 |
+kyo	KI IN_0 UC_0 |
+nhôn	NHI ÔN_0 NC_0 |
+sướn	SI ƯƠN_5 NC_5 |
+sẽo	SI EN_3 UC_3 |
+cặc	KI AN3_1 KC_1 |
+vản	VI AN2_2 NC_2 |
+quớt	KI WO_5 ƠN_5 TC_5 |
+sềnh	SI ÊN_4 NGC_4 |
+sệch	SI ÊN_1 KC_1 |
+phọng	PHI ON1_1 NGC_1 |
+ngếch	NGI ÊN_5 KC_5 |
+luyền	LI WO_4 YÊN_4 NC_4 |
+ngãnh	NGI AN1_3 NGC_3 |
+ngương	NGI ƯƠN_0 NGC_0 |
+nòn	NI ON2_4 NC_4 |
+thẩ	THI ÂN_2 |
+cẩ	KI ÂN_2 |
+huyng	HI WO_0 IN_0 NGC_0 |
+hỏ	HI ON2_2 |
+xuâ	XI WO_0 ÂN_0 |
+miễm	MI IÊN_3 MC_3 |
+miêm	MI IÊN_0 MC_0 |
+quyêt	KI WO_0 YÊN_0 TC_0 |
+bứu	BI ƯN_5 UC_5 |
+ngõan	NGI WO_3 AN2_3 NC_3 |
+nhớm	NHI ƠN_5 MC_5 |
+nhit	NHI IN_0 TC_0 |
+biều	BI IÊN_4 UC_4 |
+nhoe	NHI WO_0 EN_0 |
+nhoét	NHI WO_5 EN_5 TC_5 |
+tẩt	TI ÂN_2 TC_2 |
+thuội	THI UÔN_1 IC_1 |
+nươi	NI ƯƠN_0 IC_0 |
+liểm	LI IÊN_2 MC_2 |
+thiế	THI IÊN_5 |
+nghoảnh	NGI WO_2 AN1_2 NGC_2 |
+khúât	KHI WO_5 ÂN_5 TC_5 |
+tượn	TI ƯƠN_1 NC_1 |
+laỵ	LI AN3_1 YC_1 |
+luô	LI UÔN_0 |
+nguyệ	NGI WO_1 YÊN_1 |
+nguươi	NGI WO_0 ƯƠN_0 IC_0 |
+gượn	GI ƯƠN_1 NC_1 |
+rấc	RI ÂN_5 KC_5 |
+trâng	TRI ÂN_0 NGC_0 |
+khầu	KHI ÂN_4 UC_4 |
+donh	ZI ON1_0 NGC_0 |
+cứi	KI ƯN_5 IC_5 |
+hền	HI ÊN_4 NC_4 |
+qau	KI AN3_0 UC_0 |
+ghiềm	GI IÊN_4 MC_4 |
+oắc	WO_5 AN3_5 KC_5 |
+hiễn	HI IÊN_3 NC_3 |
+uyết	WO_5 YÊN_5 TC_5 |
+quịt	KI WO_1 IN_1 TC_1 |
+dịa	ZI IAN_1 |
+buá	BI UÔN_5 |
+giữan	ZI ƯƠN_3 NC_3 |
+gịong	ZI ON1_1 NGC_1 |
+sap	SI AN2_0 PC_0 |
+hươi	HI ƯƠN_0 IC_0 |
+đuà	DI UÔN_4 |
+chuẫn	CHI WO_3 ÂN_3 NC_3 |
+bạng	BI AN1_1 NGC_1 |
+giâ	ZI ÂN_0 |
+riệc	RI IÊN_1 KC_1 |
+đât	DI ÂN_0 TC_0 |
+đuội	DI UÔN_1 IC_1 |
+vúi	VI UN_5 IC_5 |
+hiễu	HI IÊN_3 UC_3 |
+đãc	DI AN1_3 KC_3 |
+cóăn	KI WO_5 AN3_5 NC_5 |
+ngâ	NGI ÂN_0 |
+phãi	PHI AN2_3 IC_3 |
+gường	GI ƯƠN_4 NGC_4 |
+ngủa	NGI UÔN_2 |
+thọat	THI WO_1 AN2_1 TC_1 |
+nhảo	NHI AN2_2 UC_2 |
+khuéch	KHI WO_5 EN_5 KC_5 |
+líêc	LI IÊN_5 KC_5 |
+họan	HI WO_1 AN2_1 NC_1 |
+khổn	KHI ÔN_2 NC_2 |
+gách	GI AN1_5 KC_5 |
+thoã	THI WO_3 AN2_3 |
+tền	TI ÊN_4 NC_4 |
+qụat	KI UÔN_1 TC_1 |
+tuúi	TI WO_5 UN_5 IC_5 |
+phựt	PHI ƯN_1 TC_1 |
+ườn	ƯƠN_4 NC_4 |
+nháng	NHI AN1_5 NGC_5 |
+cùnh	KI UN_4 NGC_4 |
+đuộc	DI UÔN_1 KC_1 |
+ngắng	NGI AN3_5 NGC_5 |
+ơỡ	ƠN_3 ƠC_3 |
+giạt	ZI AN2_1 TC_1 |
+kìêm	KI IÊN_4 MC_4 |
+trẹ	TRI EN_1 |
+oàng	WO_4 AN1_4 NGC_4 |
+ngở	NGI ƠC_2 |
+iả	IAN_2 |
+mưứ	MI ƯN_5 ƯC_5 |
+hởm	HI ƠN_2 MC_2 |
+phặp	PHI AN3_1 PC_1 |
+ngồ	NGI ÔN_4 |
+trản	TRI AN2_2 NC_2 |
+xậm	XI ÂN_1 MC_1 |
+rướu	RI ƯƠN_5 UC_5 |
+rứng	RI ƯN_5 NGC_5 |
+nhoai	NHI WO_0 AN2_0 IC_0 |
+xuóng	XI WO_5 ON1_5 NGC_5 |
+chuế	CHI WO_5 ÊN_5 |
+gịuc	ZI UN_1 KC_1 |
+gúo	GI UN_5 UC_5 |
+ngốt	NGI ÔN_5 TC_5 |
+xoại	XI WO_1 AN2_1 IC_1 |
+niễng	NI IÊN_3 NGC_3 |
+gống	GI ÔN_5 NGC_5 |
+noản	NI WO_2 AN2_2 NC_2 |
+bướt	BI ƯƠN_5 TC_5 |
+gôi	GI ÔN_0 IC_0 |
+nẹn	NI EN_1 NC_1 |
+dẩu	ZI ÂN_2 UC_2 |
+quến	KI WO_5 ÊN_5 NC_5 |
+luăng	LI WO_0 AN3_0 NGC_0 |
+luỗng	LI UÔN_3 NGC_3 |
+ngẫn	NGI ÂN_3 NC_3 |
+nghên	NGI ÊN_0 NC_0 |
+xửng	XI ƯN_2 NGC_2 |
+vửng	VI ƯN_2 NGC_2 |
+nũ	NI UN_3 |
+thuông	THI UÔN_0 NGC_0 |
+hánh	HI AN1_5 NGC_5 |
+nủng	NI UN_2 NGC_2 |
+cãng	KI AN1_3 NGC_3 |
+chuỵên	CHI WO_1 YÊN_1 NC_1 |
+nhượt	NHI ƯƠN_1 TC_1 |
+vều	VI ÊN_4 UC_4 |
+trằng	TRI AN3_4 NGC_4 |
+bồm	BI ÔN_4 MC_4 |
+rịm	RI IN_1 MC_1 |
+lựt	LI ƯN_1 TC_1 |
+chêng	CHI ÊN_0 NGC_0 |
+hunh	HI UN_0 NGC_0 |
+giãu	ZI AN3_3 UC_3 |
+tiểi	TI IÊN_2 IC_2 |
+ghèn	GI EN_4 NC_4 |
+muón	MI WO_5 ON2_5 NC_5 |
+hoặt	HI WO_1 AN3_1 TC_1 |
+xuỵt	XI WO_1 IN_1 TC_1 |
+biệu	BI IÊN_1 UC_1 |
+hẫu	HI ÂN_3 UC_3 |
+vỏi	VI ON2_2 IC_2 |
+họm	HI ON2_1 MC_1 |
+hẹm	HI EN_1 MC_1 |
+tờm	TI ƠN_4 MC_4 |
+ngé	NGI EN_5 |
+đãnh	DI AN1_3 NGC_3 |
+chy	CHI IN_0 |
+lonh	LI ON1_0 NGC_0 |
+nhỏi	NHI ON2_2 IC_2 |
+noí	NI ON2_5 IC_5 |
+chĩu	CHI IN_3 UC_3 |
+giuúp	ZI WO_5 UN_5 PC_5 |
+mỉu	MI IN_2 UC_2 |
+ngũi	NGI UN_3 IC_3 |
+duột	ZI UÔN_1 TC_1 |
+vọi	VI ON2_1 IC_1 |
+lỉa	LI IAN_2 |
+bưc	BI ƯN_0 KC_0 |
+chuán	CHI UÔN_5 NC_5 |
+chuáng	CHI UÔN_5 NGC_5 |
+mỉnh	MI IN_2 NGC_2 |
+ngươc	NGI ƯƠN_0 KC_0 |
+đãy	DI AN3_3 YC_3 |
+chunh	CHI UN_0 NGC_0 |
+rấu	RI ÂN_5 UC_5 |
+trứơc	TRI ƯƠN_5 KC_5 |
+chuội	CHI UÔN_1 IC_1 |
+mầng	MI ÂN_4 NGC_4 |
+ngỗn	NGI ÔN_3 NC_3 |
+ruộc	RI UÔN_1 KC_1 |
+kúc	KI UN_5 KC_5 |
+từo	TI ƯN_4 UC_4 |
+nhượ	NHI ƯN_1 ƠC_1 |
+thên	THI ÊN_0 NC_0 |
+trồm	TRI ÔN_4 MC_4 |
+xĩa	XI IAN_3 |
+gọc	GI ON1_1 KC_1 |
+hìa	HI IAN_4 |
+tướt	TI ƯƠN_5 TC_5 |
+giởn	ZI ƠN_2 NC_2 |
+xẫm	XI ÂN_3 MC_3 |
+kữ	KI ƯC_3 |
+gặ	GI AN3_1 |
+huyênh	HI WO_0 YÊN_0 NGC_0 |
+luỉ	LI UN_2 IC_2 |
+xúông	XI UÔN_5 NGC_5 |
+biệ	BI IÊN_1 |
+chiỉ	CHI IN_2 IC_2 |
+trền	TRI ÊN_4 NC_4 |
+lẽm	LI EN_3 MC_3 |
+hụê	HI WO_1 ÊN_1 |
+saỏ	SI AN2_2 UC_2 |
+chãy	CHI AN3_3 YC_3 |
+vữang	VI ƯƠN_3 NGC_3 |
+nhẳn	NHI AN3_2 NC_2 |
+tuừ	TI UN_4 ƯC_4 |
+sược	SI ƯƠN_1 KC_1 |
+hoáng	HI WO_5 AN1_5 NGC_5 |
+guơm	GI WO_0 ƠN_0 MC_0 |
+đẹ	DI EN_1 |
+xấn	XI ÂN_5 NC_5 |
+xọ	XI ON2_1 |
+nảo	NI AN2_2 UC_2 |
+câỵ	KI ÂN_1 YC_1 |
+ngoặm	NGI WO_1 AN3_1 MC_1 |
+sãng	SI AN1_3 NGC_3 |
+tửi	TI ƯN_2 IC_2 |
+xiệc	XI IÊN_1 KC_1 |
+khứng	KHI ƯN_5 NGC_5 |
+gọp	GI ON2_1 PC_1 |
+qùi	KI UN_4 IC_4 |
+chíên	CHI IÊN_5 NC_5 |
+vịi	VI IN_1 IC_1 |
+mệng	MI ÊN_1 NGC_1 |
+khunh	KHI UN_0 NGC_0 |
+đệu	DI ÊN_1 UC_1 |
+đườ	DI ƯN_4 ƠC_4 |
+riễu	RI IÊN_3 UC_3 |
+qân	KI ÂN_0 NC_0 |
+vũi	VI UN_3 IC_3 |
+bứơu	BI ƯƠN_5 UC_5 |
+trử	TRI ƯC_2 |
+nhếc	NHI ÊN_5 KC_5 |
+vộu	VI ÔN_1 UC_1 |
+going	GI WO_0 IN_0 NGC_0 |
+luyệt	LI WO_1 YÊN_1 TC_1 |
+nhuưng	NHI WO_0 ƯN_0 NGC_0 |
+nghic	NGI IN_0 KC_0 |
+chuyệt	CHI WO_1 YÊN_1 TC_1 |
+hính	HI IN_5 NGC_5 |
+chỏang	CHI WO_2 AN1_2 NGC_2 |
+tểnh	TI ÊN_2 NGC_2 |
+dắn	ZI AN3_5 NC_5 |
+dâỵ	ZI ÂN_1 YC_1 |
+dống	ZI ÔN_5 NGC_5 |
+kừn	KI ƯN_4 NC_4 |
+bĩ	BI IN_3 |
+ãi	AN2_3 IC_3 |
+thuương	THI WO_0 ƯƠN_0 NGC_0 |
+bững	BI ƯN_3 NGC_3 |
+naò	NI AN2_4 UC_4 |
+sìu	SI IN_4 UC_4 |
+chng	CHI NGC_0 |
+thớn	THI ƠN_5 NC_5 |
+giiờ	ZI IN_4 ƠC_4 |
+dnh	ZI NGC_0 |
+lõe	LI WO_3 EN_3 |
+chượt	CHI ƯƠN_1 TC_1 |
+hịnh	HI IN_1 NGC_1 |
+saọ	SI AN2_1 UC_1 |
+miểng	MI IÊN_2 NGC_2 |
+maụ	MI AN3_1 UC_1 |
+ởi	ƠN_2 IC_2 |
+hỳ	HI IN_4 |
+hật	HI ÂN_1 TC_1 |
+lẫo	LI ÂN_3 UC_3 |
+xoen	XI WO_0 EN_0 NC_0 |
+xoét	XI WO_5 EN_5 TC_5 |
+trãng	TRI AN1_3 NGC_3 |
+nẫn	NI ÂN_3 NC_3 |
+nhòai	NHI WO_4 AN2_4 IC_4 |
+kiả	KI IAN_2 |
+tởn	TI ƠN_2 NC_2 |
+mắy	MI AN3_5 YC_5 |
+ẩy	ÂN_2 YC_2 |
+sồm	SI ÔN_4 MC_4 |
+soàm	SI WO_4 AN2_4 MC_4 |
+thỏai	THI WO_2 AN2_2 IC_2 |
+bíên	BI IÊN_5 NC_5 |
+lụm	LI UN_1 MC_1 |
+gẳ	GI AN3_2 |
+koong	KI WO_0 ON1_0 NGC_0 |
+cũa	KI UÔN_3 |
+giếu	ZI ÊN_5 UC_5 |
+cững	KI ƯN_3 NGC_3 |
+mổi	MI ÔN_2 IC_2 |
+dướn	ZI ƯƠN_5 NC_5 |
+đâỵ	DI ÂN_1 YC_1 |
+maỵ	MI AN3_1 YC_1 |
+sịu	SI IN_1 UC_1 |
+phỏi	PHI ON2_2 IC_2 |
+nế	NI ÊN_5 |
+húm	HI UN_5 MC_5 |
+nhẻo	NHI EN_2 UC_2 |
+choằn	CHI WO_4 AN3_4 NC_4 |
+chữi	CHI ƯN_3 IC_3 |
+ủm	UN_2 MC_2 |
+khuỷ	KHI UN_2 YC_2 |
+nuơng	NI WO_0 ƠN_0 NGC_0 |
+nhén	NHI EN_5 NC_5 |
+nều	NI ÊN_4 UC_4 |
+vòn	VI ON2_4 NC_4 |
+lứ	LI ƯC_5 |
+hệu	HI ÊN_1 UC_1 |
+hòanh	HI WO_4 AN1_4 NGC_4 |
+ngoẽo	NGI WO_3 EN_3 UC_3 |
+ưử	ƯN_2 ƯC_2 |
+mứ	MI ƯC_5 |
+thạ	THI AN2_1 |
+lểnh	LI ÊN_2 NGC_2 |
+xón	XI ON2_5 NC_5 |
+lỗng	LI ÔN_3 NGC_3 |
+ngiêng	NGI IÊN_0 NGC_0 |
+khươn	KHI ƯƠN_0 NC_0 |
+giya	ZI YAN_0 |
+viềm	VI IÊN_4 MC_4 |
+niểu	NI IÊN_2 UC_2 |
+trổng	TRI ÔN_2 NGC_2 |
+lớng	LI ƠN_5 NGC_5 |
+khõ	KHI ON2_3 |
+tướp	TI ƯƠN_5 PC_5 |
+thc	THI KC_0 |
+ngớn	NGI ƠN_5 NC_5 |
+nghạnh	NGI AN1_1 NGC_1 |
+nhồn	NHI ÔN_4 NC_4 |
+miệnh	MI IÊN_1 NGC_1 |
+náng	NI AN1_5 NGC_5 |
+hỡ	HI ƠC_3 |
+vưng	VI ƯN_0 NGC_0 |
+nỏn	NI ON2_2 NC_2 |
+tròm	TRI ON2_4 MC_4 |
+trõm	TRI ON2_3 MC_3 |
+sặn	SI AN3_1 NC_1 |
+phọc	PHI ON1_1 KC_1 |
+cấ	KI ÂN_5 |
+thêt	THI ÊN_0 TC_0 |
+xiểm	XI IÊN_2 MC_2 |
+gẩm	GI ÂN_2 MC_2 |
+trẩy	TRI ÂN_2 YC_2 |
+vếu	VI ÊN_5 UC_5 |
+bặng	BI AN3_1 NGC_1 |
+vuợn	VI WO_1 ƠN_1 NC_1 |
+lảu	LI AN3_2 UC_2 |
+nhẵng	NHI AN3_3 NGC_3 |
+ghếch	GI ÊN_5 KC_5 |
+nghiĩ	NGI IN_3 IC_3 |
+xỏa	XI WO_2 AN2_2 |
+xuội	XI UÔN_1 IC_1 |
+hưũ	HI ƯN_3 UC_3 |
+chât	CHI ÂN_0 TC_0 |
+sẳng	SI AN3_2 NGC_2 |
+chơp	CHI ƠN_0 PC_0 |
+ngúc	NGI UN_5 KC_5 |
+cẫn	KI ÂN_3 NC_3 |
+khíên	KHI IÊN_5 NC_5 |
+tíêng	TI IÊN_5 NGC_5 |
+buớc	BI WO_5 ƠN_5 KC_5 |
+mãy	MI AN3_3 YC_3 |
+oể	WO_2 ÊN_2 |
+cợ	KI ƠC_1 |
+nún	NI UN_5 NC_5 |
+đỡn	DI ƠN_3 NC_3 |
+vuùng	VI WO_4 UN_4 NGC_4 |
+mọot	MI WO_1 ON2_1 TC_1 |
+mừc	MI ƯN_4 KC_4 |
+xoải	XI WO_2 AN2_2 IC_2 |
+tóet	TI WO_5 EN_5 TC_5 |
+khuỷa	KHI WO_2 YAN_2 |
+hểnh	HI ÊN_2 NGC_2 |
+duung	ZI WO_0 UN_0 NGC_0 |
+trụu	TRI UN_1 UC_1 |
+huỵ	HI UN_1 YC_1 |
+huỷnh	HI WO_2 IN_2 NGC_2 |
+tạy	TI AN3_1 YC_1 |
+khuếc	KHI WO_5 ÊN_5 KC_5 |
+xột	XI ÔN_1 TC_1 |
+luợng	LI WO_1 ƠN_1 NGC_1 |
+truyệt	TRI WO_1 YÊN_1 TC_1 |
+tuu	TI UN_0 UC_0 |
+phưỡn	PHI ƯƠN_3 NC_3 |
+thếy	THI ÊN_5 YC_5 |
+ự	ƯC_1 |
+muột	MI UÔN_1 TC_1 |
+khỗ	KHI ÔN_3 |
+xụm	XI UN_1 MC_1 |
+phịt	PHI IN_1 TC_1 |
+cuột	KI UÔN_1 TC_1 |
+khé	KHI EN_5 |
+ngịch	NGI IN_1 KC_1 |
+ngệch	NGI ÊN_1 KC_1 |
+thếm	THI ÊN_5 MC_5 |
+xụyt	XI WO_1 IN_1 TC_1 |
+thõm	THI ON2_3 MC_3 |
+huỏng	HI WO_2 ON1_2 NGC_2 |
+nghau	NGI AN3_0 UC_0 |
+kaỷ	KI AN3_2 YC_2 |
+đọi	DI ON2_1 IC_1 |
+phệch	PHI ÊN_1 KC_1 |
+giạn	ZI AN2_1 NC_1 |
+buị	BI UN_1 IC_1 |
+khắm	KHI AN3_5 MC_5 |
+ỏa	WO_2 AN2_2 |
+týt	TI IN_5 TC_5 |
+lỡm	LI ƠN_3 MC_3 |
+tiềng	TI IÊN_4 NGC_4 |
+bởn	BI ƠN_2 NC_2 |
+laị	LI AN2_1 IC_1 |
+chuả	CHI UÔN_2 |
+thùn	THI UN_4 NC_4 |
+đễn	DI ÊN_3 NC_3 |
+cuỗm	KI UÔN_3 MC_3 |
+nun	NI UN_0 NC_0 |
+ngưn	NGI ƯN_0 NC_0 |
+liểu	LI IÊN_2 UC_2 |
+chíng	CHI IN_5 NGC_5 |
+cônh	KI ÔN_0 NGC_0 |
+chưỡng	CHI ƯƠN_3 NGC_3 |
+diểu	ZI IÊN_2 UC_2 |
+tya	TI YAN_0 |
+híc	HI IN_5 KC_5 |
+đóai	DI WO_5 AN2_5 IC_5 |
+vể	VI ÊN_2 |
+thầi	THI ÂN_4 IC_4 |
+triến	TRI IÊN_5 NC_5 |
+phớp	PHI ƠN_5 PC_5 |
+yế	YÊN_5 |
+trõ	TRI ON2_3 |
+trậng	TRI ÂN_1 NGC_1 |
+ngầng	NGI ÂN_4 NGC_4 |
+cợp	KI ƠN_1 PC_1 |
+uỳnh	WO_4 IN_4 NGC_4 |
+toảng	TI WO_2 AN1_2 NGC_2 |
+xuộng	XI UÔN_1 NGC_1 |
+nhộp	NHI ÔN_1 PC_1 |
+truốc	TRI UÔN_5 KC_5 |
+thóai	THI WO_5 AN2_5 IC_5 |
+têu	TI ÊN_0 UC_0 |
+khưỡng	KHI ƯƠN_3 NGC_3 |
+roạt	RI WO_1 AN2_1 TC_1 |
+kẹ	KI EN_1 |
+quèo	KI WO_4 EN_4 UC_4 |
+sọat	SI WO_1 AN2_1 TC_1 |
+nío	NI IN_5 UC_5 |
+chuởng	CHI WO_2 ƠN_2 NGC_2 |
+chùông	CHI UÔN_4 NGC_4 |
+nhõi	NHI ON2_3 IC_3 |
+ậng	ÂN_1 NGC_1 |
+nhoại	NHI WO_1 AN2_1 IC_1 |
+lợng	LI ƠN_1 NGC_1 |
+xướt	XI ƯƠN_5 TC_5 |
+goị	GI ON2_1 IC_1 |
+rũa	RI UÔN_3 |
+cưởi	KI ƯƠN_2 IC_2 |
+khửng	KHI ƯN_2 NGC_2 |
+vệc	VI ÊN_1 KC_1 |
+lõang	LI WO_3 AN1_3 NGC_3 |
+lệng	LI ÊN_1 NGC_1 |
+leu	LI EN_0 UC_0 |
+ữa	ƯƠN_3 |
+sot	SI ON2_0 TC_0 |
+hỗm	HI ÔN_3 MC_3 |
+rứ	RI ƯC_5 |
+nghéo	NGI EN_5 UC_5 |
+nhỗ	NHI ÔN_3 |
+chẽo	CHI EN_3 UC_3 |
+táu	TI AN3_5 UC_5 |
+chược	CHI ƯƠN_1 KC_1 |
+nghểu	NGI ÊN_2 UC_2 |
+lêm	LI ÊN_0 MC_0 |
+nớc	NI ƠN_5 KC_5 |
+giưởng	ZI ƯƠN_2 NGC_2 |
+nguồi	NGI UÔN_4 IC_4 |
+guyễn	GI WO_3 YÊN_3 NC_3 |
+đễu	DI ÊN_3 UC_3 |
+khìn	KHI IN_4 NC_4 |
+hém	HI EN_5 MC_5 |
+văm	VI AN3_0 MC_0 |
+đạu	DI AN3_1 UC_1 |
+sảm	SI AN2_2 MC_2 |
+nhổng	NHI ÔN_2 NGC_2 |
+sộc	SI ÔN_1 KC_1 |
+giùng	ZI UN_4 NGC_4 |
+rở	RI ƠC_2 |
+họat	HI WO_1 AN2_1 TC_1 |
+cế	KI ÊN_5 |
+trei	TRI EN_0 IC_0 |
+phiều	PHI IÊN_4 UC_4 |
+nghịc	NGI IN_1 KC_1 |
+ngưc	NGI ƯN_0 KC_0 |
+sọng	SI ON1_1 NGC_1 |
+khúch	KHI UN_5 KC_5 |
+nhấy	NHI ÂN_5 YC_5 |
+choích	CHI WO_5 IN_5 KC_5 |
+ngợc	NGI ƠN_1 KC_1 |
+mững	MI ƯN_3 NGC_3 |
+khẩp	KHI ÂN_2 PC_2 |
+nuộm	NI UÔN_1 MC_1 |
+lẻng	LI EN_2 NGC_2 |
+xất	XI ÂN_5 TC_5 |
+cõn	KI ON2_3 NC_3 |
+vẫm	VI ÂN_3 MC_3 |
+xoat	XI WO_0 AN2_0 TC_0 |
+oáng	WO_5 AN1_5 NGC_5 |
+giúi	ZI UN_5 IC_5 |
+thuơng	THI WO_0 ƠN_0 NGC_0 |
+xỡ	XI ƠC_3 |
+xuật	XI WO_1 ÂN_1 TC_1 |
+đâỷ	DI ÂN_2 YC_2 |
+luạ	LI UÔN_1 |
+đụp	DI UN_1 PC_1 |
+riếng	RI IÊN_5 NGC_5 |
+ữ	ƯC_3 |
+khuýp	KHI WO_5 IN_5 PC_5 |
+đuã	DI UÔN_3 |
+hiễm	HI IÊN_3 MC_3 |
+ậu	ÂN_1 UC_1 |
+võõ	VI ON2_3 UC_3 |
+gấn	GI ÂN_5 NC_5 |
+soo	SI ON2_0 UC_0 |
+vưa	VI ƯƠN_0 |
+khoông	KHI WO_0 ÔN_0 NGC_0 |
+vio	VI IN_0 UC_0 |
+ạn	AN2_1 NC_1 |
+quẩng	KI WO_2 ÂN_2 NGC_2 |
+ngẹt	NGI EN_1 TC_1 |
+rấn	RI ÂN_5 NC_5 |
+kếu	KI ÊN_5 UC_5 |
+khoãn	KHI WO_3 AN2_3 NC_3 |
+lẹnh	LI EN_1 NGC_1 |
+cỵai	KI YAN_1 IC_1 |
+phị	PHI IN_1 |
+ngướu	NGI ƯƠN_5 UC_5 |
+thẩu	THI ÂN_2 UC_2 |
+chẵng	CHI AN3_3 NGC_3 |
+ngoạ	NGI WO_1 AN2_1 |
+vaò	VI AN2_4 UC_4 |
+đứnh	DI ƯN_5 NGC_5 |
+ngẻo	NGI EN_2 UC_2 |
+thọi	THI ON2_1 IC_1 |
+đíc	DI IN_5 KC_5 |
+nhéch	NHI EN_5 KC_5 |
+khựa	KHI ƯƠN_1 |
+qủi	KI UN_2 IC_2 |
+rạy	RI AN3_1 YC_1 |
+thửo	THI ƯN_2 UC_2 |
+trủm	TRI UN_2 MC_2 |
+khàm	KHI AN2_4 MC_4 |
+thúch	THI UN_5 KC_5 |
+thươn	THI ƯƠN_0 NC_0 |
+địêu	DI IÊN_1 UC_1 |
+buối	BI UÔN_5 IC_5 |
+ngàm	NGI AN2_4 MC_4 |
+thuớc	THI WO_5 ƠN_5 KC_5 |
+khếch	KHI ÊN_5 KC_5 |
+trới	TRI ƠN_5 IC_5 |
+xèm	XI EN_4 MC_4 |
+thn	THI NC_0 |
+ngiến	NGI IÊN_5 NC_5 |
+ngượi	NGI ƯƠN_1 IC_1 |
+bằnh	BI AN3_4 NGC_4 |
+hoỏi	HI WO_2 ON2_2 IC_2 |
+lậi	LI ÂN_1 IC_1 |
+luót	LI WO_5 ON2_5 TC_5 |
+snh	SI NGC_0 |
+tọn	TI ON2_1 NC_1 |
+huyển	HI WO_2 YÊN_2 NC_2 |
+yếi	YÊN_5 IC_5 |
+gới	GI ƠN_5 IC_5 |
+khep	KHI EN_0 PC_0 |
+cưỡm	KI ƯƠN_3 MC_3 |
+nĩ	NI IN_3 |
+sịch	SI IN_1 KC_1 |
+oá	WO_5 AN2_5 |
+giaữ	ZI AN2_3 ƯC_3 |
+rấp	RI ÂN_5 PC_5 |
+buyệt	BI WO_1 YÊN_1 TC_1 |
+dủng	ZI UN_2 NGC_2 |
+cuất	KI WO_5 ÂN_5 TC_5 |
+chóang	CHI WO_5 AN1_5 NGC_5 |
+đêi	DI ÊN_0 IC_0 |
+phẫm	PHI ÂN_3 MC_3 |
+ruỗi	RI UÔN_3 IC_3 |
+dễn	ZI ÊN_3 NC_3 |
+quặm	KI WO_1 AN3_1 MC_1 |
+sonh	SI ON1_0 NGC_0 |
+lử	LI ƯC_2 |
+cổi	KI ÔN_2 IC_2 |
+nhạnh	NHI AN1_1 NGC_1 |
+ngối	NGI ÔN_5 IC_5 |
+chuệnh	CHI WO_1 ÊN_1 NGC_1 |
+gióa	ZI WO_5 AN2_5 |
+vỗi	VI ÔN_3 IC_3 |
+mặnh	MI AN3_1 NGC_1 |
+dệnh	ZI ÊN_1 NGC_1 |
+iám	IAN_5 MC_5 |
+ính	IN_5 NGC_5 |
+khẳ	KHI AN3_2 |
+địn	DI IN_1 NC_1 |
+moọt	MI WO_1 ON2_1 TC_1 |
+khoằn	KHI WO_4 AN3_4 NC_4 |
+ngộc	NGI ÔN_1 KC_1 |
+mự	MI ƯC_1 |
+ãm	AN2_3 MC_3 |
+vẫng	VI ÂN_3 NGC_3 |
+phưu	PHI ƯN_0 UC_0 |
+nâp	NI ÂN_0 PC_0 |
+lầng	LI ÂN_4 NGC_4 |
+loàng	LI WO_4 AN1_4 NGC_4 |
+nứng	NI ƯN_5 NGC_5 |
+chuôt	CHI UÔN_0 TC_0 |
+hệp	HI ÊN_1 PC_1 |
+nhue	NHI WO_0 EN_0 |
+tếm	TI ÊN_5 MC_5 |
+kệp	KI ÊN_1 PC_1 |
+cẩng	KI ÂN_2 NGC_2 |
+đệch	DI ÊN_1 KC_1 |
+đẹo	DI EN_1 UC_1 |
+uam	UÔN_0 MC_0 |
+huốn	HI UÔN_5 NC_5 |
+kuyt	KI WO_0 IN_0 TC_0 |
+baì	BI AN2_4 IC_4 |
+tng	TI NGC_0 |
+hoom	HI WO_0 ON2_0 MC_0 |
+phâm	PHI ÂN_0 MC_0 |
+vuằ	VI WO_4 AN3_4 |
+choạt	CHI WO_1 AN2_1 TC_1 |
+hõng	HI ON1_3 NGC_3 |
+gião	ZI AN2_3 UC_3 |
+thỉa	THI IAN_2 |
+tẳng	TI AN3_2 NGC_2 |
+bợi	BI ƠN_1 IC_1 |
+thồn	THI ÔN_4 NC_4 |
+too	TI ON2_0 UC_0 |
+sẳn	SI AN3_2 NC_2 |
+ruỗng	RI UÔN_3 NGC_3 |
+cưởng	KI ƯƠN_2 NGC_2 |
+vủ	VI UN_2 |
+xoãi	XI WO_3 AN2_3 IC_3 |
+gém	GI EN_5 MC_5 |
+nhip	NHI IN_0 PC_0 |
+xủa	XI UÔN_2 |
+nhoẽn	NHI WO_3 EN_3 NC_3 |
+nẳng	NI AN3_2 NGC_2 |
+giot	ZI ON2_0 TC_0 |
+xùi	XI UN_4 IC_4 |
+đểnh	DI ÊN_2 NGC_2 |
+chèm	CHI EN_4 MC_4 |
+nhỉm	NHI IN_2 MC_2 |
+biệng	BI IÊN_1 NGC_1 |
+bỏa	BI WO_2 AN2_2 |
+ngong	NGI ON1_0 NGC_0 |
+gời	GI ƠN_4 IC_4 |
+oạt	WO_1 AN2_1 TC_1 |
+ngyà	NGI YAN_4 |
+giưa	ZI ƯƠN_0 |
+tĩ	TI IN_3 |
+oin	WO_0 IN_0 NC_0 |
+nính	NI IN_5 NGC_5 |
+vãy	VI AN3_3 YC_3 |
+chụi	CHI UN_1 IC_1 |
+triếc	TRI IÊN_5 KC_5 |
+thửu	THI ƯN_2 UC_2 |
+xồi	XI ÔN_4 IC_4 |
+nhừo	NHI ƯN_4 UC_4 |
+nhợn	NHI ƠN_1 NC_1 |
+ngụi	NGI UN_1 IC_1 |
+cữa	KI ƯƠN_3 |
+trừi	TRI ƯN_4 IC_4 |
+mén	MI EN_5 NC_5 |
+rep	RI EN_0 PC_0 |
+thứt	THI ƯN_5 TC_5 |
+hẹc	HI EN_1 KC_1 |
+châng	CHI ÂN_0 NGC_0 |
+xuý	XI UN_5 YC_5 |
+nhóp	NHI ON2_5 PC_5 |
+bp	BI PC_0 |
+nững	NI ƯN_3 NGC_3 |
+hẽm	HI EN_3 MC_3 |
+sốn	SI ÔN_5 NC_5 |
+nháu	NHI AN3_5 UC_5 |
+guý	GI UN_5 YC_5 |
+hụa	HI UÔN_1 |
+nguồm	NGI UÔN_4 MC_4 |
+nguộp	NGI UÔN_1 PC_1 |
+ngoẵng	NGI WO_3 AN3_3 NGC_3 |
+uẩy	WO_2 ÂN_2 YC_2 |
+khoong	KHI WO_0 ON1_0 NGC_0 |
+mựt	MI ƯN_1 TC_1 |
+bụn	BI UN_1 NC_1 |
+koặc	KI WO_1 AN3_1 KC_1 |
+mịnh	MI IN_1 NGC_1 |
+tảnh	TI AN1_2 NGC_2 |
+nghệp	NGI ÊN_1 PC_1 |
+tuàn	TI UÔN_4 NC_4 |
+sẩn	SI ÂN_2 NC_2 |
+kìu	KI IN_4 UC_4 |
+trồn	TRI ÔN_4 NC_4 |
+trỉa	TRI IAN_2 |
+dâ	ZI ÂN_0 |
+phùi	PHI UN_4 IC_4 |
+suôm	SI UÔN_0 MC_0 |
+rưm	RI ƯN_0 MC_0 |
+rup	RI UN_0 PC_0 |
+thng	THI NGC_0 |
+cóm	KI ON2_5 MC_5 |
+gủi	GI UN_2 IC_2 |
+khăt	KHI AN3_0 TC_0 |
+ruym	RI WO_0 IN_0 MC_0 |
+vac	VI AN1_0 KC_0 |
+sọn	SI ON2_1 NC_1 |
+aò	AN2_4 UC_4 |
+sộng	SI ÔN_1 NGC_1 |
+yn	IN_0 NC_0 |
+nêy	NI ÊN_0 YC_0 |
+thôm	THI ÔN_0 MC_0 |
+truýp	TRI WO_5 IN_5 PC_5 |
+hắp	HI AN3_5 PC_5 |
+ẹt	EN_1 TC_1 |
+vước	VI ƯƠN_5 KC_5 |
+nghách	NGI AN1_5 KC_5 |
+rỳ	RI IN_4 |
+miềm	MI IÊN_4 MC_4 |
+ốy	ÔN_5 YC_5 |
+chòa	CHI WO_4 AN2_4 |
+guynh	GI WO_0 IN_0 NGC_0 |
+ngánh	NGI AN1_5 NGC_5 |
+dếc	ZI ÊN_5 KC_5 |
+php	PHI PC_0 |
+tuị	TI UN_1 IC_1 |
+lóch	LI ON1_5 KC_5 |
+ậ	ÂN_1 |
+nợt	NI ƠN_1 TC_1 |
+ghuột	GI UÔN_1 TC_1 |
+hểu	HI ÊN_2 UC_2 |
+triếm	TRI IÊN_5 MC_5 |
+cừng	KI ƯN_4 NGC_4 |
+vôu	VI ÔN_0 UC_0 |
+rựt	RI ƯN_1 TC_1 |
+rớn	RI ƠN_5 NC_5 |
+troy	TRI ON2_0 YC_0 |
+phẩng	PHI ÂN_2 NGC_2 |
+phờn	PHI ƠN_4 NC_4 |
+gền	GI ÊN_4 NC_4 |
+xòi	XI ON2_4 IC_4 |
+dìn	ZI IN_4 NC_4 |
+luộng	LI UÔN_1 NGC_1 |
+sòi	SI ON2_4 IC_4 |
+tến	TI ÊN_5 NC_5 |
+mộy	MI ÔN_1 YC_1 |
+khốp	KHI ÔN_5 PC_5 |
+lế	LI ÊN_5 |
+kơ	KI ƠC_0 |
+líng	LI IN_5 NGC_5 |
+đưo	DI ƯN_0 UC_0 |
+luỡng	LI WO_3 ƠN_3 NGC_3 |
+rếc	RI ÊN_5 KC_5 |
+sọp	SI ON2_1 PC_1 |
+get	GI EN_0 TC_0 |
+sưả	SI ƯƠN_2 |
+ngung	NGI UN_0 NGC_0 |
+ngăng	NGI AN3_0 NGC_0 |
+ní	NI IN_5 |
+cíp	KI IN_5 PC_5 |
+khuyền	KHI WO_4 YÊN_4 NC_4 |
+ghúc	GI UN_5 KC_5 |
+tring	TRI IN_0 NGC_0 |
+trúp	TRI UN_5 PC_5 |
+gooc	GI WO_0 ON1_0 KC_0 |
+nhuộn	NHI UÔN_1 NC_1 |
+mấm	MI ÂN_5 MC_5 |
+phử	PHI ƯC_2 |
+xìa	XI IAN_4 |
+xụt	XI UN_1 TC_1 |
+dênh	ZI ÊN_0 NGC_0 |
+rac	RI AN1_0 KC_0 |
+giứng	ZI ƯN_5 NGC_5 |
+giộm	ZI ÔN_1 MC_1 |
+phoi	PHI ON2_0 IC_0 |
+troác	TRI WO_5 AN1_5 KC_5 |
+rủy	RI UN_2 YC_2 |
+bio	BI IN_0 UC_0 |
+nùm	NI UN_4 MC_4 |
+éch	EN_5 KC_5 |
+giồ	ZI ÔN_4 |
+baọ	BI AN2_1 UC_1 |
+hộng	HI ÔN_1 NGC_1 |
+xấy	XI ÂN_5 YC_5 |
+vím	VI IN_5 MC_5 |
+nõ	NI ON2_3 |
+phíên	PHI IÊN_5 NC_5 |
+gìê	ZI ÊN_4 |
+phợt	PHI ƠN_1 TC_1 |
+trỏn	TRI ON2_2 NC_2 |
+xóp	XI ON2_5 PC_5 |
+giụ	ZI UN_1 |
+ghua	GI UÔN_0 |
+chuên	CHI WO_0 ÊN_0 NC_0 |
+hưm	HI ƯN_0 MC_0 |
+giềnh	ZI ÊN_4 NGC_4 |
+hứm	HI ƯN_5 MC_5 |
+tụu	TI UN_1 UC_1 |
+điề	DI IÊN_4 |
+dùa	ZI UÔN_4 |
+đểm	DI ÊN_2 MC_2 |
+qể	KI ÊN_2 |
+mợi	MI ƠN_1 IC_1 |
+tịa	TI IAN_1 |
+nhuyển	NHI WO_2 YÊN_2 NC_2 |
+vẻp	VI EN_2 PC_2 |
+nhuân	NHI WO_0 ÂN_0 NC_0 |
+đâù	DI ÂN_4 UC_4 |
+muôm	MI UÔN_0 MC_0 |
+bẩu	BI ÂN_2 UC_2 |
+gửa	GI ƯƠN_2 |
+tịp	TI IN_1 PC_1 |
+đấnh	DI ÂN_5 NGC_5 |
+chỡ	CHI ƠC_3 |
+ghoe	GI WO_0 EN_0 |
+ũ	UN_3 |
+thụm	THI UN_1 MC_1 |
+roam	RI WO_0 AN2_0 MC_0 |
+truồi	TRI UÔN_4 IC_4 |
+iện	IÊN_1 NC_1 |
+ghoep	GI WO_0 EN_0 PC_0 |
+thúp	THI UN_5 PC_5 |
+xộ	XI ÔN_1 |
+đenh	DI EN_0 NGC_0 |
+rệu	RI ÊN_1 UC_1 |
+tữ	TI ƯC_3 |
+sơí	SI ƠN_5 IC_5 |
+ừu	ƯN_4 UC_4 |
+đồc	DI ÔN_4 KC_4 |
+đuc	DI UN_0 KC_0 |
+toần	TI WO_4 ÂN_4 NC_4 |
+thom	THI ON2_0 MC_0 |
+gự	GI ƯC_1 |
+vườm	VI ƯƠN_4 MC_4 |
+ườ	ƯN_4 ƠC_4 |
+thệu	THI ÊN_1 UC_1 |
+mử	MI ƯC_2 |
+chụng	CHI UN_1 NGC_1 |
+diềng	ZI IÊN_4 NGC_4 |
+riê	RI IÊN_0 |
+tồng	TI ÔN_4 NGC_4 |
+cóó	KI ON2_5 UC_5 |
+lơng	LI ƠN_0 NGC_0 |
+gệt	GI ÊN_1 TC_1 |
+tuầng	TI WO_4 ÂN_4 NGC_4 |
+chễ	CHI ÊN_3 |
+riênh	RI IÊN_0 NGC_0 |
+deng	ZI EN_0 NGC_0 |
+rưi	RI ƯN_0 IC_0 |
+toẹ	TI WO_1 EN_1 |
+dìa	ZI IAN_4 |
+ghệt	GI ÊN_1 TC_1 |
+chía	CHI IAN_5 |
+gơi	GI ƠN_0 IC_0 |
+buống	BI UÔN_5 NGC_5 |
+dăt	ZI AN3_0 TC_0 |
+đoành	DI WO_4 AN1_4 NGC_4 |
+nỉu	NI IN_2 UC_2 |
+vuôn	VI UÔN_0 NC_0 |
+rế	RI ÊN_5 |
+chiễm	CHI IÊN_3 MC_3 |
+vổi	VI ÔN_2 IC_2 |
+sén	SI EN_5 NC_5 |
+sển	SI ÊN_2 NC_2 |
+nhười	NHI ƯƠN_4 IC_4 |
+dơn	ZI ƠN_0 NC_0 |
+siếc	SI IÊN_5 KC_5 |
+chệu	CHI ÊN_1 UC_1 |
+góm	GI ON2_5 MC_5 |
+nap	NI AN2_0 PC_0 |
+chũi	CHI UN_3 IC_3 |
+điêì	DI IÊN_4 IC_4 |
+phánh	PHI AN1_5 NGC_5 |
+xianh	XI IAN_0 NGC_0 |
+sp	SI PC_0 |
+nguyê	NGI WO_0 YÊN_0 |
+bía	BI IAN_5 |
+phươi	PHI ƯƠN_0 IC_0 |
+khiếc	KHI IÊN_5 KC_5 |
+boing	BI WO_0 IN_0 NGC_0 |
+giâu	ZI ÂN_0 UC_0 |
+xống	XI ÔN_5 NGC_5 |
+sậu	SI ÂN_1 UC_1 |
+qảu	KI AN3_2 UC_2 |
+loèn	LI WO_4 EN_4 NC_4 |
+qoèn	KI WO_4 EN_4 NC_4 |
+tràu	TRI AN3_4 UC_4 |
+đuy	DI UN_0 YC_0 |
+giem	ZI EN_0 MC_0 |
+nă	NI AN3_0 |
+miêc	MI IÊN_0 KC_0 |
+tọ	TI ON2_1 |
+tửm	TI ƯN_2 MC_2 |
+dụp	ZI UN_1 PC_1 |
+náp	NI AN2_5 PC_5 |
+rooc	RI WO_0 ON1_0 KC_0 |
+đoát	DI WO_5 AN2_5 TC_5 |
+ruyên	RI WO_0 YÊN_0 NC_0 |
+yệm	YÊN_1 MC_1 |
+khọ	KHI ON2_1 |
+hẩn	HI ÂN_2 NC_2 |
+cuyên	KI WO_0 YÊN_0 NC_0 |
+tuọng	TI WO_1 ON1_1 NGC_1 |
+roanh	RI WO_0 AN1_0 NGC_0 |
+thừơng	THI ƯƠN_4 NGC_4 |
+dừm	ZI ƯN_4 MC_4 |
+viả	VI IAN_2 |
+ngoé	NGI WO_5 EN_5 |
+khốt	KHI ÔN_5 TC_5 |
+key	KI EN_0 YC_0 |
+nguc	NGI UN_0 KC_0 |
+ăp	AN3_0 PC_0 |
+roong	RI WO_0 ON1_0 NGC_0 |
+gợt	GI ƠN_1 TC_1 |
+nuệ	NI WO_1 ÊN_1 |
+hc	HI KC_0 |
+mố	MI ÔN_5 |
+giép	ZI EN_5 PC_5 |
+trựo	TRI ƯN_1 UC_1 |
+ghĩ	GI IN_3 |
+xc	XI KC_0 |
+gíâu	ZI ÂN_5 UC_5 |
+gían	ZI AN2_5 NC_5 |
+phing	PHI IN_0 NGC_0 |
+tùn	TI UN_4 NC_4 |
+nặnh	NI AN3_1 NGC_1 |
+tc	TI KC_0 |
+kư	KI ƯC_0 |
+gừi	GI ƯN_4 IC_4 |
+bớc	BI ƠN_5 KC_5 |
+ría	RI IAN_5 |
+coc	KI ON1_0 KC_0 |
+rớp	RI ƠN_5 PC_5 |
+nựa	NI ƯƠN_1 |
+ịa	IAN_1 |
+sổn	SI ÔN_2 NC_2 |
+lừm	LI ƯN_4 MC_4 |
+rôc	RI ÔN_0 KC_0 |
+tĩn	TI IN_3 NC_3 |
+hảng	HI AN1_2 NGC_2 |
+rậu	RI ÂN_1 UC_1 |
+rio	RI IN_0 UC_0 |
+tnh	TI NGC_0 |
+cặt	KI AN3_1 TC_1 |
+cạt	KI AN2_1 TC_1 |
+góoc	GI WO_5 ON1_5 KC_5 |
+nghiu	NGI IN_0 UC_0 |
+đướt	DI ƯƠN_5 TC_5 |
+dộp	ZI ÔN_1 PC_1 |
+íu	IN_5 UC_5 |
+nhoàng	NHI WO_4 AN1_4 NGC_4 |
+gợ	GI ƠC_1 |
+thăn	THI AN3_0 NC_0 |
+tảm	TI AN2_2 MC_2 |
+gỏa	GI WO_2 AN2_2 |
+đử	DI ƯC_2 |
+troăm	TRI WO_0 AN3_0 MC_0 |
+hảy	HI AN3_2 YC_2 |
+sảu	SI AN3_2 UC_2 |
+biêm	BI IÊN_0 MC_0 |
+mưc	MI ƯN_0 KC_0 |
+voa	VI WO_0 AN2_0 |
+đảy	DI AN3_2 YC_2 |
+ngưỡi	NGI ƯƠN_3 IC_3 |
+dêt	ZI ÊN_0 TC_0 |
+nim	NI IN_0 MC_0 |
+ruân	RI WO_0 ÂN_0 NC_0 |
+nguôn	NGI UÔN_0 NC_0 |
+sẻn	SI EN_2 NC_2 |
+mii	MI IN_0 IC_0 |
+thuốp	THI UÔN_5 PC_5 |
+nghiệ	NGI IÊN_1 |
+sýt	SI IN_5 TC_5 |
+guấy	GI WO_5 ÂN_5 YC_5 |
+tiểm	TI IÊN_2 MC_2 |
+diền	ZI IÊN_4 NC_4 |
+vịị	VI IN_1 IC_1 |
+nhứm	NHI ƯN_5 MC_5 |
+thuồn	THI UÔN_4 NC_4 |
+tựng	TI ƯN_1 NGC_1 |
+chưn	CHI ƯN_0 NC_0 |
+voai	VI WO_0 AN2_0 IC_0 |
+mốp	MI ÔN_5 PC_5 |
+dươc	ZI ƯƠN_0 KC_0 |
+tuâ	TI WO_0 ÂN_0 |
+ẽ	EN_3 |
+hach	HI AN1_0 KC_0 |
+khóp	KHI ON2_5 PC_5 |
+đư	DI ƯC_0 |
+nuóc	NI WO_5 ON1_5 KC_5 |
+nguyển	NGI WO_2 YÊN_2 NC_2 |
+buu	BI UN_0 UC_0 |
+nhặc	NHI AN3_1 KC_1 |
+kiển	KI IÊN_2 NC_2 |
+cưm	KI ƯN_0 MC_0 |
+ờn	ƠN_4 NC_4 |
+hược	HI ƯƠN_1 KC_1 |
+hoong	HI WO_0 ON1_0 NGC_0 |
+thăp	THI AN3_0 PC_0 |
+niềng	NI IÊN_4 NGC_4 |
+đẹn	DI EN_1 NC_1 |
+gha	GI AN2_0 |
+tôu	TI ÔN_0 UC_0 |
+lếnh	LI ÊN_5 NGC_5 |
+gii	ZI IN_0 |
+tooc	TI WO_0 ON1_0 KC_0 |
+looc	LI WO_0 ON1_0 KC_0 |
+xừng	XI ƯN_4 NGC_4 |
+boo	BI ON2_0 UC_0 |
+coop	KI WO_0 ON2_0 PC_0 |
+bưm	BI ƯN_0 MC_0 |
+phóm	PHI ON2_5 MC_5 |
+tịc	TI IN_1 KC_1 |
+hp	HI PC_0 |
+luợt	LI WO_1 ƠN_1 TC_1 |
+kng	KI NGC_0 |
+trộng	TRI ÔN_1 NGC_1 |
+khịp	KHI IN_1 PC_1 |
+đâọ	DI ÂN_1 UC_1 |
+nển	NI ÊN_2 NC_2 |
+chờm	CHI ƠN_4 MC_4 |
+nghập	NGI ÂN_1 PC_1 |
+phy	PHI IN_0 |
+cớp	KI ƠN_5 PC_5 |
+khằm	KHI AN3_4 MC_4 |
+xỏn	XI ON2_2 NC_2 |
+sỏn	SI ON2_2 NC_2 |
+nười	NI ƯƠN_4 IC_4 |
+nhế	NHI ÊN_5 |
+nùn	NI UN_4 NC_4 |
+phăp	PHI AN3_0 PC_0 |
+đéch	DI EN_5 KC_5 |
+ou	ON2_0 UC_0 |
+róoc	RI WO_5 ON1_5 KC_5 |
+thớp	THI ƠN_5 PC_5 |
+ngụa	NGI UÔN_1 |
+thưà	THI ƯƠN_4 |
+qoa	KI WO_0 AN2_0 |
+tuề	TI WO_4 ÊN_4 |
+dịn	ZI IN_1 NC_1 |
+ngeng	NGI EN_0 NGC_0 |
+đoại	DI WO_1 AN2_1 IC_1 |
+kyc	KI IN_0 KC_0 |
+xượng	XI ƯƠN_1 NGC_1 |
+giố	ZI ÔN_5 |
+dén	ZI EN_5 NC_5 |
+mừơi	MI ƯƠN_4 IC_4 |
+phuộc	PHI UÔN_1 KC_1 |
+nọi	NI ON2_1 IC_1 |
+đoọc	DI WO_1 ON1_1 KC_1 |
+mậy	MI ÂN_1 YC_1 |
+vẵng	VI AN3_3 NGC_3 |
+rãn	RI AN2_3 NC_3 |
+tuận	TI WO_1 ÂN_1 NC_1 |
+sip	SI IN_0 PC_0 |
+ngn	NGI NC_0 |
+đổn	DI ÔN_2 NC_2 |
+trựt	TRI ƯN_1 TC_1 |
+chướm	CHI ƯƠN_5 MC_5 |
+cụôc	KI UÔN_1 KC_1 |
+sề	SI ÊN_4 |
+rưỡu	RI ƯƠN_3 UC_3 |
+vâ	VI ÂN_0 |
+dịt	ZI IN_1 TC_1 |
+đểt	DI ÊN_2 TC_2 |
+biạ	BI IAN_1 |
+pheng	PHI EN_0 NGC_0 |
+quyễn	KI WO_3 YÊN_3 NC_3 |
+quọt	KI WO_1 ON2_1 TC_1 |
+trẳng	TRI AN3_2 NGC_2 |
+tẳm	TI AN3_2 MC_2 |
+tronh	TRI ON1_0 NGC_0 |
+rãy	RI AN3_3 YC_3 |
+chuyn	CHI WO_0 IN_0 NC_0 |
+taọ	TI AN2_1 UC_1 |
+đòa	DI WO_4 AN2_4 |
+giầm	ZI ÂN_4 MC_4 |
+tiá	TI IAN_5 |
+ney	NI EN_0 YC_0 |
+luât	LI WO_0 ÂN_0 TC_0 |
+sựm	SI ƯN_1 MC_1 |
+xuộc	XI UÔN_1 KC_1 |
+niếc	NI IÊN_5 KC_5 |
+làp	LI AN2_4 PC_4 |
+pheo	PHI EN_0 UC_0 |
+nậng	NI ÂN_1 NGC_1 |
+mẵng	MI AN3_3 NGC_3 |
+giơi	ZI ƠN_0 IC_0 |
+lỡn	LI ƠN_3 NC_3 |
+luộn	LI UÔN_1 NC_1 |
+bư	BI ƯC_0 |
+gải	GI AN2_2 IC_2 |
+đóanh	DI WO_5 AN1_5 NGC_5 |
+sết	SI ÊN_5 TC_5 |
+thựa	THI ƯƠN_1 |
+vọp	VI ON2_1 PC_1 |
+dy	ZI IN_0 |
+tuồi	TI UÔN_4 IC_4 |
+qũy	KI UN_3 YC_3 |
+đúi	DI UN_5 IC_5 |
+lưm	LI ƯN_0 MC_0 |
+lôp	LI ÔN_0 PC_0 |
+sợn	SI ƠN_1 NC_1 |
+cúa	KI UÔN_5 |
+lỉ	LI IN_2 |
+xím	XI IN_5 MC_5 |
+trâ	TRI ÂN_0 |
+quạu	KI UÔN_1 UC_1 |
+goáp	GI WO_5 AN2_5 PC_5 |
+khời	KHI ƠN_4 IC_4 |
+tưỡng	TI ƯƠN_3 NGC_3 |
+thằnh	THI AN3_4 NGC_4 |
+ming	MI IN_0 NGC_0 |
+kịnh	KI IN_1 NGC_1 |
+níp	NI IN_5 PC_5 |
+hou	HI ON2_0 UC_0 |
+hưở	HI ƯN_2 ƠC_2 |
+gièo	ZI EN_4 UC_4 |
+cời	KI ƠN_4 IC_4 |
+chệy	CHI ÊN_1 YC_1 |
+giười	ZI ƯƠN_4 IC_4 |
+ựa	ƯƠN_1 |
+phếc	PHI ÊN_5 KC_5 |
+âý	ÂN_5 YC_5 |
+phic	PHI IN_0 KC_0 |
+nuồn	NI UÔN_4 NC_4 |
+thứa	THI ƯƠN_5 |
+hoăc	HI WO_0 AN3_0 KC_0 |
+sịp	SI IN_1 PC_1 |
+suốc	SI UÔN_5 KC_5 |
+giện	ZI ÊN_1 NC_1 |
+dêu	ZI ÊN_0 UC_0 |
+tùa	TI UÔN_4 |
+phìng	PHI IN_4 NGC_4 |
+guơ	GI UN_0 ƠC_0 |
+ruũ	RI UN_3 UC_3 |
+trết	TRI ÊN_5 TC_5 |
+ìm	IN_4 MC_4 |
+khằn	KHI AN3_4 NC_4 |
+mẳng	MI AN3_2 NGC_2 |
+lổi	LI ÔN_2 IC_2 |
+kong	KI ON1_0 NGC_0 |
+kôn	KI ÔN_0 NC_0 |
+đỏi	DI ON2_2 IC_2 |
+tâ	TI ÂN_0 |
+bờn	BI ƠN_4 NC_4 |
+khậm	KHI ÂN_1 MC_1 |
+ỗng	ÔN_3 NGC_3 |
+riên	RI IÊN_0 NC_0 |
+muổi	MI UÔN_2 IC_2 |
+dãnh	ZI AN1_3 NGC_3 |
+guật	GI WO_1 ÂN_1 TC_1 |
+lễnh	LI ÊN_3 NGC_3 |
+bòm	BI ON2_4 MC_4 |
+tỏn	TI ON2_2 NC_2 |
+íp	IN_5 PC_5 |
+ịp	IN_1 PC_1 |
+địp	DI IN_1 PC_1 |
+rậy	RI ÂN_1 YC_1 |
+trườm	TRI ƯƠN_4 MC_4 |
+đẩn	DI ÂN_2 NC_2 |
+bặp	BI AN3_1 PC_1 |
+chẹo	CHI EN_1 UC_1 |
+nệp	NI ÊN_1 PC_1 |
+vẹm	VI EN_1 MC_1 |
+lện	LI ÊN_1 NC_1 |
+chảm	CHI AN2_2 MC_2 |
+tii	TI IN_0 IC_0 |
+suyệt	SI WO_1 YÊN_1 TC_1 |
+ưn	ƯN_0 NC_0 |
+tộm	TI ÔN_1 MC_1 |
+cậm	KI ÂN_1 MC_1 |
+vầm	VI ÂN_4 MC_4 |
+ẳm	AN3_2 MC_2 |
+tém	TI EN_5 MC_5 |
+voọc	VI WO_1 ON1_1 KC_1 |
+sún	SI UN_5 NC_5 |
+dốm	ZI ÔN_5 MC_5 |
+ghẹp	GI EN_1 PC_1 |
+vịc	VI IN_1 KC_1 |
+lut	LI UN_0 TC_0 |
+biế	BI IÊN_5 |
+hoòi	HI WO_4 ON2_4 IC_4 |
+ặt	AN3_1 TC_1 |
+gủa	GI UÔN_2 |
+xéch	XI EN_5 KC_5 |
+ợi	ƠN_1 IC_1 |
+mươn	MI ƯƠN_0 NC_0 |
+chịnh	CHI IN_1 NGC_1 |
+buổng	BI UÔN_2 NGC_2 |
+duây	ZI WO_0 ÂN_0 YC_0 |
+trùa	TRI UÔN_4 |
+lịu	LI IN_1 UC_1 |
+sịn	SI IN_1 NC_1 |
+gụt	GI UN_1 TC_1 |
+trý	TRI IN_5 |
+tịu	TI IN_1 UC_1 |
+hộn	HI ÔN_1 NC_1 |
+khẳm	KHI AN3_2 MC_2 |
+suỳ	SI UN_4 YC_4 |
+ẽm	EN_3 MC_3 |
+ghẻo	GI EN_2 UC_2 |
+chiệm	CHI IÊN_1 MC_1 |
+nhua	NHI UÔN_0 |
+bưa	BI ƯƠN_0 |
+hện	HI ÊN_1 NC_1 |
+nghẹ	NGI EN_1 |
+nghiệng	NGI IÊN_1 NGC_1 |
+chượng	CHI ƯƠN_1 NGC_1 |
+đặm	DI AN3_1 MC_1 |
+veơ	VI EN_0 ƠC_0 |
+câi	KI ÂN_0 IC_0 |
+đẻn	DI EN_2 NC_2 |
+ă	AN3_0 |
+giuc	ZI UN_0 KC_0 |
+yang	YAN_0 NGC_0 |
+lnh	LI NGC_0 |
+tòe	TI WO_4 EN_4 |
+khức	KHI ƯN_5 KC_5 |
+xẹc	XI EN_1 KC_1 |
+hip	HI IN_0 PC_0 |
+đấ	DI ÂN_5 |
+xổi	XI ÔN_2 IC_2 |
+nghẽ	NGI EN_3 |
+nuí	NI UN_5 IC_5 |
+cặng	KI AN3_1 NGC_1 |
+nẩu	NI ÂN_2 UC_2 |
+khếp	KHI ÊN_5 PC_5 |
+diao	ZI IAN_0 UC_0 |
+giâng	ZI ÂN_0 NGC_0 |
+ngề	NGI ÊN_4 |
+hiể	HI IÊN_2 |
+roăng	RI WO_0 AN3_0 NGC_0 |
+trờm	TRI ƠN_4 MC_4 |
+ặng	AN3_1 NGC_1 |
+buồi	BI UÔN_4 IC_4 |
+ngoày	NGI WO_4 AN3_4 YC_4 |
+ngộn	NGI ÔN_1 NC_1 |
+hâng	HI ÂN_0 NGC_0 |
+mấc	MI ÂN_5 KC_5 |
+rủem	RI WO_2 EN_2 MC_2 |
+hựng	HI ƯN_1 NGC_1 |
+ngêu	NGI ÊN_0 UC_0 |
+sởy	SI ƠN_2 YC_2 |
+nghền	NGI ÊN_4 NC_4 |
+phắp	PHI AN3_5 PC_5 |
+roái	RI WO_5 AN2_5 IC_5 |
+chõm	CHI ON2_3 MC_3 |
+lỉm	LI IN_2 MC_2 |
+gãu	GI AN3_3 UC_3 |
+gíup	ZI UN_5 PC_5 |
+suôt	SI UÔN_0 TC_0 |
+miêng	MI IÊN_0 NGC_0 |
+téch	TI EN_5 KC_5 |
+mĩnh	MI IN_3 NGC_3 |
+rõng	RI ON1_3 NGC_3 |
+chỗi	CHI ÔN_3 IC_3 |
+vaì	VI AN2_4 IC_4 |
+lơm	LI ƠN_0 MC_0 |
+viêu	VI IÊN_0 UC_0 |
+chéch	CHI EN_5 KC_5 |
+gạy	GI AN3_1 YC_1 |
+sẹc	SI EN_1 KC_1 |
+vền	VI ÊN_4 NC_4 |
+hứơng	HI ƯƠN_5 NGC_5 |
+đuề	DI WO_4 ÊN_4 |
+gùm	GI UN_4 MC_4 |
+đụi	DI UN_1 IC_1 |
+thuôc	THI UÔN_0 KC_0 |
+ngoay	NGI WO_0 AN3_0 YC_0 |
+khing	KHI IN_0 NGC_0 |
+sấc	SI ÂN_5 KC_5 |
+nghiề	NGI IÊN_4 |
+chịn	CHI IN_1 NC_1 |
+khường	KHI ƯƠN_4 NGC_4 |
+soon	SI WO_0 ON2_0 NC_0 |
+thấ	THI ÂN_5 |
+doo	ZI ON2_0 UC_0 |
+thiá	THI IAN_5 |
+hửu	HI ƯN_2 UC_2 |
+thướng	THI ƯƠN_5 NGC_5 |
+tổm	TI ÔN_2 MC_2 |
+chiụ	CHI IN_1 UC_1 |
+kà	KI AN2_4 |
+vột	VI ÔN_1 TC_1 |
+sỉu	SI IN_2 UC_2 |
+dyạ	ZI YAN_1 |
+hỉa	HI IAN_2 |
+mưởi	MI ƯƠN_2 IC_2 |
+khiểu	KHI IÊN_2 UC_2 |
+troo	TRI ON2_0 UC_0 |
+sọoc	SI WO_1 ON1_1 KC_1 |
+chuyễn	CHI WO_3 YÊN_3 NC_3 |
+khọc	KHI ON1_1 KC_1 |
+ghiu	GI IN_0 UC_0 |
+qụet	KI WO_1 EN_1 TC_1 |
+phùu	PHI UN_4 UC_4 |
+tuởi	TI WO_2 ƠN_2 IC_2 |
+uỳ	UN_4 YC_4 |
+soọc	SI WO_1 ON1_1 KC_1 |
+phậu	PHI ÂN_1 UC_1 |
+bựu	BI ƯN_1 UC_1 |
+diệ	ZI IÊN_1 |
+nhủm	NHI UN_2 MC_2 |
+cứơp	KI ƯƠN_5 PC_5 |
+đợn	DI ƠN_1 NC_1 |
+mứng	MI ƯN_5 NGC_5 |
+hẻ	HI EN_2 |
+goắch	GI WO_5 AN3_5 KC_5 |
+dịc	ZI IN_1 KC_1 |
+chuỳn	CHI WO_4 IN_4 NC_4 |
+gp	GI PC_0 |
+nguông	NGI UÔN_0 NGC_0 |
+kễnh	KI ÊN_3 NGC_3 |
+phọ	PHI ON2_1 |
+muâng	MI WO_0 ÂN_0 NGC_0 |
+ruêm	RI WO_0 ÊN_0 MC_0 |
+vèn	VI EN_4 NC_4 |
+xòng	XI ON1_4 NGC_4 |
+bếnh	BI ÊN_5 NGC_5 |
+kan	KI AN2_0 NC_0 |
+lôt	LI ÔN_0 TC_0 |
+cy	KI IN_0 |
+nộng	NI ÔN_1 NGC_1 |
+đôỉ	DI ÔN_2 IC_2 |
+due	ZI WO_0 EN_0 |
+đọn	DI ON2_1 NC_1 |
+phon	PHI ON2_0 NC_0 |
+miả	MI IAN_2 |
+thuât	THI WO_0 ÂN_0 TC_0 |
+duộc	ZI UÔN_1 KC_1 |
+khuổi	KHI UÔN_2 IC_2 |
+quơn	KI WO_0 ƠN_0 NC_0 |
+nuê	NI WO_0 ÊN_0 |
+muợn	MI WO_1 ƠN_1 NC_1 |
+uộc	UÔN_1 KC_1 |
+trếch	TRI ÊN_5 KC_5 |
+vậu	VI ÂN_1 UC_1 |
+uêt	WO_0 ÊN_0 TC_0 |
+rưu	RI ƯN_0 UC_0 |
+thìt	THI IN_4 TC_4 |
+quet	KI WO_0 EN_0 TC_0 |
+buôi	BI UÔN_0 IC_0 |
+ech	EN_0 KC_0 |
+đủn	DI UN_2 NC_2 |
+nữac	NI ƯƠN_3 KC_3 |
+guêu	GI WO_0 ÊN_0 UC_0 |
+toăng	TI WO_0 AN3_0 NGC_0 |
+gioa	ZI WO_0 AN2_0 |
+nhiêù	NHI IÊN_4 UC_4 |
+huông	HI UÔN_0 NGC_0 |
+guép	GI WO_5 EN_5 PC_5 |
+soan	SI WO_0 AN2_0 NC_0 |
+dùy	ZI UN_4 YC_4 |
+muan	MI UÔN_0 NC_0 |
+reu	RI EN_0 UC_0 |
+gy	GI IN_0 |
+gòa	GI WO_4 AN2_4 |
+cuo	KI UN_0 UC_0 |
+biể	BI IÊN_2 |
+boan	BI WO_0 AN2_0 NC_0 |
+guếch	GI WO_5 ÊN_5 KC_5 |
+trười	TRI ƯƠN_4 IC_4 |
+sẫn	SI ÂN_3 NC_3 |
+đuệ	DI WO_1 ÊN_1 |
+qun	KI UN_0 NC_0 |
+vép	VI EN_5 PC_5 |
+hêu	HI ÊN_0 UC_0 |
+ghíc	GI IN_5 KC_5 |
+ryn	RI IN_0 NC_0 |
+luấn	LI WO_5 ÂN_5 NC_5 |
+guu	GI UN_0 UC_0 |
+luyễn	LI WO_3 YÊN_3 NC_3 |
+tằu	TI AN3_4 UC_4 |
+truyn	TRI WO_0 IN_0 NC_0 |
+rấy	RI ÂN_5 YC_5 |
+rèo	RI EN_4 UC_4 |
+quýp	KI WO_5 IN_5 PC_5 |
+troao	TRI WO_0 AN2_0 UC_0 |
+muy	MI UN_0 YC_0 |
+xuyển	XI WO_2 YÊN_2 NC_2 |
+lếp	LI ÊN_5 PC_5 |
+meu	MI EN_0 UC_0 |
+báp	BI AN2_5 PC_5 |
+lẫ	LI ÂN_3 |
+tuởng	TI WO_2 ƠN_2 NGC_2 |
+gêu	GI ÊN_0 UC_0 |
+thuạt	THI UÔN_1 TC_1 |
+giuốt	ZI UÔN_5 TC_5 |
+thuộ	THI UÔN_1 |
+dắm	ZI AN3_5 MC_5 |
+quam	KI UÔN_0 MC_0 |
+tec	TI EN_0 KC_0 |
+guam	GI UÔN_0 MC_0 |
+guên	GI WO_0 ÊN_0 NC_0 |
+lụch	LI UN_1 KC_1 |
+luýt	LI WO_5 IN_5 TC_5 |
+roang	RI WO_0 AN1_0 NGC_0 |
+ảng	AN1_2 NGC_2 |
+tẹp	TI EN_1 PC_1 |
+gich	ZI KC_0 |
+soanh	SI WO_0 AN1_0 NGC_0 |
+đểc	DI ÊN_2 KC_2 |
+goăng	GI WO_0 AN3_0 NGC_0 |
+oet	WO_0 EN_0 TC_0 |
+hoon	HI WO_0 ON2_0 NC_0 |
+uê	WO_0 ÊN_0 |
+ngít	NGI IN_5 TC_5 |
+chơng	CHI ƠN_0 NGC_0 |
+loat	LI WO_0 AN2_0 TC_0 |
+mừa	MI ƯƠN_4 |
+thạn	THI AN2_1 NC_1 |
+méch	MI EN_5 KC_5 |
+thứơc	THI ƯƠN_5 KC_5 |
+qoét	KI WO_5 EN_5 TC_5 |
+khuô	KHI UÔN_0 |
+cuýt	KI WO_5 IN_5 TC_5 |
+huôn	HI UÔN_0 NC_0 |
+guốp	GI UÔN_5 PC_5 |
+giau	ZI AN3_0 UC_0 |
+ghanh	GI AN1_0 NGC_0 |
+gơm	GI ƠN_0 MC_0 |
+noa	NI WO_0 AN2_0 |
+nhac	NHI AN1_0 KC_0 |
+xuyn	XI WO_0 IN_0 NC_0 |
+goóc	GI WO_5 ON1_5 KC_5 |
+nghuyên	NGI WO_0 YÊN_0 NC_0 |
+hìm	HI IN_4 MC_4 |
+vọn	VI ON2_1 NC_1 |
+hut	HI UN_0 TC_0 |
+kếnh	KI ÊN_5 NGC_5 |
+quynh	KI WO_0 IN_0 NGC_0 |
+khat	KHI AN2_0 TC_0 |
+sup	SI UN_0 PC_0 |
+yển	YÊN_2 NC_2 |
+míat	MI IAN_5 TC_5 |
+nghiều	NGI IÊN_4 UC_4 |
+thuat	THI UÔN_0 TC_0 |
+tặp	TI AN3_1 PC_1 |
+đâụ	DI ÂN_1 UC_1 |
+trơm	TRI ƠN_0 MC_0 |
+khới	KHI ƠN_5 IC_5 |
+quĩ	KI UN_3 IC_3 |
+luôi	LI UÔN_0 IC_0 |
+réch	RI EN_5 KC_5 |
+đệp	DI ÊN_1 PC_1 |
+mưi	MI ƯN_0 IC_0 |
+gất	GI ÂN_5 TC_5 |
+trôm	TRI ÔN_0 MC_0 |
+oeo	WO_0 EN_0 UC_0 |
+rọng	RI ON1_1 NGC_1 |
+ụng	UN_1 NGC_1 |
+xuối	XI UÔN_5 IC_5 |
+mủa	MI UÔN_2 |
+mịng	MI IN_1 NGC_1 |
+gioăng	ZI WO_0 AN3_0 NGC_0 |
+niện	NI IÊN_1 NC_1 |
+iềm	IÊN_4 MC_4 |
+nghịp	NGI IN_1 PC_1 |
+bỡi	BI ƠN_3 IC_3 |
+phinh	PHI IN_0 NGC_0 |
+bảm	BI AN2_2 MC_2 |
+tuua	TI WO_0 UÔN_0 |
+đừơng	DI ƯƠN_4 NGC_4 |
+ngằm	NGI AN3_4 MC_4 |
+nghii	NGI IN_0 IC_0 |
+thuêu	THI WO_0 ÊN_0 UC_0 |
+ghiêm	GI IÊN_0 MC_0 |
+gâp	GI ÂN_0 PC_0 |
+phich	PHI IN_0 KC_0 |
+ueu	WO_0 EN_0 UC_0 |
+rot	RI ON2_0 TC_0 |
+roc	RI ON1_0 KC_0 |
+hạy	HI AN3_1 YC_1 |
+thoat	THI WO_0 AN2_0 TC_0 |
+hoanh	HI WO_0 AN1_0 NGC_0 |
+nuồng	NI UÔN_4 NGC_4 |
+coing	KI WO_0 IN_0 NGC_0 |
+băt	BI AN3_0 TC_0 |
+nhap	NHI AN2_0 PC_0 |
+qoay	KI WO_0 AN3_0 YC_0 |
+ngiêm	NGI IÊN_0 MC_0 |
+khuon	KHI WO_0 ON2_0 NC_0 |
+hiểi	HI IÊN_2 IC_2 |
+vech	VI EN_0 KC_0 |
+nhăc	NHI AN3_0 KC_0 |
+chìng	CHI IN_4 NGC_4 |
+luôm	LI UÔN_0 MC_0 |
+dụu	ZI UN_1 UC_1 |
+cượu	KI ƯƠN_1 UC_1 |
+dợp	ZI ƠN_1 PC_1 |
+cộn	KI ÔN_1 NC_1 |
+gat	GI AN2_0 TC_0 |
+nòa	NI WO_4 AN2_4 |
+bỏn	BI ON2_2 NC_2 |
+quầ	KI WO_4 ÂN_4 |
+muà	MI UÔN_4 |
+lot	LI ON2_0 TC_0 |
+tỉn	TI IN_2 NC_2 |
+quat	KI UÔN_0 TC_0 |
+thuyến	THI WO_5 YÊN_5 NC_5 |
+quích	KI WO_5 IN_5 KC_5 |
+nú	NI UN_5 |
+soat	SI WO_0 AN2_0 TC_0 |
+ngổng	NGI ÔN_2 NGC_2 |
+ũy	UN_3 YC_3 |
+nat	NI AN2_0 TC_0 |
+troem	TRI WO_0 EN_0 MC_0 |
+rọn	RI ON2_1 NC_1 |
+bech	BI EN_0 KC_0 |
+gị	ZI |
+từc	TI ƯN_4 KC_4 |
+hoẵng	HI WO_3 AN3_3 NGC_3 |
+thơì	THI ƠN_4 IC_4 |
+mộn	MI ÔN_1 NC_1 |
+yi	IN_0 IC_0 |
+nghuyễn	NGI WO_3 YÊN_3 NC_3 |
+việ	VI IÊN_1 |
+gỉang	ZI AN1_2 NGC_2 |
+siêm	SI IÊN_0 MC_0 |
+điết	DI IÊN_5 TC_5 |
+coan	KI WO_0 AN2_0 NC_0 |
+nguâỵ	NGI WO_1 ÂN_1 YC_1 |
+rúyt	RI WO_5 IN_5 TC_5 |
+thưởn	THI ƯƠN_2 NC_2 |
+giễn	ZI ÊN_3 NC_3 |
+phuất	PHI WO_5 ÂN_5 TC_5 |
+gản	GI AN2_2 NC_2 |
+gên	GI ÊN_0 NC_0 |
+soéc	SI WO_5 EN_5 KC_5 |
+qàn	KI AN2_4 NC_4 |
+nhấ	NHI ÂN_5 |
+àn	AN2_4 NC_4 |
+phéch	PHI EN_5 KC_5 |
+nuyễn	NI WO_3 YÊN_3 NC_3 |
+màm	MI AN2_4 MC_4 |
+quuy	KI WO_0 UN_0 YC_0 |
+tuyể	TI WO_2 YÊN_2 |
+qp	KI PC_0 |
+đún	DI UN_5 NC_5 |
+qươn	KI ƯƠN_0 NC_0 |
+suấ	SI WO_5 ÂN_5 |
+dip	ZI IN_0 PC_0 |
+nghech	NGI EN_0 KC_0 |
+luoi	LI WO_0 ON2_0 IC_0 |
+guong	GI WO_0 ON1_0 NGC_0 |
+câù	KI ÂN_4 UC_4 |
+soản	SI WO_2 AN2_2 NC_2 |
+ửa	ƯƠN_2 |
+xày	XI AN3_4 YC_4 |
+vạo	VI AN2_1 UC_1 |
+giấ	ZI ÂN_5 |
+cuón	KI WO_5 ON2_5 NC_5 |
+vom	VI ON2_0 MC_0 |
+vẹ	VI EN_1 |
+sooc	SI WO_0 ON1_0 KC_0 |
+hưn	HI ƯN_0 NC_0 |
+voàn	VI WO_4 AN2_4 NC_4 |
+dẽ	ZI EN_3 |
+rêch	RI ÊN_0 KC_0 |
+tậ	TI ÂN_1 |
+xũng	XI UN_3 NGC_3 |
+nghự	NGI ƯC_1 |
+choác	CHI WO_5 AN1_5 KC_5 |
+nghoặc	NGI WO_1 AN3_1 KC_1 |
+vữn	VI ƯN_3 NC_3 |
+trự	TRI ƯC_1 |
+giệu	ZI ÊN_1 UC_1 |
+chuyể	CHI WO_2 YÊN_2 |
+rêy	RI ÊN_0 YC_0 |
+nghữ	NGI ƯC_3 |
+liển	LI IÊN_2 NC_2 |
+goat	GI WO_0 AN2_0 TC_0 |
+oat	WO_0 AN2_0 TC_0 |
+chuong	CHI WO_0 ON1_0 NGC_0 |
+thac	THI AN1_0 KC_0 |
+giờn	ZI ƠN_4 NC_4 |
+kiệp	KI IÊN_1 PC_1 |
+thữ	THI ƯC_3 |
+vý	VI IN_5 |
+đêt	DI ÊN_0 TC_0 |
+khổi	KHI ÔN_2 IC_2 |
+rech	RI EN_0 KC_0 |
+xêp	XI ÊN_0 PC_0 |
+nguộc	NGI UÔN_1 KC_1 |
+đn	DI NC_0 |
+ngyy	NGI IN_0 YC_0 |
+thấo	THI ÂN_5 UC_5 |
+nghuyện	NGI WO_1 YÊN_1 NC_1 |
+cănh	KI AN3_0 NGC_0 |
+chăc	CHI AN3_0 KC_0 |
+huán	HI UÔN_5 NC_5 |
+nghép	NGI EN_5 PC_5 |
+hăt	HI AN3_0 TC_0 |
+choen	CHI WO_0 EN_0 NC_0 |
+nghep	NGI EN_0 PC_0 |
+doạn	ZI WO_1 AN2_1 NC_1 |
+lẳ	LI AN3_2 |
+gioe	ZI WO_0 EN_0 |
+bếu	BI ÊN_5 UC_5 |
+oạp	WO_1 AN2_1 PC_1 |
+dẩn	ZI ÂN_2 NC_2 |
+đợp	DI ƠN_1 PC_1 |
+xĩ	XI IN_3 |
+nuyên	NI WO_0 YÊN_0 NC_0 |
+chĩn	CHI IN_3 NC_3 |
+giửa	ZI ƯƠN_2 |
+chản	CHI AN2_2 NC_2 |
+tuých	TI WO_5 IN_5 KC_5 |
+chýng	CHI IN_5 NGC_5 |
+châụ	CHI ÂN_1 UC_1 |
+lyn	LI IN_0 NC_0 |
+chíc	CHI IN_5 KC_5 |
+ơng	ƠN_0 NGC_0 |
+têt	TI ÊN_0 TC_0 |
+hẳm	HI AN3_2 MC_2 |
+đườn	DI ƯƠN_4 NC_4 |
+chiêc	CHI IÊN_0 KC_0 |
+chặ	CHI AN3_1 |
+đêù	DI ÊN_4 UC_4 |
+bợc	BI ƠN_1 KC_1 |
+sựp	SI ƯN_1 PC_1 |
+củn	KI UN_2 NC_2 |
+truung	TRI WO_0 UN_0 NGC_0 |
+trảy	TRI AN3_2 YC_2 |
+đôt	DI ÔN_0 TC_0 |
+mơm	MI ƠN_0 MC_0 |
+bet	BI EN_0 TC_0 |
+hooy	HI WO_0 ON2_0 YC_0 |
+lỗm	LI ÔN_3 MC_3 |
+tuyệ	TI WO_1 YÊN_1 |
+roeo	RI WO_0 EN_0 UC_0 |
+thặc	THI AN3_1 KC_1 |
+trỉnh	TRI IN_2 NGC_2 |
+doành	ZI WO_4 AN1_4 NGC_4 |
+sep	SI EN_0 PC_0 |
+ởn	ƠN_2 NC_2 |
+voằn	VI WO_4 AN3_4 NC_4 |
+chại	CHI AN2_1 IC_1 |
+khiê	KHI IÊN_0 |
+suym	SI WO_0 IN_0 MC_0 |
+xánh	XI AN1_5 NGC_5 |
+đuuôn	DI WO_0 UÔN_0 NC_0 |
+doài	ZI WO_4 AN2_4 IC_4 |
+cọi	KI ON2_1 IC_1 |
+lọa	LI WO_1 AN2_1 |
+chọm	CHI ON2_1 MC_1 |
+âp	ÂN_0 PC_0 |
+phẩ	PHI ÂN_2 |
+roì	RI ON2_4 IC_4 |
+xoy	XI ON2_0 YC_0 |
+trỡ	TRI ƠC_3 |
+nghửi	NGI ƯN_2 IC_2 |
+tăc	TI AN3_0 KC_0 |
+trìm	TRI IN_4 MC_4 |
+khồi	KHI ÔN_4 IC_4 |
+thuuộc	THI WO_1 UÔN_1 KC_1 |
+đèp	DI EN_4 PC_4 |
+chiệu	CHI IÊN_1 UC_1 |
+luọc	LI WO_1 ON1_1 KC_1 |
+nhâỷ	NHI ÂN_2 YC_2 |
+tuốn	TI UÔN_5 NC_5 |
+nuân	NI WO_0 ÂN_0 NC_0 |
+nhùi	NHI UN_4 IC_4 |
+vuống	VI UÔN_5 NGC_5 |
+điệ	DI IÊN_1 |
+hiệ	HI IÊN_1 |
+đợc	DI ƠN_1 KC_1 |
+niến	NI IÊN_5 NC_5 |
+sễp	SI ÊN_3 PC_3 |
+phâ	PHI ÂN_0 |
+tuyy	TI WO_0 IN_0 YC_0 |
+giọn	ZI ON2_1 NC_1 |
+goặc	GI WO_1 AN3_1 KC_1 |
+vùnh	VI UN_4 NGC_4 |
+ngậu	NGI ÂN_1 UC_1 |
+xựt	XI ƯN_1 TC_1 |
+nghoẹo	NGI WO_1 EN_1 UC_1 |
+soét	SI WO_5 EN_5 TC_5 |
+ngướng	NGI ƯƠN_5 NGC_5 |
+sunh	SI UN_0 NGC_0 |
+hoẳng	HI WO_2 AN3_2 NGC_2 |
+sổi	SI ÔN_2 IC_2 |
+bch	BI KC_0 |
+hoặch	HI WO_1 AN3_1 KC_1 |
+truyệ	TRI WO_1 YÊN_1 |
+cuong	KI WO_0 ON1_0 NGC_0 |
+trua	TRI UÔN_0 |
+tyến	TI YÊN_5 NC_5 |
+vuot	VI WO_0 ON2_0 TC_0 |
+qom	KI ON2_0 MC_0 |
+xuệch	XI WO_1 ÊN_1 KC_1 |
+roép	RI WO_5 EN_5 PC_5 |
+chuất	CHI WO_5 ÂN_5 TC_5 |
+doạnh	ZI WO_1 AN1_1 NGC_1 |
+hoản	HI WO_2 AN2_2 NC_2 |
+khịa	KHI IAN_1 |
+uệ	WO_1 ÊN_1 |
+ngú	NGI UN_5 |
+giet	ZI EN_0 TC_0 |
+tue	TI WO_0 EN_0 |
+khiệp	KHI IÊN_1 PC_1 |
+cuat	KI UÔN_0 TC_0 |
+thâú	THI ÂN_5 UC_5 |
+nhuan	NHI UÔN_0 NC_0 |
+đèu	DI EN_4 UC_4 |
+vàp	VI AN2_4 PC_4 |
+nhiến	NHI IÊN_5 NC_5 |
+giúo	ZI UN_5 UC_5 |
+rui	RI UN_0 IC_0 |
+cet	KI EN_0 TC_0 |
+xủ	XI UN_2 |
+dyêu	ZI YÊN_0 UC_0 |
+ĩch	IN_3 KC_3 |
+ginh	ZI NGC_0 |
+ging	ZI NGC_0 |
+rỏng	RI ON1_2 NGC_2 |
+ghu	GI UN_0 |
+thữc	THI ƯN_3 KC_3 |
+kêy	KI ÊN_0 YC_0 |
+thười	THI ƯƠN_4 IC_4 |
+hầnh	HI ÂN_4 NGC_4 |
+tiề	TI IÊN_4 |
+mứo	MI ƯN_5 UC_5 |
+gộc	GI ÔN_1 KC_1 |
+nhước	NHI ƯƠN_5 KC_5 |
+chêt	CHI ÊN_0 TC_0 |
+truộc	TRI UÔN_1 KC_1 |
+mụm	MI UN_1 MC_1 |
+khoc	KHI ON1_0 KC_0 |
+thến	THI ÊN_5 NC_5 |
+cấo	KI ÂN_5 UC_5 |
+nóm	NI ON2_5 MC_5 |
+lướp	LI ƯƠN_5 PC_5 |
+câc	KI ÂN_0 KC_0 |
+ngẽn	NGI EN_3 NC_3 |
+ngỉ	NGI IN_2 |
+lữi	LI ƯN_3 IC_3 |
+doănh	ZI WO_0 AN3_0 NGC_0 |
+phươ	PHI ƯN_0 ƠC_0 |
+lm	LI MC_0 |
+đuòng	DI WO_4 ON1_4 NGC_4 |
+bý	BI IN_5 |
+dẹ	ZI EN_1 |
+ciến	KI IÊN_5 NC_5 |
+nộc	NI ÔN_1 KC_1 |
+quớ	KI UN_5 ƠC_5 |
+ghuây	GI WO_0 ÂN_0 YC_0 |
+lưở	LI ƯN_2 ƠC_2 |
+ẩ	ÂN_2 |
+ướng	ƯƠN_5 NGC_5 |
+bịy	BI IN_1 YC_1 |

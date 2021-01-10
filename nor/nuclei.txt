@@ -13,7 +13,8 @@ ON	o
 AN3	ă
 ƯƠN	ươ	
 ƯƠN	ưa
-UN	u
 ÔN	ô
 UÔN	uô
 UÔN	ua
+ƯN	ư
+ƠN	ơ

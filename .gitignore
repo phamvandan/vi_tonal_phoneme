@@ -1,1 +1,5 @@
 *.lst
+.vscode
+*.pyc
+nor/__pycache__/convert_sign_to_unsign_word.cpython-36.pyc
+.~lock.standard.csv#
