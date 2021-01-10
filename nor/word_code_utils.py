@@ -14,7 +14,7 @@ def load_encode(file_name):
         chars.append(temp[1])
     codes, chars = zip(
         *sorted(zip(codes, chars), key=lambda x: len(x[1]), reverse=True))
-    print(codes, chars)
+    # print(codes, chars)
     return codes, chars
 
 
@@ -30,7 +30,7 @@ def word_to_components(unsign_word, tone_type):
     O = ''
     N = ''
     w_temp = unsign_word
-    print(unsign_word)
+    # print(unsign_word)
     for c in i_chars:
         if unsign_word.startswith(c):
             I = c
@@ -54,7 +54,7 @@ def word_to_components(unsign_word, tone_type):
             unsign_word = unsign_word[1:]
     if unsign_word in n_chars:
         N = unsign_word
-    print(I, O, N, C)
+    # print(I, O, N, C)
     if w_temp != I + O + N + C:
         return None, tone_type
     else:
@@ -96,9 +96,9 @@ def words_componet_to_codes(component, tone_type):
 # def word_code_to_word_component(word_code):
 
 
-word = "nản"
-unsign_word, tone_type = convert(word)
-print(unsign_word)
-component, tone_type = word_to_components(unsign_word, tone_type)
-print(component)
+# word = "nản"
+# unsign_word, tone_type = convert(word)
+# print(unsign_word)
+# component, tone_type = word_to_components(unsign_word, tone_type)
+# print(component)
 # print(words_componet_to_codes(component, tone_type))

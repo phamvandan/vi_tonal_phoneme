@@ -5,13 +5,14 @@ UNK = "*"
 unks = []
 import sys
 root = sys.argv[1]
+standard_dict = pd.read_csv(os.path.join(root, "standard.csv"))
+s_words = list(standard_dict["word"])
+s_codes = standard_dict["code"]
+langs = standard_dict["lang"]
 
 def load_unks():
     global unks
-    standard_dict = pd.read_csv(os.path.join(root, "standard.csv"))
-    words = standard_dict["word"]
-    langs = standard_dict["lang"]
-    for index, word in enumerate(words):
+    for index, word in enumerate(s_words):
         if langs[index] == "another":
             unks.append(word)
 
@@ -40,6 +41,8 @@ def unk_from_lst(dir, save_dir):
             for index, word in enumerate(words):
                 if word in unks:
                     words[index] = UNK
+                else:
+                    words[index] = s_codes[s_words.index(word)]
             sentence = " ".join(words)
             temp = temp + "\t" + sentence
             f1.write(temp + "\n")

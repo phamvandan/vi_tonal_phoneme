@@ -6,7 +6,7 @@ root = sys.argv[1]
 
 freq_data = pd.read_csv(root + "freq.csv")
 
-words = freq_data["word"]
+words = list(freq_data["word"])
 freqs = freq_data["freq"]
 
 nor_word_lang = ''
@@ -16,6 +16,7 @@ nor_dict = []
 count = 0
 
 for index, word in enumerate(words):
+    word = str(word)
     unsign_word, tone_type = convert(word)
     component, tone_type = word_to_components(unsign_word, tone_type)
     if component is None or freqs[index]==1:
