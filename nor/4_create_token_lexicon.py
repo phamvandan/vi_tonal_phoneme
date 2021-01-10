@@ -1,8 +1,10 @@
 import pandas as pd
-
+import sys
+import os
 UNK = "*"
 SUR = "|"
-standard_dict = pd.read_csv("../standard.csv")
+root = sys.argv[1]
+standard_dict = pd.read_csv(os.path.join(root, "standard.csv"))
 tokens = []
 lexicons = []
 
@@ -37,8 +39,8 @@ for index, word in enumerate(words):
         if c_codes[index] not in tokens:
             tokens.append(c_codes[index])
 
-f_tokens = open("../tokens.txt", "w+")
-f_lexicons = open("../lexicons.txt", "w+")
+f_tokens = open(os.path.join(root, "tokens.txt"), "w+")
+f_lexicons = open(os.path.join(root, "lexicons.txt"), "w+")
 for token in tokens:
     f_tokens.write(str(token))
     f_tokens.write("\n")

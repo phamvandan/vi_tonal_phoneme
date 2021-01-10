@@ -3,11 +3,12 @@ import os
 import pandas as pd
 UNK = "*"
 unks = []
-
+import sys
+root = sys.argv[1]
 
 def load_unks():
     global unks
-    standard_dict = pd.read_csv("../standard.csv")
+    standard_dict = pd.read_csv(os.path.join(root, "standard.csv"))
     words = standard_dict["word"]
     langs = standard_dict["lang"]
     for index, word in enumerate(words):
@@ -46,4 +47,4 @@ def unk_from_lst(dir, save_dir):
         f1.close()
 
 
-unk_from_lst("../../prepare_all/temp", "../../prepare_all/nor_unk")
+unk_from_lst(os.path.join(root, "nor_number"), os.path.join(root, "nor_unk"))
