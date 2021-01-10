@@ -28,8 +28,6 @@ def load_unks():
 
 
 load_unks()
-f = None
-f1 = None
 def my_process(sentence):
     sentence = sentence.replace("\n", "")
     temp = sentence.split("\t")
@@ -47,7 +45,6 @@ def my_process(sentence):
 
 
 def unk_from_lst(dir, save_dir):
-    global f1, f
     filenames = os.listdir(dir)
     if not os.path.exists(save_dir):
         os.mkdir(save_dir)
