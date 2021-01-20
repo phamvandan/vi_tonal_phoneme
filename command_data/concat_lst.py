@@ -32,8 +32,8 @@ for filename in filenames:
             continue
         break
     break
-        elements[0] = "train_" + str(train_idx)
-        line = "\t".join(elements)
-        f_command.write(line)
-        train_idx += 1
+        # elements[0] = "train_" + str(train_idx)
+        # line = "\t".join(elements)
+        # f_command.write(line)
+        # train_idx += 1
 print("train_idx", train_idx)
