@@ -26,7 +26,7 @@ for filename in filenames:
         print(elements)
         if not os.path.exists(elements[1].replace("/root/src", "/media/trandat/E/dataset")):
             print("skip")
-        elements[0] = "train_" + str(train_idx)
+        elements[0] = "train_cm_" + str(train_idx)
         line = "\t".join(elements)
         f_command.write(line)
         train_idx += 1
