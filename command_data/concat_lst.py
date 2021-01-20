@@ -24,13 +24,11 @@ for filename in filenames:
     for line in lines:
         elements = line.split("\t")
         print(elements)
-        if not os.path.exists(elements[1]):
+        if not os.path.exists(elements[1].replace("/root/src", "/media/trandat/E/dataset")):
             print("skip")
-            continue
-        break
+        elements[0] = "train_" + str(train_idx)
+        line = "\t".join(elements)
+        f_command.write(line)
+        train_idx += 1
     break
-        # elements[0] = "train_" + str(train_idx)
-        # line = "\t".join(elements)
-        # f_command.write(line)
-        # train_idx += 1
 print("train_idx", train_idx)
