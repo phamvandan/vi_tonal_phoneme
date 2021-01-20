@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import sys
 import re
-from sklearn.utils import shuffle
+# from sklearn.utils import shuffle
 """ .lst dir save dir"""
 lst_dir = sys.argv[1]
 save_dir = sys.argv[2]
@@ -21,10 +21,7 @@ for filename in filenames:
     f_lst = open(os.path.join(lst_dir, filename))
     lines = f_lst.readlines()
     length = len(lines)
-    index = shuffle(list(range(length)))
-    train_lines = [lines[i] for i in train_idxs]
-    test_lines = [lines[i] for i in test_idxs]
-    for line in train_lines:
+    for line in lines:
         elements = line.split("\t")
         print(elements)
         if not os.path.exists(elements[1]):
