@@ -34,6 +34,7 @@ for filename in filenames:
         ## CHECK IF PATH OF THE AUDIO EXISTED
         if not os.path.exists(elements[1]):
             print("skip")
+            continue
         data["audio_path"] = elements[1]
         data["duration"] = float(elements[2])
         data["text"] = elements[3]
