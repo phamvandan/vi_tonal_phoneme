@@ -14,39 +14,37 @@ def check(dir):
             sentence = sentence.split("\t")[3]
             if re.search(rg, sentence):
                 print(sentence)
+import json
 
 def get_unvalid_from_lst(dir, save_dir):
     filenames = os.listdir(dir)
     uniChars = "àáảãạâầấẩẫậăằắẳẵặèéẻẽẹêềếểễệđìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵÀÁẢÃẠÂẦẤẨẪẬĂẰẮẲẴẶÈÉẺẼẸÊỀẾỂỄỆĐÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴÂĂĐÔƠƯ"
     rg = r"[^a-zA-Z "+uniChars+"]+"
     for filename in filenames:
-        if ".lst" not in filename:
+        if ".json" not in filename:
             continue
         print("PROCESS", filename)
-        f = open(os.path.join(dir, filename))
+        # f = open(os.path.join(dir, filename))
+        f  =json.load(os.path.join(dir, filename))
         f1 = open(os.path.join(save_dir, filename), "w+")
         while True:
             sentence = f.readline().replace("\n", "")
+            sentence = json.loads(sentence)
             t = sentence
             if sentence == "":
                 break
             try:
-                temp = sentence.split("\t")
-                temp = temp[0] + "\t" + temp[1] + "\t" + temp[2]
-                sentence = sentence.split("\t")[3]
-                # if "<unk>" in sentence:
-                #     sentence = sentence.replace("<unk>", "")
-                sentence = sentence.lower()
-                sentence = re.sub(rg, lambda x:read_number_and_normalize_text(x.group()).strip(), sentence)
-                sentence = " ".join(sentence.split()).strip()
-                if len(sentence)==0:
-                    print("skip", temp, sentence)
+                sentence["text"] = sentence["text"].lower()
+                sentence["text"] = re.sub(rg, lambda x:read_number_and_normalize_text(x.group()).strip(), sentence["text"])
+                sentence["text"] = " ".join(sentence["text"].split()).strip()
+                if len(sentence["text"])==0:
+                    print("skip",sentence["text"])
                     continue
                 # if re.search(rg, sentence):
                 #     print("SKIP", sentence)
                 #     continue
-                temp = temp + "\t" + sentence
-                f1.write(temp + "\n")
+                json.dump(sentence, f1)
+                f1.write("\n")
             except:
                 print("here", t, "here")
                 break
@@ -262,6 +260,10 @@ def read_number_and_normalize_text(invalid):
             txt += number_text(text) + " "
     return txt
 
+import sys
+
 if __name__ == '__main__':
-    get_unvalid_from_lst("../../out/origin_lst", "../../out/nor_number")
+    folder_jsons = sys.argv[1]
+    save_dir = sys.argv[2]
+    get_unvalid_from_lst(folder_jsons, save_dir)
     # check("../../out/nor_number")
