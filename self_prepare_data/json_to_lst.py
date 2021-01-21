@@ -8,6 +8,7 @@ import json
 import argparse
 import os
 import regex as re
+import json
 
 def load_filenames(save_name):
     filenames = []
@@ -53,10 +54,13 @@ if __name__ == "__main__":
     args.add_argument("-i", "--in_file", type=str)
     args.add_argument("-o", "--out_dir", type=str)
     args = args.parse_args()
+
     data_file = open(args.in_file, "r")
-    filename = args.in_file.split("/")[-1].split(".")[0] + ".lst"
+    filename = args.in_file.split("/")[-1].split(".")[0] + ".json"
     out_file = os.path.join(args.out_dir, filename)
     train_lst_f = open(out_file, "w+")
+    
+    data = {}
     sentence_count = 0
     while True:
         data_line = data_file.readline().replace("\n", "")
@@ -84,8 +88,10 @@ if __name__ == "__main__":
             print("not existed")
             print(path)
             continue
-        train_lst_f.write("train"+str(sentence_count)+"\t"+
-                          path+"\t"+str(my_dict["duration"])+"\t"+sentence_text)
+        data["audio_path"] = my_dict["audio_path"]
+        data["duration"] = float(my_dict["duration"])
+        data["text"] = my_dict["text"]
+        json.dump(data, train_lst_f)
         train_lst_f.write("\n")
         if sentence_count % 500 == 0:
             print("processed {} sentence".format(sentence_count))
