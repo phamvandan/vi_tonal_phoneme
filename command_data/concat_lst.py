@@ -30,4 +30,4 @@ for filename in filenames:
         line = "\t".join(elements)
         f_command.write(line)
         train_idx += 1
-print("train_idx", train_idx)
+print("train_idx", train_idx, "_")
