@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import sys
 import re
+import json
 # from sklearn.utils import shuffle
 
 # root directory contain json file
@@ -37,5 +38,6 @@ for filename in filenames:
         data["duration"] = float(elements[2])
         data["text"] = elements[3]
         json.dump(data, f_command)
+        f_command.write("\n")
         train_idx += 1
 print("total sentence", train_idx)
