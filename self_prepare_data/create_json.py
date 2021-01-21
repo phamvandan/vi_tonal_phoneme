@@ -8,6 +8,7 @@ import json
 import argparse
 import os
 import regex as re
+import json
 
 def load_filenames(save_name):
     filenames = []
@@ -53,10 +54,13 @@ if __name__ == "__main__":
     args.add_argument("-i", "--in_file", type=str)
     args.add_argument("-o", "--out_dir", type=str)
     args = args.parse_args()
+
     data_file = open(args.in_file, "r")
-    filename = args.in_file.split("/")[-1].split(".")[0] + ".lst"
+    filename = args.in_file.split("/")[-1].split(".")[0] + ".json"
     out_file = os.path.join(args.out_dir, filename)
     train_lst_f = open(out_file, "w+")
+    
+    data = {}
     sentence_count = 0
     while True:
         data_line = data_file.readline().replace("\n", "")
@@ -66,6 +70,12 @@ if __name__ == "__main__":
         sentence_text = my_dict["text"]
         try:
             sentence_text = covert_unicode(sentence_text)
+            sentence_text = sentence_text.replace("\n", " ").replace("\t", " ").lower()
+            sentence_texts = sentence_text.split()
+            sentence_text = " ".join(sentence_texts)
+            if "\t" in sentence_text:
+                print("HERES")
+                print(sentence_text)
         except:
             print("ERROR")
             continue
@@ -73,14 +83,16 @@ if __name__ == "__main__":
         # if not my_dict["key"].split("/")[-1] in existed_audio_names:
         #     print(my_dict["key"], "not existed")
         #     continue
-        path = my_dict["key"].split("/")[-3] + my_dict["key"].split("/")[-2] + my_dict["key"].split("/")[-1]
-        path = os.path.join("/media/trandat/E/speech_data/VLSP_2019/VLSP_2019_16k", path)
+        path = my_dict["audio_path"]
         if not os.path.exists(path):
+            print("not existed")
             print(path)
             continue
-        train_lst_f.write("train"+str(sentence_count)+"\t"+
-                          path+"\t"+str(my_dict["duration"])+"\t"+sentence_text)
+        data["audio_path"] = my_dict["audio_path"]
+        data["duration"] = float(my_dict["duration"])
+        data["text"] = sentence_text
+        json.dump(data, train_lst_f)
         train_lst_f.write("\n")
         if sentence_count % 500 == 0:
             print("processed {} sentence".format(sentence_count))
-    print("total sentences=", sentence_count)
+    print("total sentences=", sentence_count)   

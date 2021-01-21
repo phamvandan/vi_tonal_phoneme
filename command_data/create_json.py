@@ -1,26 +1,8 @@
-''' Convert json to our lst format'''
-# pylint: disable=missing-module-docstring
-# pylint: disable=redefined-outer-name
-# pylint: disable=unnecessary-lambda
-# pylint: disable=missing-function-docstring
-# pylint: disable=invalid-name
-import json
-import argparse
+import pandas as pd
 import os
-import regex as re
+import sys
+import re
 import json
-
-def load_filenames(save_name):
-    filenames = []
-    f = open(save_name)
-    while True:
-        filename = f.readline().replace("\n", "")
-        if filename == "":
-            break
-        filenames.append(filename)
-    return filenames
-
-# existed_audio_names = load_filenames("./file_name.txt")
 
 def loaddicchar():
     dic = {}
@@ -49,50 +31,42 @@ UNSIGNCHARS = "aaaaaaaaaaaaaaaaaeeeeeeeeeeediiiiiooooooooooooooooouuuuuuuuuu\
     uyyyyyAAAAAAAAAAAAAAAAAEEEEEEEEEEEDIIIOOOOOOOOOOOOOOOOOOOUUUUUUUUUUUYYYYYAADOOU"
 dicchar = loaddicchar()
 
-if __name__ == "__main__":
-    args = argparse.ArgumentParser()
-    args.add_argument("-i", "--in_file", type=str)
-    args.add_argument("-o", "--out_dir", type=str)
-    args = args.parse_args()
+# from sklearn.utils import shuffle
 
-    data_file = open(args.in_file, "r")
-    filename = args.in_file.split("/")[-1].split(".")[0] + ".json"
-    out_file = os.path.join(args.out_dir, filename)
-    train_lst_f = open(out_file, "w+")
-    
-    data = {}
-    sentence_count = 0
-    while True:
-        data_line = data_file.readline().replace("\n", "")
-        if data_line == "":
-            break
-        my_dict = json.loads(data_line)
-        sentence_text = my_dict["text"]
-        try:
-            sentence_text = covert_unicode(sentence_text)
-            sentence_text = sentence_text.replace("\n", " ").replace("\t", " ").lower()
-            sentence_texts = sentence_text.split()
-            sentence_text = " ".join(sentence_texts)
-            if "\t" in sentence_text:
-                print("HERES")
-                print(sentence_text)
-        except:
-            print("ERROR")
+# root directory contain json file
+lst_dir = sys.argv[1]
+# directory for save json file
+save_dir = sys.argv[2]
+
+
+
+filenames = []
+for path, subdirs, files in os.walk(lst_dir):
+    for name in files:
+        if ".lst" in name:
+            filenames.append(name)
+print("len(filenames)", len(filenames))
+if not os.path.exists(save_dir):
+    os.mkdir(save_dir)
+f_command = open(os.path.join(save_dir, "command.json"), "w+")
+train_idx = 0
+data = {}
+
+for filename in filenames:
+    print("PROCESS", filename)
+    f_lst = open(os.path.join(lst_dir, filename))
+    lines = f_lst.readlines()
+    length = len(lines)
+    for line in lines:
+        elements = line.split("\t")
+        ## CHECK IF PATH OF THE AUDIO EXISTED
+        if not os.path.exists(elements[1]):
+            print("skip")
             continue
-        sentence_count = sentence_count + 1
-        # if not my_dict["key"].split("/")[-1] in existed_audio_names:
-        #     print(my_dict["key"], "not existed")
-        #     continue
-        path = my_dict["audio_path"]
-        if not os.path.exists(path):
-            print("not existed")
-            print(path)
-            continue
-        data["audio_path"] = my_dict["audio_path"]
-        data["duration"] = float(my_dict["duration"])
-        data["text"] = my_dict["text"]
-        json.dump(data, train_lst_f)
-        train_lst_f.write("\n")
-        if sentence_count % 500 == 0:
-            print("processed {} sentence".format(sentence_count))
-    print("total sentences=", sentence_count)   
+        data["audio_path"] = elements[1]
+        data["duration"] = float(elements[2])
+        data["text"] = covert_unicode(elements[3])
+        json.dump(data, f_command)
+        f_command.write("\n")
+        train_idx += 1
+print("total sentence", train_idx)
