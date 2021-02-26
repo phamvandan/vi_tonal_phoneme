@@ -1,20 +1,9 @@
-IN	i
-IN	y
-EN	e
-ÊN	ê
-AN	a
-IÊN	iê
-IAN	ia
-YÊN	yê
-YAN	ya
-UN	u
-ON	o
-ÂN	â
-AN3	ă
-ƯƠN	ươ	
-ƯƠN	ưa
-ÔN	ô
-UÔN	uô
-UÔN	ua
-ƯN	ư
-ƠN	ơ
+{"yê":"iêz",
+"iê":"iêz",
+"ya":"iaz",
+"ia":"iaz",
+"ươ":"ươz",
+"ưa":"ưaz",
+"uô":"uaz",
+"ua":"uaz"}
+

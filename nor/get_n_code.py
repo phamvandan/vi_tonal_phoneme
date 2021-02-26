@@ -1,11 +1,10 @@
 import pandas as pd
 from convert_sign_to_unsign_word import convert
-from word_code_utils import *
+from word_code_utils import word_to_components, words_componet_to_codes
 import sys
 root = sys.argv[1]
 
 freq_data = open(root + "freq.txt")
-f_nor_dict = open(root + "standard.txt", 'w+')
 words = []
 freqs = []
 while True:
@@ -19,7 +18,7 @@ while True:
 nor_word_lang = ''
 nor_word_code = ''
 
-nor_dict = []
+n_codes = []
 count = 0
 
 for index, word in enumerate(words):
@@ -33,16 +32,15 @@ for index, word in enumerate(words):
         count += 1
     else:
         nor_word_lang = "vi"
-        # i_code, o_code, n_code, c_code = words_componet_to_codes(component, tone_type)
         i_code, o_code, n_code, c_code = component
-        # if i_code == "gi":
-        #     i_code = "d"
-        # if i_code == "ngh":
-        #     i_code = "ng"
-        # if i_code == "gh":
-        #     i_code = "g"
-        # if i_code == "k":
-        #     i_code = "c"
+        if i_code == "gi":
+            i_code = "d"
+        if i_code == "ngh":
+            i_code = "ng"
+        if i_code == "gh":
+            i_code = "g"
+        if i_code == "k":
+            i_code = "c"
         if i_code == "q":
             if o_code is "u":
                 i_code = "qu"
@@ -50,16 +48,13 @@ for index, word in enumerate(words):
         elif o_code == "u" or o_code == "o":
             n_code = o_code + n_code
             o_code = ""
-        # if n_code == "y":
-        #     n_code = "i"
-        w_code = i_code + o_code + n_code + c_code + str(tone_type)
-        convert_w = reconstruct_word(i_code, o_code, n_code, c_code, tone_type)
-        if convert_w is None:
-            nor_word_lang = "another"
-        nor_word_code = w_code
-    nor_dict.append([word, freqs[index], nor_word_lang, nor_word_code, i_code, o_code, n_code, c_code, str(tone_type), str(convert_w)])
+        if n_code == "y":
+            n_code = "i"
+        
+        if n_code not in n_codes:
+            n_codes.append(n_code)
 
-nor_dict = sorted(nor_dict, key = lambda x:x[2])
-for e in nor_dict:
-    f_nor_dict.write("\t".join(e) + "\n")
-print("another", count)
+n_codes = sorted(n_codes)
+
+for n_code in n_codes:
+    print(n_code)

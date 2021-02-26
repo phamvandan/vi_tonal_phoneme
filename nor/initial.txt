@@ -24,3 +24,4 @@ NGI	ngh
 GI	g
 GI	gh
 HI	h
+QU	qu

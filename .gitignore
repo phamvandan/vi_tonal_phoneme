@@ -3,3 +3,10 @@
 *.pyc
 nor/__pycache__/convert_sign_to_unsign_word.cpython-36.pyc
 .~lock.standard.csv#
+*.csv
+nor/__pycache__/convert_sign_to_unsign_word.cpython-36.pyc
+nor/data/
+out/freq.txt
+out/lexicons.txt
+out/standard.txt
+out/tokens.txt

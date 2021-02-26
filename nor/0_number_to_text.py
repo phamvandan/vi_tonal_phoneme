@@ -1,57 +1,5 @@
 import re, os
 
-def check(dir):
-    filenames = os.listdir(dir)
-    for filename in filenames:
-        print("PROCESS", filename)
-        f = open(os.path.join(dir, filename))
-        uniChars = "àáảãạâầấẩẫậăằắẳẵặèéẻẽẹêềếểễệđìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵÀÁẢÃẠÂẦẤẨẪẬĂẰẮẲẴẶÈÉẺẼẸÊỀẾỂỄỆĐÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴÂĂĐÔƠƯ"
-        rg = r"[^a-zA-Z " + uniChars + "]+"
-        while True:
-            sentence = f.readline().replace("\n", "")
-            if sentence == "":
-                break
-            sentence = sentence.split("\t")[3]
-            if re.search(rg, sentence):
-                print(sentence)
-
-def get_unvalid_from_lst(dir, save_dir):
-    filenames = os.listdir(dir)
-    uniChars = "àáảãạâầấẩẫậăằắẳẵặèéẻẽẹêềếểễệđìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵÀÁẢÃẠÂẦẤẨẪẬĂẰẮẲẴẶÈÉẺẼẸÊỀẾỂỄỆĐÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴÂĂĐÔƠƯ"
-    rg = r"[^a-zA-Z "+uniChars+"]+"
-    for filename in filenames:
-        if ".lst" not in filename:
-            continue
-        print("PROCESS", filename)
-        f = open(os.path.join(dir, filename))
-        f1 = open(os.path.join(save_dir, filename), "w+")
-        while True:
-            sentence = f.readline().replace("\n", "")
-            t = sentence
-            if sentence == "":
-                break
-            try:
-                temp = sentence.split("\t")
-                temp = temp[0] + "\t" + temp[1] + "\t" + temp[2]
-                sentence = sentence.split("\t")[3]
-                # if "<unk>" in sentence:
-                #     sentence = sentence.replace("<unk>", "")
-                sentence = sentence.lower()
-                sentence = re.sub(rg, lambda x:read_number_and_normalize_text(x.group()).strip(), sentence)
-                sentence = " ".join(sentence.split()).strip()
-                if len(sentence)==0:
-                    print("skip", temp, sentence)
-                    continue
-                # if re.search(rg, sentence):
-                #     print("SKIP", sentence)
-                #     continue
-                temp = temp + "\t" + sentence
-                f1.write(temp + "\n")
-            except:
-                print("here", t, "here")
-                break
-        f.close()
-        f1.close()
 
 def one_number_process(number):
     one_number = {
@@ -262,6 +210,43 @@ def read_number_and_normalize_text(invalid):
             txt += number_text(text) + " "
     return txt
 
+def get_unvalid_from_lst(dir, save_dir):
+    filenames = os.listdir(dir)
+    uniChars = "àáảãạâầấẩẫậăằắẳẵặèéẻẽẹêềếểễệđìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵÀÁẢÃẠÂẦẤẨẪẬĂẰẮẲẴẶÈÉẺẼẸÊỀẾỂỄỆĐÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴÂĂĐÔƠƯ"
+    rg = r"[^a-zA-Z "+uniChars+"]+"
+    for filename in filenames:
+        if ".lst" not in filename:
+            continue
+        print("PROCESS", filename)
+        f = open(os.path.join(dir, filename))
+        f1 = open(os.path.join(save_dir, filename), "w+")
+        while True:
+            sentence = f.readline().replace("\n", "")
+            t = sentence
+            if sentence == "":
+                break
+            try:
+                temp = sentence.split("\t")
+                temp = temp[0] + "\t" + temp[1] + "\t" + temp[2]
+                sentence = sentence.split("\t")[3]
+                # if "<unk>" in sentence:
+                #     sentence = sentence.replace("<unk>", "")
+                sentence = sentence.lower()
+                sentence = re.sub(rg, lambda x:read_number_and_normalize_text(x.group()).strip(), sentence)
+                sentence = " ".join(sentence.split()).strip()
+                if len(sentence)==0:
+                    print("skip", temp, sentence)
+                    continue
+                # if re.search(rg, sentence):
+                #     print("SKIP", sentence)
+                #     continue
+                temp = temp + "\t" + sentence
+                f1.write(temp + "\n")
+            except:
+                print("here", t, "here")
+                break
+        f.close()
+        f1.close()
+
 if __name__ == '__main__':
     get_unvalid_from_lst("../../out/origin_lst", "../../out/nor_number")
-    # check("../../out/nor_number")
