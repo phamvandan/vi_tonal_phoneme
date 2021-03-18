@@ -1,6 +1,6 @@
 from convert_sign_to_unsign_word import *
 
-I = "b,ch,đ,ph,h,d,k,qu,c,l,m,n,nh,ng,ngh,p,x,s,t,th,tr,v,kh,g,gh,gi,r,cz,ngz,gz"
+I = "b,ch,đ,ph,h,d,k,qu,c,l,m,n,nh,ng,ngh,p,x,s,t,th,tr,v,kh,g,gh,gi,r,C,N,G"
 I = I.split(",")
 I = sorted(I, key=lambda x:len(x), reverse=True)
 print(I)
@@ -38,40 +38,44 @@ def word_to_components(word):
 0
 def encode_i(initial_char):
     if initial_char in ["c","k"]:
-        return "cz"
+        return "C"
     elif initial_char in ["ng","ngh"]:
-        return "ngz"
+        return "N"
     elif initial_char in ["g","gh"]:
-        return "gz"
+        return "G"
     return initial_char
 
 def decode_i(initial_char, word, tone_type):
     # if len(initial_char) == len(word):
     #     return initial_char[:-1]
     after_c = word[len(initial_char):len(initial_char)+1]
-    if initial_char == "gz":
+    if initial_char == "G":
         if after_c == "i" and tone_type == 4:
             return "gh"
-    if after_c in ["i","y","e","ê"]:
-        if initial_char == "cz":
+    if after_c in ["i","y","e","ê", "I", "A", "Y"]:
+        if initial_char == "C":
             return "k"
-        if initial_char == "ngz":
+        if initial_char == "N":
             return "ngh"
-        if initial_char == "gz":
+        if initial_char == "G":
             return "gh"
-    if initial_char in ["cz","ngz","gz"]:
-        return initial_char[:-1]
+    if initial_char == "C":
+        return "c"
+    elif initial_char == "N":
+        return "ng"
+    elif initial_char == "G":
+        return "g"
     return initial_char
 
-nuclei_map = {  "yê":"iêz",
-                "iê":"iêz",
-                "ya":"iaz",
-                "ia":"iaz",
-                "ươ":"ưaz",
-                "ưa":"ưaz",
-                "uô":"uaz",
-                "ua":"uaz",
-                "y":"iz" }
+nuclei_map = {  "yê":"I",
+                "iê":"I",
+                "ya":"A",
+                "ia":"A",
+                "ươ":"Ư",
+                "ưa":"Ư",
+                "uô":"U",
+                "ua":"U",
+                "y":"Y" }
 
 def encode_n(nuclei):
     for special_char in nuclei_map.keys():
@@ -82,22 +86,30 @@ def encode_n(nuclei):
 def decode_n(nuclei, codas, initial_char):
     for special_char in nuclei_map.values():
         if special_char in nuclei:
-            if special_char in ["iêz","iaz"]:
+            if special_char == "I":
                 if initial_char == "" and len(codas)>0:
-                    return nuclei.replace(special_char,"y" + special_char[1])
+                    return nuclei.replace(special_char,"yê")
                 if (initial_char == "" or initial_char[-1] != 'u') and nuclei.startswith(special_char):
-                    return nuclei.replace(special_char, special_char[:-1])
-                return nuclei.replace(special_char,"y" + special_char[1])
-            elif special_char in ["ưaz","uaz"]:
+                    return nuclei.replace(special_char,"iê")
+                return nuclei.replace(special_char,"yê")
+            elif special_char == "A":
+                if initial_char == "" and len(codas)>0:
+                    return nuclei.replace(special_char,"ya")
+                if (initial_char == "" or initial_char[-1] != 'u') and nuclei.startswith(special_char):
+                    return nuclei.replace(special_char,"ia")
+                return nuclei.replace(special_char,"ya")
+            elif special_char == "Ư":
                 if codas == "":
-                    return nuclei.replace(special_char,special_char[:-1])
-                if special_char == "uaz":
-                    return nuclei.replace(special_char, "uô")
+                    return nuclei.replace(special_char,"ưa")
                 return nuclei.replace(special_char, "ươ")
-            elif special_char == "iz":
+            elif special_char == "U":
+                if codas == "":
+                    return nuclei.replace(special_char,"ua")
+                return nuclei.replace(special_char, "uô")
+            elif special_char == "Y":
                 if (initial_char != "" and initial_char in ["k", "qu"]) or( nuclei != "" and nuclei[0] == "u"):
                     return nuclei.replace(special_char, "y")
-                return nuclei.replace(special_char, special_char[:-1])
+                return nuclei.replace(special_char, "i")
     return nuclei
 
 def encode_word(word):
@@ -117,15 +129,15 @@ def decode_word(word, tone_type):
 
 # print(i,n,codas,T)
 
-# result = decode_i["cz", "kiên", 4)
+# result = decode_i["C", "kiên", 4)
 # print(result)
 
 # print(decode_n("uy"))
 
-i,n,codas,T = encode_word("nguýt")
+i,n,codas,T = encode_word("nghiện")
 
 print(i,n,codas,T)
 
 # newword = i + n+ codas
 # print(newword)
-print(decode_word("ngzuizt", 5))
+print(decode_word("chuIn", 1))

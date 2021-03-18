@@ -1,7 +1,7 @@
 import pandas as pd
 from vn_word import encode_word, decode_word
 
-f = open("./final_dict.txt")
+f = open("./data/final_dict.txt")
 result = []
 
 words = f.readline()
