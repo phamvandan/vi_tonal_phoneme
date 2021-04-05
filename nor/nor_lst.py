@@ -8,7 +8,7 @@ save_dir = sys.argv[2]
 if not os.path.exists(save_dir):
     os.mkdir(save_dir)
 
-f = open("./temp/mapping_table.txt")
+f = open("./temp/error_dict.txt")
 error_word = []
 correct_word = []
 while True:
@@ -17,9 +17,7 @@ while True:
         break
     components = text_line.split("\t")
     error_word.append(components[0])
-    correct_word.append(components[1])
-# error_word = list(pd.read_csv("./temp/error_dict.csv")["word"])
-# correct_word = pd.read_csv("./temp/error_dict.csv")["decode"]
+    correct_word.append(components[2])
 
 check_dict = zip(error_word, correct_word)
 
@@ -43,13 +41,10 @@ for filename in filenames:
         for index, lx in enumerate(sentence):
             if len(lx)==0:
                 continue
-            # if lx in words:
-            sentence[index] = check_dict[lx]
+            if lx in error_word:
+                sentence[index] = check_dict[lx]
         count_sentence += 1
-        try:
-            sentences[3] = " ".join(sentence)
-        except:
-            continue
+        sentences[3] = " ".join(sentence)
         sentences = "\t".join(sentences)
         f_save.write(sentences + "\n")
         if count_sentence % 3000==0:
