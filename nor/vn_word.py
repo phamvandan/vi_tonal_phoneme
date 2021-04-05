@@ -125,19 +125,10 @@ def decode_word(word, tone_type):
     if n != "":
         n = decode_n(n, codas, i)
     return reconstruct_word(i,n,codas,tone_type)
-# i,n,codas,T = word_to_components["khồng"]
 
-# print(i,n,codas,T)
+if __name__ == "__main__":
+    i,n,codas,T = encode_word("nghiện")
 
-# result = decode_i["C", "kiên", 4)
-# print(result)
+    print(i,n,codas,T)
 
-# print(decode_n("uy"))
-
-i,n,codas,T = encode_word("nghiện")
-
-print(i,n,codas,T)
-
-# newword = i + n+ codas
-# print(newword)
-print(decode_word("chuIn", 1))
+    print(decode_word("chuIn", 1))

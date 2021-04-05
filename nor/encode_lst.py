@@ -2,13 +2,13 @@
 import pandas as pd
 import os, sys, re
 
-""" .lst dir save dir"""
+""" .lst dir; save dir; mapping_table_dir"""
 dir = sys.argv[1]
 save_dir = sys.argv[2]
 if not os.path.exists(save_dir):
     os.mkdir(save_dir)
-
-f = open("./temp/mapping_table.txt")
+mapping_table_dir = sys.argv[3]
+f = open(os.path.join(mapping_table_dir, "mapping_table.txt"))
 error_word = []
 correct_word = []
 while True:

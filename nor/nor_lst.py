@@ -2,13 +2,13 @@
 import pandas as pd
 import os, sys, re
 
-""" .lst dir save dir"""
+""" .lst dir; save dir; error_dict dir"""
 dir = sys.argv[1]
 save_dir = sys.argv[2]
 if not os.path.exists(save_dir):
     os.mkdir(save_dir)
-
-f = open("./temp/error_dict.txt")
+error_dict_dir = sys.argv[3]
+f = open(os.path.join(error_dict_dir, "error_dict.txt"))
 error_word = []
 correct_word = []
 while True:

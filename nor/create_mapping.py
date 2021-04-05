@@ -1,4 +1,5 @@
 import pandas as pd
+import sys, os
 from vn_word import encode_word, decode_word
 
 # dict_txt_path = "./data/final_dict.txt"
@@ -6,9 +7,10 @@ from vn_word import encode_word, decode_word
 result = []
 error = []
 # words = f.readline()
-f = open("./need_encode/out/vocab.txt")
-f_save = open("./need_encode/out/error_dict.txt", "w+")
-f_save2 = open("./need_encode/out/mapping_table.txt", "w+")
+vocab_dir = sys.argv[1]
+f = open(os.path.join(vocab_dir, "vocab.txt"))
+f_save = open(os.path.join(vocab_dir, "error_dict.txt"), "w+")
+f_save2 = open(os.path.join(vocab_dir, "mapping_table.txt"), "w+")
 words = f.readline().split("\t")
 # words = pd.read_csv("./temp/vocab1.csv")["word"]
 idx = -1
